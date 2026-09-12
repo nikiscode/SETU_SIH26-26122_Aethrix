@@ -1,0 +1,2385 @@
+ERMHDR	19.12	2026-01-01	Project	setu	setu	dbxDatabaseNoName	Project Management	INR
+%T	PROJECT
+%F	proj_id	proj_short_name
+%R	1	OIL
+%T	PROJWBS
+%F	wbs_id	proj_id	parent_wbs_id	wbs_name	wbs_short_name
+%R	100	1		OIL Project	OIL Project
+%R	101	1	100	Gas Compression Area	Gas Compression Area
+%R	102	1	101	Sec-1	Sec-1
+%R	103	1	102	Piping	Piping
+%R	104	1	101	Sec-2	Sec-2
+%R	105	1	104	Piping	Piping
+%R	106	1	101	Sec-3	Sec-3
+%R	107	1	106	Piping	Piping
+%R	108	1	101	Sec-4	Sec-4
+%R	109	1	108	Piping	Piping
+%R	110	1	101	North Bay	North Bay
+%R	111	1	110	Piping	Piping
+%R	112	1	101	South Bay	South Bay
+%R	113	1	112	Piping	Piping
+%R	114	1	102	Civil	Civil
+%R	115	1	104	Civil	Civil
+%R	116	1	106	Civil	Civil
+%R	117	1	108	Civil	Civil
+%R	118	1	110	Civil	Civil
+%R	119	1	112	Civil	Civil
+%R	120	1	102	Electrical	Electrical
+%R	121	1	104	Electrical	Electrical
+%R	122	1	106	Electrical	Electrical
+%R	123	1	108	Electrical	Electrical
+%R	124	1	110	Electrical	Electrical
+%R	125	1	112	Electrical	Electrical
+%R	126	1	102	Instrumentation	Instrumentation
+%R	127	1	104	Instrumentation	Instrumentation
+%R	128	1	106	Instrumentation	Instrumentation
+%R	129	1	108	Instrumentation	Instrumentation
+%R	130	1	110	Instrumentation	Instrumentation
+%R	131	1	112	Instrumentation	Instrumentation
+%R	132	1	102	Static Equipment	Static Equipment
+%R	133	1	104	Static Equipment	Static Equipment
+%R	134	1	106	Static Equipment	Static Equipment
+%R	135	1	108	Static Equipment	Static Equipment
+%R	136	1	110	Static Equipment	Static Equipment
+%R	137	1	112	Static Equipment	Static Equipment
+%R	138	1	100	Crude Gathering Station	Crude Gathering Stat
+%R	139	1	138	Sec-1	Sec-1
+%R	140	1	139	Piping	Piping
+%R	141	1	138	Sec-2	Sec-2
+%R	142	1	141	Piping	Piping
+%R	143	1	138	Sec-3	Sec-3
+%R	144	1	143	Piping	Piping
+%R	145	1	138	Sec-4	Sec-4
+%R	146	1	145	Piping	Piping
+%R	147	1	138	North Bay	North Bay
+%R	148	1	147	Piping	Piping
+%R	149	1	138	South Bay	South Bay
+%R	150	1	149	Piping	Piping
+%R	151	1	139	Civil	Civil
+%R	152	1	141	Civil	Civil
+%R	153	1	143	Civil	Civil
+%R	154	1	145	Civil	Civil
+%R	155	1	147	Civil	Civil
+%R	156	1	149	Civil	Civil
+%R	157	1	139	Electrical	Electrical
+%R	158	1	141	Electrical	Electrical
+%R	159	1	143	Electrical	Electrical
+%R	160	1	145	Electrical	Electrical
+%R	161	1	147	Electrical	Electrical
+%R	162	1	149	Electrical	Electrical
+%R	163	1	139	Instrumentation	Instrumentation
+%R	164	1	141	Instrumentation	Instrumentation
+%R	165	1	143	Instrumentation	Instrumentation
+%R	166	1	145	Instrumentation	Instrumentation
+%R	167	1	147	Instrumentation	Instrumentation
+%R	168	1	149	Instrumentation	Instrumentation
+%R	169	1	139	Static Equipment	Static Equipment
+%R	170	1	141	Static Equipment	Static Equipment
+%R	171	1	143	Static Equipment	Static Equipment
+%R	172	1	145	Static Equipment	Static Equipment
+%R	173	1	147	Static Equipment	Static Equipment
+%R	174	1	149	Static Equipment	Static Equipment
+%R	175	1	100	Utilities & Flare	Utilities & Flare
+%R	176	1	175	Sec-1	Sec-1
+%R	177	1	176	Piping	Piping
+%R	178	1	175	Sec-2	Sec-2
+%R	179	1	178	Piping	Piping
+%R	180	1	175	Sec-3	Sec-3
+%R	181	1	180	Piping	Piping
+%R	182	1	175	Sec-4	Sec-4
+%R	183	1	182	Piping	Piping
+%R	184	1	175	North Bay	North Bay
+%R	185	1	184	Piping	Piping
+%R	186	1	175	South Bay	South Bay
+%R	187	1	186	Piping	Piping
+%R	188	1	176	Civil	Civil
+%R	189	1	178	Civil	Civil
+%R	190	1	180	Civil	Civil
+%R	191	1	182	Civil	Civil
+%R	192	1	184	Civil	Civil
+%R	193	1	186	Civil	Civil
+%R	194	1	176	Electrical	Electrical
+%R	195	1	178	Electrical	Electrical
+%R	196	1	180	Electrical	Electrical
+%R	197	1	182	Electrical	Electrical
+%R	198	1	184	Electrical	Electrical
+%R	199	1	186	Electrical	Electrical
+%R	200	1	176	Instrumentation	Instrumentation
+%R	201	1	178	Instrumentation	Instrumentation
+%R	202	1	180	Instrumentation	Instrumentation
+%R	203	1	182	Instrumentation	Instrumentation
+%R	204	1	184	Instrumentation	Instrumentation
+%R	205	1	186	Instrumentation	Instrumentation
+%R	206	1	176	Static Equipment	Static Equipment
+%R	207	1	178	Static Equipment	Static Equipment
+%R	208	1	180	Static Equipment	Static Equipment
+%R	209	1	182	Static Equipment	Static Equipment
+%R	210	1	184	Static Equipment	Static Equipment
+%R	211	1	186	Static Equipment	Static Equipment
+%T	TASK
+%F	task_id	proj_id	wbs_id	task_code	task_name	task_type	status_code	target_start_date	target_end_date	act_start_date	act_end_date	phys_complete_pct
+%R	1000	1	103	OIL-A1-PIP-L6-0001	Erect Line 12"-CW-1001 Spools (Sec-1)	TT_Task	TK_NotStart	2026-07-15 08:00	2026-07-21 17:00			0
+%R	1001	1	105	OIL-A1-PIP-L6-0002	Erect Line 24"-PG-1002 Spools (Sec-2)	TT_Task	TK_NotStart	2026-05-26 08:00	2026-06-11 17:00			0
+%R	1002	1	107	OIL-A1-PIP-L6-0003	Erect Line 8"-PG-1003 Spools (Sec-3)	TT_Task	TK_NotStart	2026-04-16 08:00	2026-04-26 17:00			0
+%R	1003	1	109	OIL-A1-PIP-L6-0004	Erect Line 6"-HC-1004 Spools (Sec-4)	TT_Task	TK_NotStart	2026-07-19 08:00	2026-07-26 17:00			0
+%R	1004	1	111	OIL-A1-PIP-L6-0005	Erect Line 16"-CW-1005 Spools (North Bay)	TT_Task	TK_NotStart	2026-06-11 08:00	2026-06-19 17:00			0
+%R	1005	1	113	OIL-A1-PIP-L6-0006	Erect Line 24"-CW-1006 Spools (South Bay)	TT_Task	TK_NotStart	2026-06-12 08:00	2026-06-16 17:00			0
+%R	1006	1	103	OIL-A1-PIP-L6-0007	Fabricate Spools for Line 8"-HC-1007 (Sec-1)	TT_Task	TK_NotStart	2026-06-14 08:00	2026-07-01 17:00			0
+%R	1007	1	105	OIL-A1-PIP-L6-0008	Fabricate Spools for Line 12"-CW-1008 (Sec-2)	TT_Task	TK_NotStart	2026-06-13 08:00	2026-06-25 17:00			0
+%R	1008	1	107	OIL-A1-PIP-L6-0009	Fabricate Spools for Line 16"-FG-1009 (Sec-3)	TT_Task	TK_NotStart	2026-04-16 08:00	2026-05-02 17:00			0
+%R	1009	1	109	OIL-A1-PIP-L6-0010	Fabricate Spools for Line 12"-CW-1010 (Sec-4)	TT_Task	TK_NotStart	2026-07-07 08:00	2026-07-20 17:00			0
+%R	1010	1	111	OIL-A1-PIP-L6-0011	Fabricate Spools for Line 12"-HC-1011 (North Bay)	TT_Task	TK_NotStart	2026-05-05 08:00	2026-05-23 17:00			0
+%R	1011	1	113	OIL-A1-PIP-L6-0012	Fabricate Spools for Line 6"-FG-1012 (South Bay)	TT_Task	TK_NotStart	2026-07-01 08:00	2026-07-16 17:00			0
+%R	1012	1	103	OIL-A1-PIP-L6-0013	Weld Joints Line 6"-HC-1013 (Sec-1)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-07 17:00			0
+%R	1013	1	105	OIL-A1-PIP-L6-0014	Weld Joints Line 12"-CW-1014 (Sec-2)	TT_Task	TK_NotStart	2026-04-11 08:00	2026-04-19 17:00			0
+%R	1014	1	107	OIL-A1-PIP-L6-0015	Weld Joints Line 16"-FG-1015 (Sec-3)	TT_Task	TK_NotStart	2026-06-30 08:00	2026-07-16 17:00			0
+%R	1015	1	109	OIL-A1-PIP-L6-0016	Weld Joints Line 16"-CW-1016 (Sec-4)	TT_Task	TK_NotStart	2026-04-30 08:00	2026-05-10 17:00			0
+%R	1016	1	111	OIL-A1-PIP-L6-0017	Weld Joints Line 16"-CW-1017 (North Bay)	TT_Task	TK_NotStart	2026-05-24 08:00	2026-06-07 17:00			0
+%R	1017	1	113	OIL-A1-PIP-L6-0018	Weld Joints Line 24"-FG-1018 (South Bay)	TT_Task	TK_NotStart	2026-06-23 08:00	2026-06-27 17:00			0
+%R	1018	1	103	OIL-A1-PIP-L6-0019	Hydrotest Line 24"-HC-1019 (Sec-1)	TT_Task	TK_NotStart	2026-06-01 08:00	2026-06-16 17:00			0
+%R	1019	1	105	OIL-A1-PIP-L6-0020	Hydrotest Line 8"-PG-1020 (Sec-2)	TT_Task	TK_NotStart	2026-05-14 08:00	2026-05-18 17:00			0
+%R	1020	1	107	OIL-A1-PIP-L6-0021	Hydrotest Line 6"-CW-1021 (Sec-3)	TT_Task	TK_NotStart	2026-04-04 08:00	2026-04-09 17:00			0
+%R	1021	1	109	OIL-A1-PIP-L6-0022	Hydrotest Line 24"-HC-1022 (Sec-4)	TT_Task	TK_NotStart	2026-06-17 08:00	2026-07-01 17:00			0
+%R	1022	1	111	OIL-A1-PIP-L6-0023	Hydrotest Line 6"-PG-1023 (North Bay)	TT_Task	TK_NotStart	2026-05-10 08:00	2026-05-15 17:00			0
+%R	1023	1	113	OIL-A1-PIP-L6-0024	Hydrotest Line 6"-FG-1024 (South Bay)	TT_Task	TK_NotStart	2026-04-03 08:00	2026-04-12 17:00			0
+%R	1024	1	114	OIL-A1-CIV-L6-0025	Pour Foundation FDN-C-0225 (Sec-1)	TT_Task	TK_NotStart	2026-06-22 08:00	2026-06-27 17:00			0
+%R	1025	1	115	OIL-A1-CIV-L6-0026	Pour Foundation FDN-C-0226 (Sec-2)	TT_Task	TK_NotStart	2026-06-09 08:00	2026-06-22 17:00			0
+%R	1026	1	116	OIL-A1-CIV-L6-0027	Pour Foundation FDN-C-0227 (Sec-3)	TT_Task	TK_NotStart	2026-06-06 08:00	2026-06-24 17:00			0
+%R	1027	1	117	OIL-A1-CIV-L6-0028	Pour Foundation FDN-C-0228 (Sec-4)	TT_Task	TK_NotStart	2026-06-28 08:00	2026-07-12 17:00			0
+%R	1028	1	118	OIL-A1-CIV-L6-0029	Pour Foundation FDN-C-0229 (North Bay)	TT_Task	TK_NotStart	2026-05-31 08:00	2026-06-09 17:00			0
+%R	1029	1	119	OIL-A1-CIV-L6-0030	Pour Foundation FDN-C-0230 (South Bay)	TT_Task	TK_NotStart	2026-06-23 08:00	2026-07-07 17:00			0
+%R	1030	1	114	OIL-A1-CIV-L6-0031	Excavate for Foundation FDN-C-0231 (Sec-1)	TT_Task	TK_NotStart	2026-07-11 08:00	2026-07-24 17:00			0
+%R	1031	1	115	OIL-A1-CIV-L6-0032	Excavate for Foundation FDN-C-0232 (Sec-2)	TT_Task	TK_NotStart	2026-04-22 08:00	2026-04-29 17:00			0
+%R	1032	1	116	OIL-A1-CIV-L6-0033	Excavate for Foundation FDN-C-0233 (Sec-3)	TT_Task	TK_NotStart	2026-06-24 08:00	2026-07-08 17:00			0
+%R	1033	1	117	OIL-A1-CIV-L6-0034	Excavate for Foundation FDN-C-0234 (Sec-4)	TT_Task	TK_NotStart	2026-07-05 08:00	2026-07-12 17:00			0
+%R	1034	1	118	OIL-A1-CIV-L6-0035	Excavate for Foundation FDN-C-0235 (North Bay)	TT_Task	TK_NotStart	2026-06-04 08:00	2026-06-14 17:00			0
+%R	1035	1	119	OIL-A1-CIV-L6-0036	Excavate for Foundation FDN-C-0236 (South Bay)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-18 17:00			0
+%R	1036	1	114	OIL-A1-CIV-L6-0037	Rebar Fixing Foundation FDN-C-0237 (Sec-1)	TT_Task	TK_NotStart	2026-06-07 08:00	2026-06-10 17:00			0
+%R	1037	1	115	OIL-A1-CIV-L6-0038	Rebar Fixing Foundation FDN-C-0238 (Sec-2)	TT_Task	TK_NotStart	2026-06-19 08:00	2026-06-25 17:00			0
+%R	1038	1	116	OIL-A1-CIV-L6-0039	Rebar Fixing Foundation FDN-C-0239 (Sec-3)	TT_Task	TK_NotStart	2026-07-10 08:00	2026-07-16 17:00			0
+%R	1039	1	117	OIL-A1-CIV-L6-0040	Rebar Fixing Foundation FDN-C-0240 (Sec-4)	TT_Task	TK_NotStart	2026-06-04 08:00	2026-06-21 17:00			0
+%R	1040	1	118	OIL-A1-CIV-L6-0041	Rebar Fixing Foundation FDN-C-0241 (North Bay)	TT_Task	TK_NotStart	2026-06-17 08:00	2026-06-26 17:00			0
+%R	1041	1	119	OIL-A1-CIV-L6-0042	Rebar Fixing Foundation FDN-C-0242 (South Bay)	TT_Task	TK_NotStart	2026-06-11 08:00	2026-06-20 17:00			0
+%R	1042	1	114	OIL-A1-CIV-L6-0043	Backfill Around FDN-C-0243 (Sec-1)	TT_Task	TK_NotStart	2026-04-10 08:00	2026-04-20 17:00			0
+%R	1043	1	115	OIL-A1-CIV-L6-0044	Backfill Around FDN-C-0244 (Sec-2)	TT_Task	TK_NotStart	2026-04-19 08:00	2026-04-30 17:00			0
+%R	1044	1	116	OIL-A1-CIV-L6-0045	Backfill Around FDN-C-0245 (Sec-3)	TT_Task	TK_NotStart	2026-06-25 08:00	2026-07-05 17:00			0
+%R	1045	1	117	OIL-A1-CIV-L6-0046	Backfill Around FDN-C-0246 (Sec-4)	TT_Task	TK_NotStart	2026-05-11 08:00	2026-05-16 17:00			0
+%R	1046	1	118	OIL-A1-CIV-L6-0047	Backfill Around FDN-C-0247 (North Bay)	TT_Task	TK_NotStart	2026-05-20 08:00	2026-06-02 17:00			0
+%R	1047	1	119	OIL-A1-CIV-L6-0048	Backfill Around FDN-C-0248 (South Bay)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-19 17:00			0
+%R	1048	1	120	OIL-A1-ELE-L6-0049	Lay Cable CBL-EL-0449 (Sec-1)	TT_Task	TK_NotStart	2026-07-18 08:00	2026-07-29 17:00			0
+%R	1049	1	121	OIL-A1-ELE-L6-0050	Lay Cable CBL-EL-0450 (Sec-2)	TT_Task	TK_NotStart	2026-07-12 08:00	2026-07-20 17:00			0
+%R	1050	1	122	OIL-A1-ELE-L6-0051	Lay Cable CBL-EL-0451 (Sec-3)	TT_Task	TK_NotStart	2026-04-11 08:00	2026-04-21 17:00			0
+%R	1051	1	123	OIL-A1-ELE-L6-0052	Lay Cable CBL-EL-0452 (Sec-4)	TT_Task	TK_NotStart	2026-05-24 08:00	2026-06-04 17:00			0
+%R	1052	1	124	OIL-A1-ELE-L6-0053	Lay Cable CBL-EL-0453 (North Bay)	TT_Task	TK_NotStart	2026-04-21 08:00	2026-05-02 17:00			0
+%R	1053	1	125	OIL-A1-ELE-L6-0054	Lay Cable CBL-EL-0454 (South Bay)	TT_Task	TK_NotStart	2026-07-07 08:00	2026-07-16 17:00			0
+%R	1054	1	120	OIL-A1-ELE-L6-0055	Terminate Cable CBL-EL-0455 (Sec-1)	TT_Task	TK_NotStart	2026-04-05 08:00	2026-04-08 17:00			0
+%R	1055	1	121	OIL-A1-ELE-L6-0056	Terminate Cable CBL-EL-0456 (Sec-2)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-30 17:00			0
+%R	1056	1	122	OIL-A1-ELE-L6-0057	Terminate Cable CBL-EL-0457 (Sec-3)	TT_Task	TK_NotStart	2026-05-14 08:00	2026-05-23 17:00			0
+%R	1057	1	123	OIL-A1-ELE-L6-0058	Terminate Cable CBL-EL-0458 (Sec-4)	TT_Task	TK_NotStart	2026-06-20 08:00	2026-07-01 17:00			0
+%R	1058	1	124	OIL-A1-ELE-L6-0059	Terminate Cable CBL-EL-0459 (North Bay)	TT_Task	TK_NotStart	2026-06-25 08:00	2026-07-07 17:00			0
+%R	1059	1	125	OIL-A1-ELE-L6-0060	Terminate Cable CBL-EL-0460 (South Bay)	TT_Task	TK_NotStart	2026-05-05 08:00	2026-05-22 17:00			0
+%R	1060	1	120	OIL-A1-ELE-L6-0061	Install Cable Tray (Sec-1)	TT_Task	TK_NotStart	2026-04-05 08:00	2026-04-17 17:00			0
+%R	1061	1	121	OIL-A1-ELE-L6-0062	Install Cable Tray (Sec-2)	TT_Task	TK_NotStart	2026-05-31 08:00	2026-06-11 17:00			0
+%R	1062	1	122	OIL-A1-ELE-L6-0063	Install Cable Tray (Sec-3)	TT_Task	TK_NotStart	2026-07-14 08:00	2026-07-19 17:00			0
+%R	1063	1	123	OIL-A1-ELE-L6-0064	Install Cable Tray (Sec-4)	TT_Task	TK_NotStart	2026-06-20 08:00	2026-06-30 17:00			0
+%R	1064	1	124	OIL-A1-ELE-L6-0065	Install Cable Tray (North Bay)	TT_Task	TK_NotStart	2026-04-20 08:00	2026-05-02 17:00			0
+%R	1065	1	125	OIL-A1-ELE-L6-0066	Install Cable Tray (South Bay)	TT_Task	TK_NotStart	2026-04-18 08:00	2026-04-21 17:00			0
+%R	1066	1	120	OIL-A1-ELE-L6-0067	Install Transformer P-2467 (Sec-1)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-29 17:00			0
+%R	1067	1	121	OIL-A1-ELE-L6-0068	Install Transformer P-2468B (Sec-2)	TT_Task	TK_NotStart	2026-06-02 08:00	2026-06-13 17:00			0
+%R	1068	1	122	OIL-A1-ELE-L6-0069	Install Transformer K-2469B (Sec-3)	TT_Task	TK_NotStart	2026-04-09 08:00	2026-04-27 17:00			0
+%R	1069	1	123	OIL-A1-ELE-L6-0070	Install Transformer V-2470B (Sec-4)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-21 17:00			0
+%R	1070	1	124	OIL-A1-ELE-L6-0071	Install Transformer T-2471B (North Bay)	TT_Task	TK_NotStart	2026-06-18 08:00	2026-06-27 17:00			0
+%R	1071	1	125	OIL-A1-ELE-L6-0072	Install Transformer E-2472A (South Bay)	TT_Task	TK_NotStart	2026-06-12 08:00	2026-06-19 17:00			0
+%R	1072	1	126	OIL-A1-INS-L6-0073	Install Instrument Loop LP-IN-0773 (Sec-1)	TT_Task	TK_NotStart	2026-06-26 08:00	2026-07-14 17:00			0
+%R	1073	1	127	OIL-A1-INS-L6-0074	Install Instrument Loop LP-IN-0774 (Sec-2)	TT_Task	TK_NotStart	2026-06-10 08:00	2026-06-19 17:00			0
+%R	1074	1	128	OIL-A1-INS-L6-0075	Install Instrument Loop LP-IN-0775 (Sec-3)	TT_Task	TK_NotStart	2026-07-14 08:00	2026-07-31 17:00			0
+%R	1075	1	129	OIL-A1-INS-L6-0076	Install Instrument Loop LP-IN-0776 (Sec-4)	TT_Task	TK_NotStart	2026-04-19 08:00	2026-04-30 17:00			0
+%R	1076	1	130	OIL-A1-INS-L6-0077	Install Instrument Loop LP-IN-0777 (North Bay)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-21 17:00			0
+%R	1077	1	131	OIL-A1-INS-L6-0078	Install Instrument Loop LP-IN-0778 (South Bay)	TT_Task	TK_NotStart	2026-05-09 08:00	2026-05-16 17:00			0
+%R	1078	1	126	OIL-A1-INS-L6-0079	Loop Check LP-IN-0779 (Sec-1)	TT_Task	TK_NotStart	2026-05-12 08:00	2026-05-25 17:00			0
+%R	1079	1	127	OIL-A1-INS-L6-0080	Loop Check LP-IN-0780 (Sec-2)	TT_Task	TK_NotStart	2026-05-18 08:00	2026-05-23 17:00			0
+%R	1080	1	128	OIL-A1-INS-L6-0081	Loop Check LP-IN-0781 (Sec-3)	TT_Task	TK_NotStart	2026-05-06 08:00	2026-05-12 17:00			0
+%R	1081	1	129	OIL-A1-INS-L6-0082	Loop Check LP-IN-0782 (Sec-4)	TT_Task	TK_NotStart	2026-05-11 08:00	2026-05-20 17:00			0
+%R	1082	1	130	OIL-A1-INS-L6-0083	Loop Check LP-IN-0783 (North Bay)	TT_Task	TK_NotStart	2026-07-02 08:00	2026-07-07 17:00			0
+%R	1083	1	131	OIL-A1-INS-L6-0084	Loop Check LP-IN-0784 (South Bay)	TT_Task	TK_NotStart	2026-04-07 08:00	2026-04-14 17:00			0
+%R	1084	1	126	OIL-A1-INS-L6-0085	Install Impulse Tubing LP-IN-0785 (Sec-1)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-15 17:00			0
+%R	1085	1	127	OIL-A1-INS-L6-0086	Install Impulse Tubing LP-IN-0786 (Sec-2)	TT_Task	TK_NotStart	2026-04-22 08:00	2026-04-30 17:00			0
+%R	1086	1	128	OIL-A1-INS-L6-0087	Install Impulse Tubing LP-IN-0787 (Sec-3)	TT_Task	TK_NotStart	2026-07-07 08:00	2026-07-24 17:00			0
+%R	1087	1	129	OIL-A1-INS-L6-0088	Install Impulse Tubing LP-IN-0788 (Sec-4)	TT_Task	TK_NotStart	2026-06-11 08:00	2026-06-16 17:00			0
+%R	1088	1	130	OIL-A1-INS-L6-0089	Install Impulse Tubing LP-IN-0789 (North Bay)	TT_Task	TK_NotStart	2026-07-05 08:00	2026-07-21 17:00			0
+%R	1089	1	131	OIL-A1-INS-L6-0090	Install Impulse Tubing LP-IN-0790 (South Bay)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-14 17:00			0
+%R	1090	1	132	OIL-A1-STA-L6-0091	Erect Vessel K-2491B (Sec-1)	TT_Task	TK_NotStart	2026-05-05 08:00	2026-05-15 17:00			0
+%R	1091	1	133	OIL-A1-STA-L6-0092	Erect Vessel T-2492A (Sec-2)	TT_Task	TK_NotStart	2026-04-05 08:00	2026-04-21 17:00			0
+%R	1092	1	134	OIL-A1-STA-L6-0093	Erect Vessel P-2493 (Sec-3)	TT_Task	TK_NotStart	2026-07-19 08:00	2026-08-05 17:00			0
+%R	1093	1	135	OIL-A1-STA-L6-0094	Erect Vessel V-2494 (Sec-4)	TT_Task	TK_NotStart	2026-06-27 08:00	2026-07-03 17:00			0
+%R	1094	1	136	OIL-A1-STA-L6-0095	Erect Vessel K-2495 (North Bay)	TT_Task	TK_NotStart	2026-04-30 08:00	2026-05-04 17:00			0
+%R	1095	1	137	OIL-A1-STA-L6-0096	Erect Vessel E-2496B (South Bay)	TT_Task	TK_NotStart	2026-04-13 08:00	2026-04-18 17:00			0
+%R	1096	1	132	OIL-A1-STA-L6-0097	Grout Vessel T-2497A (Sec-1)	TT_Task	TK_NotStart	2026-04-01 08:00	2026-04-04 17:00			0
+%R	1097	1	133	OIL-A1-STA-L6-0098	Grout Vessel E-2498A (Sec-2)	TT_Task	TK_NotStart	2026-06-07 08:00	2026-06-17 17:00			0
+%R	1098	1	134	OIL-A1-STA-L6-0099	Grout Vessel T-2499B (Sec-3)	TT_Task	TK_NotStart	2026-04-03 08:00	2026-04-12 17:00			0
+%R	1099	1	135	OIL-A1-STA-L6-0100	Grout Vessel E-2500 (Sec-4)	TT_Task	TK_NotStart	2026-04-30 08:00	2026-05-18 17:00			0
+%R	1100	1	136	OIL-A1-STA-L6-0101	Grout Vessel E-2501B (North Bay)	TT_Task	TK_NotStart	2026-04-01 08:00	2026-04-13 17:00			0
+%R	1101	1	137	OIL-A1-STA-L6-0102	Grout Vessel V-2502A (South Bay)	TT_Task	TK_NotStart	2026-07-08 08:00	2026-07-17 17:00			0
+%R	1102	1	132	OIL-A1-STA-L6-0103	Align Exchanger E-2503A (Sec-1)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-11 17:00			0
+%R	1103	1	133	OIL-A1-STA-L6-0104	Align Exchanger P-2504B (Sec-2)	TT_Task	TK_NotStart	2026-04-07 08:00	2026-04-16 17:00			0
+%R	1104	1	134	OIL-A1-STA-L6-0105	Align Exchanger T-2505 (Sec-3)	TT_Task	TK_NotStart	2026-05-21 08:00	2026-06-07 17:00			0
+%R	1105	1	135	OIL-A1-STA-L6-0106	Align Exchanger P-2506 (Sec-4)	TT_Task	TK_NotStart	2026-04-24 08:00	2026-05-11 17:00			0
+%R	1106	1	136	OIL-A1-STA-L6-0107	Align Exchanger E-2507A (North Bay)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-17 17:00			0
+%R	1107	1	137	OIL-A1-STA-L6-0108	Align Exchanger E-2508A (South Bay)	TT_Task	TK_NotStart	2026-07-07 08:00	2026-07-16 17:00			0
+%R	1108	1	140	OIL-A2-PIP-L6-0109	Erect Line 12"-FG-1109 Spools (Sec-1)	TT_Task	TK_NotStart	2026-04-26 08:00	2026-05-10 17:00			0
+%R	1109	1	142	OIL-A2-PIP-L6-0110	Erect Line 16"-CW-1110 Spools (Sec-2)	TT_Task	TK_NotStart	2026-06-20 08:00	2026-07-06 17:00			0
+%R	1110	1	144	OIL-A2-PIP-L6-0111	Erect Line 16"-PG-1111 Spools (Sec-3)	TT_Task	TK_NotStart	2026-07-12 08:00	2026-07-16 17:00			0
+%R	1111	1	146	OIL-A2-PIP-L6-0112	Erect Line 8"-PG-1112 Spools (Sec-4)	TT_Task	TK_NotStart	2026-05-13 08:00	2026-05-17 17:00			0
+%R	1112	1	148	OIL-A2-PIP-L6-0113	Erect Line 12"-FG-1113 Spools (North Bay)	TT_Task	TK_NotStart	2026-04-04 08:00	2026-04-14 17:00			0
+%R	1113	1	150	OIL-A2-PIP-L6-0114	Erect Line 16"-HC-1114 Spools (South Bay)	TT_Task	TK_NotStart	2026-04-17 08:00	2026-05-05 17:00			0
+%R	1114	1	140	OIL-A2-PIP-L6-0115	Fabricate Spools for Line 6"-FG-1115 (Sec-1)	TT_Task	TK_NotStart	2026-07-20 08:00	2026-08-02 17:00			0
+%R	1115	1	142	OIL-A2-PIP-L6-0116	Fabricate Spools for Line 12"-PG-1116 (Sec-2)	TT_Task	TK_NotStart	2026-05-02 08:00	2026-05-18 17:00			0
+%R	1116	1	144	OIL-A2-PIP-L6-0117	Fabricate Spools for Line 6"-HC-1117 (Sec-3)	TT_Task	TK_NotStart	2026-05-25 08:00	2026-05-31 17:00			0
+%R	1117	1	146	OIL-A2-PIP-L6-0118	Fabricate Spools for Line 12"-PG-1118 (Sec-4)	TT_Task	TK_NotStart	2026-06-30 08:00	2026-07-17 17:00			0
+%R	1118	1	148	OIL-A2-PIP-L6-0119	Fabricate Spools for Line 8"-CW-1119 (North Bay)	TT_Task	TK_NotStart	2026-07-05 08:00	2026-07-11 17:00			0
+%R	1119	1	150	OIL-A2-PIP-L6-0120	Fabricate Spools for Line 12"-FG-1120 (South Bay)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-15 17:00			0
+%R	1120	1	140	OIL-A2-PIP-L6-0121	Weld Joints Line 16"-CW-1121 (Sec-1)	TT_Task	TK_NotStart	2026-05-07 08:00	2026-05-16 17:00			0
+%R	1121	1	142	OIL-A2-PIP-L6-0122	Weld Joints Line 6"-HC-1122 (Sec-2)	TT_Task	TK_NotStart	2026-04-30 08:00	2026-05-06 17:00			0
+%R	1122	1	144	OIL-A2-PIP-L6-0123	Weld Joints Line 6"-PG-1123 (Sec-3)	TT_Task	TK_NotStart	2026-05-18 08:00	2026-05-22 17:00			0
+%R	1123	1	146	OIL-A2-PIP-L6-0124	Weld Joints Line 8"-PG-1124 (Sec-4)	TT_Task	TK_NotStart	2026-04-25 08:00	2026-04-30 17:00			0
+%R	1124	1	148	OIL-A2-PIP-L6-0125	Weld Joints Line 24"-CW-1125 (North Bay)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-28 17:00			0
+%R	1125	1	150	OIL-A2-PIP-L6-0126	Weld Joints Line 6"-FG-1126 (South Bay)	TT_Task	TK_NotStart	2026-05-03 08:00	2026-05-07 17:00			0
+%R	1126	1	140	OIL-A2-PIP-L6-0127	Hydrotest Line 8"-PG-1127 (Sec-1)	TT_Task	TK_NotStart	2026-06-19 08:00	2026-07-01 17:00			0
+%R	1127	1	142	OIL-A2-PIP-L6-0128	Hydrotest Line 8"-PG-1128 (Sec-2)	TT_Task	TK_NotStart	2026-05-23 08:00	2026-05-29 17:00			0
+%R	1128	1	144	OIL-A2-PIP-L6-0129	Hydrotest Line 24"-CW-1129 (Sec-3)	TT_Task	TK_NotStart	2026-06-29 08:00	2026-07-10 17:00			0
+%R	1129	1	146	OIL-A2-PIP-L6-0130	Hydrotest Line 12"-FG-1130 (Sec-4)	TT_Task	TK_NotStart	2026-05-16 08:00	2026-06-01 17:00			0
+%R	1130	1	148	OIL-A2-PIP-L6-0131	Hydrotest Line 6"-FG-1131 (North Bay)	TT_Task	TK_NotStart	2026-04-01 08:00	2026-04-17 17:00			0
+%R	1131	1	150	OIL-A2-PIP-L6-0132	Hydrotest Line 16"-PG-1132 (South Bay)	TT_Task	TK_NotStart	2026-05-29 08:00	2026-06-06 17:00			0
+%R	1132	1	151	OIL-A2-CIV-L6-0133	Pour Foundation FDN-C-0333 (Sec-1)	TT_Task	TK_NotStart	2026-06-13 08:00	2026-06-27 17:00			0
+%R	1133	1	152	OIL-A2-CIV-L6-0134	Pour Foundation FDN-C-0334 (Sec-2)	TT_Task	TK_NotStart	2026-04-22 08:00	2026-04-27 17:00			0
+%R	1134	1	153	OIL-A2-CIV-L6-0135	Pour Foundation FDN-C-0335 (Sec-3)	TT_Task	TK_NotStart	2026-06-01 08:00	2026-06-14 17:00			0
+%R	1135	1	154	OIL-A2-CIV-L6-0136	Pour Foundation FDN-C-0336 (Sec-4)	TT_Task	TK_NotStart	2026-06-21 08:00	2026-07-01 17:00			0
+%R	1136	1	155	OIL-A2-CIV-L6-0137	Pour Foundation FDN-C-0337 (North Bay)	TT_Task	TK_NotStart	2026-04-06 08:00	2026-04-21 17:00			0
+%R	1137	1	156	OIL-A2-CIV-L6-0138	Pour Foundation FDN-C-0338 (South Bay)	TT_Task	TK_NotStart	2026-07-02 08:00	2026-07-11 17:00			0
+%R	1138	1	151	OIL-A2-CIV-L6-0139	Excavate for Foundation FDN-C-0339 (Sec-1)	TT_Task	TK_NotStart	2026-05-29 08:00	2026-06-10 17:00			0
+%R	1139	1	152	OIL-A2-CIV-L6-0140	Excavate for Foundation FDN-C-0340 (Sec-2)	TT_Task	TK_NotStart	2026-06-04 08:00	2026-06-21 17:00			0
+%R	1140	1	153	OIL-A2-CIV-L6-0141	Excavate for Foundation FDN-C-0341 (Sec-3)	TT_Task	TK_NotStart	2026-05-28 08:00	2026-06-14 17:00			0
+%R	1141	1	154	OIL-A2-CIV-L6-0142	Excavate for Foundation FDN-C-0342 (Sec-4)	TT_Task	TK_NotStart	2026-05-26 08:00	2026-06-09 17:00			0
+%R	1142	1	155	OIL-A2-CIV-L6-0143	Excavate for Foundation FDN-C-0343 (North Bay)	TT_Task	TK_NotStart	2026-07-03 08:00	2026-07-16 17:00			0
+%R	1143	1	156	OIL-A2-CIV-L6-0144	Excavate for Foundation FDN-C-0344 (South Bay)	TT_Task	TK_NotStart	2026-07-19 08:00	2026-07-24 17:00			0
+%R	1144	1	151	OIL-A2-CIV-L6-0145	Rebar Fixing Foundation FDN-C-0345 (Sec-1)	TT_Task	TK_NotStart	2026-06-27 08:00	2026-07-07 17:00			0
+%R	1145	1	152	OIL-A2-CIV-L6-0146	Rebar Fixing Foundation FDN-C-0346 (Sec-2)	TT_Task	TK_NotStart	2026-07-14 08:00	2026-07-31 17:00			0
+%R	1146	1	153	OIL-A2-CIV-L6-0147	Rebar Fixing Foundation FDN-C-0347 (Sec-3)	TT_Task	TK_NotStart	2026-06-04 08:00	2026-06-14 17:00			0
+%R	1147	1	154	OIL-A2-CIV-L6-0148	Rebar Fixing Foundation FDN-C-0348 (Sec-4)	TT_Task	TK_NotStart	2026-06-21 08:00	2026-07-02 17:00			0
+%R	1148	1	155	OIL-A2-CIV-L6-0149	Rebar Fixing Foundation FDN-C-0349 (North Bay)	TT_Task	TK_NotStart	2026-06-21 08:00	2026-07-05 17:00			0
+%R	1149	1	156	OIL-A2-CIV-L6-0150	Rebar Fixing Foundation FDN-C-0350 (South Bay)	TT_Task	TK_NotStart	2026-05-04 08:00	2026-05-19 17:00			0
+%R	1150	1	151	OIL-A2-CIV-L6-0151	Backfill Around FDN-C-0351 (Sec-1)	TT_Task	TK_NotStart	2026-04-30 08:00	2026-05-08 17:00			0
+%R	1151	1	152	OIL-A2-CIV-L6-0152	Backfill Around FDN-C-0352 (Sec-2)	TT_Task	TK_NotStart	2026-06-24 08:00	2026-07-07 17:00			0
+%R	1152	1	153	OIL-A2-CIV-L6-0153	Backfill Around FDN-C-0353 (Sec-3)	TT_Task	TK_NotStart	2026-05-24 08:00	2026-06-07 17:00			0
+%R	1153	1	154	OIL-A2-CIV-L6-0154	Backfill Around FDN-C-0354 (Sec-4)	TT_Task	TK_NotStart	2026-04-07 08:00	2026-04-10 17:00			0
+%R	1154	1	155	OIL-A2-CIV-L6-0155	Backfill Around FDN-C-0355 (North Bay)	TT_Task	TK_NotStart	2026-04-29 08:00	2026-05-15 17:00			0
+%R	1155	1	156	OIL-A2-CIV-L6-0156	Backfill Around FDN-C-0356 (South Bay)	TT_Task	TK_NotStart	2026-04-21 08:00	2026-04-28 17:00			0
+%R	1156	1	157	OIL-A2-ELE-L6-0157	Lay Cable CBL-EL-0557 (Sec-1)	TT_Task	TK_NotStart	2026-06-25 08:00	2026-07-06 17:00			0
+%R	1157	1	158	OIL-A2-ELE-L6-0158	Lay Cable CBL-EL-0558 (Sec-2)	TT_Task	TK_NotStart	2026-06-16 08:00	2026-07-03 17:00			0
+%R	1158	1	159	OIL-A2-ELE-L6-0159	Lay Cable CBL-EL-0559 (Sec-3)	TT_Task	TK_NotStart	2026-04-08 08:00	2026-04-11 17:00			0
+%R	1159	1	160	OIL-A2-ELE-L6-0160	Lay Cable CBL-EL-0560 (Sec-4)	TT_Task	TK_NotStart	2026-06-18 08:00	2026-06-27 17:00			0
+%R	1160	1	161	OIL-A2-ELE-L6-0161	Lay Cable CBL-EL-0561 (North Bay)	TT_Task	TK_NotStart	2026-07-14 08:00	2026-07-22 17:00			0
+%R	1161	1	162	OIL-A2-ELE-L6-0162	Lay Cable CBL-EL-0562 (South Bay)	TT_Task	TK_NotStart	2026-07-01 08:00	2026-07-04 17:00			0
+%R	1162	1	157	OIL-A2-ELE-L6-0163	Terminate Cable CBL-EL-0563 (Sec-1)	TT_Task	TK_NotStart	2026-04-29 08:00	2026-05-05 17:00			0
+%R	1163	1	158	OIL-A2-ELE-L6-0164	Terminate Cable CBL-EL-0564 (Sec-2)	TT_Task	TK_NotStart	2026-05-05 08:00	2026-05-21 17:00			0
+%R	1164	1	159	OIL-A2-ELE-L6-0165	Terminate Cable CBL-EL-0565 (Sec-3)	TT_Task	TK_NotStart	2026-04-22 08:00	2026-05-03 17:00			0
+%R	1165	1	160	OIL-A2-ELE-L6-0166	Terminate Cable CBL-EL-0566 (Sec-4)	TT_Task	TK_NotStart	2026-06-16 08:00	2026-06-26 17:00			0
+%R	1166	1	161	OIL-A2-ELE-L6-0167	Terminate Cable CBL-EL-0567 (North Bay)	TT_Task	TK_NotStart	2026-05-26 08:00	2026-06-05 17:00			0
+%R	1167	1	162	OIL-A2-ELE-L6-0168	Terminate Cable CBL-EL-0568 (South Bay)	TT_Task	TK_NotStart	2026-06-12 08:00	2026-06-20 17:00			0
+%R	1168	1	157	OIL-A2-ELE-L6-0169	Install Cable Tray (Sec-1)	TT_Task	TK_NotStart	2026-05-15 08:00	2026-05-22 17:00			0
+%R	1169	1	158	OIL-A2-ELE-L6-0170	Install Cable Tray (Sec-2)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-08 17:00			0
+%R	1170	1	159	OIL-A2-ELE-L6-0171	Install Cable Tray (Sec-3)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-24 17:00			0
+%R	1171	1	160	OIL-A2-ELE-L6-0172	Install Cable Tray (Sec-4)	TT_Task	TK_NotStart	2026-06-01 08:00	2026-06-07 17:00			0
+%R	1172	1	161	OIL-A2-ELE-L6-0173	Install Cable Tray (North Bay)	TT_Task	TK_NotStart	2026-05-04 08:00	2026-05-07 17:00			0
+%R	1173	1	162	OIL-A2-ELE-L6-0174	Install Cable Tray (South Bay)	TT_Task	TK_NotStart	2026-07-08 08:00	2026-07-26 17:00			0
+%R	1174	1	157	OIL-A2-ELE-L6-0175	Install Transformer T-2575 (Sec-1)	TT_Task	TK_NotStart	2026-07-08 08:00	2026-07-14 17:00			0
+%R	1175	1	158	OIL-A2-ELE-L6-0176	Install Transformer K-2576B (Sec-2)	TT_Task	TK_NotStart	2026-06-13 08:00	2026-06-25 17:00			0
+%R	1176	1	159	OIL-A2-ELE-L6-0177	Install Transformer K-2577 (Sec-3)	TT_Task	TK_NotStart	2026-04-01 08:00	2026-04-15 17:00			0
+%R	1177	1	160	OIL-A2-ELE-L6-0178	Install Transformer V-2578A (Sec-4)	TT_Task	TK_NotStart	2026-07-16 08:00	2026-07-27 17:00			0
+%R	1178	1	161	OIL-A2-ELE-L6-0179	Install Transformer V-2579B (North Bay)	TT_Task	TK_NotStart	2026-04-22 08:00	2026-04-28 17:00			0
+%R	1179	1	162	OIL-A2-ELE-L6-0180	Install Transformer E-2580A (South Bay)	TT_Task	TK_NotStart	2026-05-21 08:00	2026-05-26 17:00			0
+%R	1180	1	163	OIL-A2-INS-L6-0181	Install Instrument Loop LP-IN-0881 (Sec-1)	TT_Task	TK_NotStart	2026-06-09 08:00	2026-06-17 17:00			0
+%R	1181	1	164	OIL-A2-INS-L6-0182	Install Instrument Loop LP-IN-0882 (Sec-2)	TT_Task	TK_NotStart	2026-06-22 08:00	2026-06-26 17:00			0
+%R	1182	1	165	OIL-A2-INS-L6-0183	Install Instrument Loop LP-IN-0883 (Sec-3)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-17 17:00			0
+%R	1183	1	166	OIL-A2-INS-L6-0184	Install Instrument Loop LP-IN-0884 (Sec-4)	TT_Task	TK_NotStart	2026-05-13 08:00	2026-05-30 17:00			0
+%R	1184	1	167	OIL-A2-INS-L6-0185	Install Instrument Loop LP-IN-0885 (North Bay)	TT_Task	TK_NotStart	2026-07-02 08:00	2026-07-09 17:00			0
+%R	1185	1	168	OIL-A2-INS-L6-0186	Install Instrument Loop LP-IN-0886 (South Bay)	TT_Task	TK_NotStart	2026-05-04 08:00	2026-05-10 17:00			0
+%R	1186	1	163	OIL-A2-INS-L6-0187	Loop Check LP-IN-0887 (Sec-1)	TT_Task	TK_NotStart	2026-07-03 08:00	2026-07-15 17:00			0
+%R	1187	1	164	OIL-A2-INS-L6-0188	Loop Check LP-IN-0888 (Sec-2)	TT_Task	TK_NotStart	2026-04-27 08:00	2026-05-12 17:00			0
+%R	1188	1	165	OIL-A2-INS-L6-0189	Loop Check LP-IN-0889 (Sec-3)	TT_Task	TK_NotStart	2026-06-20 08:00	2026-07-02 17:00			0
+%R	1189	1	166	OIL-A2-INS-L6-0190	Loop Check LP-IN-0890 (Sec-4)	TT_Task	TK_NotStart	2026-07-04 08:00	2026-07-14 17:00			0
+%R	1190	1	167	OIL-A2-INS-L6-0191	Loop Check LP-IN-0891 (North Bay)	TT_Task	TK_NotStart	2026-06-26 08:00	2026-07-04 17:00			0
+%R	1191	1	168	OIL-A2-INS-L6-0192	Loop Check LP-IN-0892 (South Bay)	TT_Task	TK_NotStart	2026-05-24 08:00	2026-06-03 17:00			0
+%R	1192	1	163	OIL-A2-INS-L6-0193	Install Impulse Tubing LP-IN-0893 (Sec-1)	TT_Task	TK_NotStart	2026-06-19 08:00	2026-07-05 17:00			0
+%R	1193	1	164	OIL-A2-INS-L6-0194	Install Impulse Tubing LP-IN-0894 (Sec-2)	TT_Task	TK_NotStart	2026-04-05 08:00	2026-04-16 17:00			0
+%R	1194	1	165	OIL-A2-INS-L6-0195	Install Impulse Tubing LP-IN-0895 (Sec-3)	TT_Task	TK_NotStart	2026-07-18 08:00	2026-08-04 17:00			0
+%R	1195	1	166	OIL-A2-INS-L6-0196	Install Impulse Tubing LP-IN-0896 (Sec-4)	TT_Task	TK_NotStart	2026-05-14 08:00	2026-05-30 17:00			0
+%R	1196	1	167	OIL-A2-INS-L6-0197	Install Impulse Tubing LP-IN-0897 (North Bay)	TT_Task	TK_NotStart	2026-07-03 08:00	2026-07-17 17:00			0
+%R	1197	1	168	OIL-A2-INS-L6-0198	Install Impulse Tubing LP-IN-0898 (South Bay)	TT_Task	TK_NotStart	2026-04-02 08:00	2026-04-07 17:00			0
+%R	1198	1	169	OIL-A2-STA-L6-0199	Erect Vessel K-2599A (Sec-1)	TT_Task	TK_NotStart	2026-05-09 08:00	2026-05-24 17:00			0
+%R	1199	1	170	OIL-A2-STA-L6-0200	Erect Vessel T-2600 (Sec-2)	TT_Task	TK_NotStart	2026-07-09 08:00	2026-07-14 17:00			0
+%R	1200	1	171	OIL-A2-STA-L6-0201	Erect Vessel K-2601B (Sec-3)	TT_Task	TK_NotStart	2026-05-16 08:00	2026-06-01 17:00			0
+%R	1201	1	172	OIL-A2-STA-L6-0202	Erect Vessel T-2602A (Sec-4)	TT_Task	TK_NotStart	2026-06-30 08:00	2026-07-15 17:00			0
+%R	1202	1	173	OIL-A2-STA-L6-0203	Erect Vessel V-2603A (North Bay)	TT_Task	TK_NotStart	2026-05-16 08:00	2026-05-26 17:00			0
+%R	1203	1	174	OIL-A2-STA-L6-0204	Erect Vessel T-2604A (South Bay)	TT_Task	TK_NotStart	2026-06-21 08:00	2026-06-26 17:00			0
+%R	1204	1	169	OIL-A2-STA-L6-0205	Grout Vessel E-2605A (Sec-1)	TT_Task	TK_NotStart	2026-07-15 08:00	2026-07-28 17:00			0
+%R	1205	1	170	OIL-A2-STA-L6-0206	Grout Vessel K-2606 (Sec-2)	TT_Task	TK_NotStart	2026-04-10 08:00	2026-04-22 17:00			0
+%R	1206	1	171	OIL-A2-STA-L6-0207	Grout Vessel K-2607 (Sec-3)	TT_Task	TK_NotStart	2026-07-09 08:00	2026-07-26 17:00			0
+%R	1207	1	172	OIL-A2-STA-L6-0208	Grout Vessel T-2608B (Sec-4)	TT_Task	TK_NotStart	2026-06-28 08:00	2026-07-03 17:00			0
+%R	1208	1	173	OIL-A2-STA-L6-0209	Grout Vessel V-2609A (North Bay)	TT_Task	TK_NotStart	2026-04-11 08:00	2026-04-28 17:00			0
+%R	1209	1	174	OIL-A2-STA-L6-0210	Grout Vessel E-2610A (South Bay)	TT_Task	TK_NotStart	2026-05-31 08:00	2026-06-18 17:00			0
+%R	1210	1	169	OIL-A2-STA-L6-0211	Align Exchanger T-2611 (Sec-1)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-11 17:00			0
+%R	1211	1	170	OIL-A2-STA-L6-0212	Align Exchanger V-2612A (Sec-2)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-15 17:00			0
+%R	1212	1	171	OIL-A2-STA-L6-0213	Align Exchanger T-2613B (Sec-3)	TT_Task	TK_NotStart	2026-06-21 08:00	2026-07-05 17:00			0
+%R	1213	1	172	OIL-A2-STA-L6-0214	Align Exchanger K-2614 (Sec-4)	TT_Task	TK_NotStart	2026-06-05 08:00	2026-06-23 17:00			0
+%R	1214	1	173	OIL-A2-STA-L6-0215	Align Exchanger V-2615B (North Bay)	TT_Task	TK_NotStart	2026-05-14 08:00	2026-05-20 17:00			0
+%R	1215	1	174	OIL-A2-STA-L6-0216	Align Exchanger T-2616B (South Bay)	TT_Task	TK_NotStart	2026-05-07 08:00	2026-05-23 17:00			0
+%R	1216	1	177	OIL-A3-PIP-L6-0217	Erect Line 16"-FG-1217 Spools (Sec-1)	TT_Task	TK_NotStart	2026-05-16 08:00	2026-06-03 17:00			0
+%R	1217	1	179	OIL-A3-PIP-L6-0218	Erect Line 12"-FG-1218 Spools (Sec-2)	TT_Task	TK_NotStart	2026-07-11 08:00	2026-07-17 17:00			0
+%R	1218	1	181	OIL-A3-PIP-L6-0219	Erect Line 8"-FG-1219 Spools (Sec-3)	TT_Task	TK_NotStart	2026-07-10 08:00	2026-07-14 17:00			0
+%R	1219	1	183	OIL-A3-PIP-L6-0220	Erect Line 24"-HC-1220 Spools (Sec-4)	TT_Task	TK_NotStart	2026-05-09 08:00	2026-05-15 17:00			0
+%R	1220	1	185	OIL-A3-PIP-L6-0221	Erect Line 6"-CW-1221 Spools (North Bay)	TT_Task	TK_NotStart	2026-06-09 08:00	2026-06-24 17:00			0
+%R	1221	1	187	OIL-A3-PIP-L6-0222	Erect Line 8"-PG-1222 Spools (South Bay)	TT_Task	TK_NotStart	2026-04-13 08:00	2026-04-21 17:00			0
+%R	1222	1	177	OIL-A3-PIP-L6-0223	Fabricate Spools for Line 16"-PG-1223 (Sec-1)	TT_Task	TK_NotStart	2026-06-11 08:00	2026-06-22 17:00			0
+%R	1223	1	179	OIL-A3-PIP-L6-0224	Fabricate Spools for Line 8"-HC-1224 (Sec-2)	TT_Task	TK_NotStart	2026-06-12 08:00	2026-06-16 17:00			0
+%R	1224	1	181	OIL-A3-PIP-L6-0225	Fabricate Spools for Line 24"-PG-1225 (Sec-3)	TT_Task	TK_NotStart	2026-05-28 08:00	2026-06-02 17:00			0
+%R	1225	1	183	OIL-A3-PIP-L6-0226	Fabricate Spools for Line 16"-CW-1226 (Sec-4)	TT_Task	TK_NotStart	2026-04-11 08:00	2026-04-29 17:00			0
+%R	1226	1	185	OIL-A3-PIP-L6-0227	Fabricate Spools for Line 8"-PG-1227 (North Bay)	TT_Task	TK_NotStart	2026-07-19 08:00	2026-07-24 17:00			0
+%R	1227	1	187	OIL-A3-PIP-L6-0228	Fabricate Spools for Line 6"-CW-1228 (South Bay)	TT_Task	TK_NotStart	2026-05-02 08:00	2026-05-19 17:00			0
+%R	1228	1	177	OIL-A3-PIP-L6-0229	Weld Joints Line 6"-FG-1229 (Sec-1)	TT_Task	TK_NotStart	2026-06-20 08:00	2026-07-08 17:00			0
+%R	1229	1	179	OIL-A3-PIP-L6-0230	Weld Joints Line 12"-PG-1230 (Sec-2)	TT_Task	TK_NotStart	2026-06-23 08:00	2026-06-28 17:00			0
+%R	1230	1	181	OIL-A3-PIP-L6-0231	Weld Joints Line 12"-FG-1231 (Sec-3)	TT_Task	TK_NotStart	2026-04-08 08:00	2026-04-21 17:00			0
+%R	1231	1	183	OIL-A3-PIP-L6-0232	Weld Joints Line 24"-HC-1232 (Sec-4)	TT_Task	TK_NotStart	2026-07-12 08:00	2026-07-18 17:00			0
+%R	1232	1	185	OIL-A3-PIP-L6-0233	Weld Joints Line 8"-HC-1233 (North Bay)	TT_Task	TK_NotStart	2026-07-10 08:00	2026-07-23 17:00			0
+%R	1233	1	187	OIL-A3-PIP-L6-0234	Weld Joints Line 12"-PG-1234 (South Bay)	TT_Task	TK_NotStart	2026-06-17 08:00	2026-06-20 17:00			0
+%R	1234	1	177	OIL-A3-PIP-L6-0235	Hydrotest Line 24"-FG-1235 (Sec-1)	TT_Task	TK_NotStart	2026-05-20 08:00	2026-06-04 17:00			0
+%R	1235	1	179	OIL-A3-PIP-L6-0236	Hydrotest Line 8"-HC-1236 (Sec-2)	TT_Task	TK_NotStart	2026-05-04 08:00	2026-05-15 17:00			0
+%R	1236	1	181	OIL-A3-PIP-L6-0237	Hydrotest Line 8"-PG-1237 (Sec-3)	TT_Task	TK_NotStart	2026-05-06 08:00	2026-05-24 17:00			0
+%R	1237	1	183	OIL-A3-PIP-L6-0238	Hydrotest Line 24"-PG-1238 (Sec-4)	TT_Task	TK_NotStart	2026-04-26 08:00	2026-05-06 17:00			0
+%R	1238	1	185	OIL-A3-PIP-L6-0239	Hydrotest Line 24"-PG-1239 (North Bay)	TT_Task	TK_NotStart	2026-06-15 08:00	2026-06-18 17:00			0
+%R	1239	1	187	OIL-A3-PIP-L6-0240	Hydrotest Line 16"-PG-1240 (South Bay)	TT_Task	TK_NotStart	2026-05-21 08:00	2026-06-01 17:00			0
+%R	1240	1	188	OIL-A3-CIV-L6-0241	Pour Foundation FDN-C-0441 (Sec-1)	TT_Task	TK_NotStart	2026-04-28 08:00	2026-05-07 17:00			0
+%R	1241	1	189	OIL-A3-CIV-L6-0242	Pour Foundation FDN-C-0442 (Sec-2)	TT_Task	TK_NotStart	2026-05-22 08:00	2026-05-29 17:00			0
+%R	1242	1	190	OIL-A3-CIV-L6-0243	Pour Foundation FDN-C-0443 (Sec-3)	TT_Task	TK_NotStart	2026-07-10 08:00	2026-07-15 17:00			0
+%R	1243	1	191	OIL-A3-CIV-L6-0244	Pour Foundation FDN-C-0444 (Sec-4)	TT_Task	TK_NotStart	2026-04-03 08:00	2026-04-09 17:00			0
+%R	1244	1	192	OIL-A3-CIV-L6-0245	Pour Foundation FDN-C-0445 (North Bay)	TT_Task	TK_NotStart	2026-07-09 08:00	2026-07-20 17:00			0
+%R	1245	1	193	OIL-A3-CIV-L6-0246	Pour Foundation FDN-C-0446 (South Bay)	TT_Task	TK_NotStart	2026-07-17 08:00	2026-07-21 17:00			0
+%R	1246	1	188	OIL-A3-CIV-L6-0247	Excavate for Foundation FDN-C-0447 (Sec-1)	TT_Task	TK_NotStart	2026-04-05 08:00	2026-04-19 17:00			0
+%R	1247	1	189	OIL-A3-CIV-L6-0248	Excavate for Foundation FDN-C-0448 (Sec-2)	TT_Task	TK_NotStart	2026-06-30 08:00	2026-07-05 17:00			0
+%R	1248	1	190	OIL-A3-CIV-L6-0249	Excavate for Foundation FDN-C-0449 (Sec-3)	TT_Task	TK_NotStart	2026-04-24 08:00	2026-05-11 17:00			0
+%R	1249	1	191	OIL-A3-CIV-L6-0250	Excavate for Foundation FDN-C-0450 (Sec-4)	TT_Task	TK_NotStart	2026-05-16 08:00	2026-05-20 17:00			0
+%R	1250	1	192	OIL-A3-CIV-L6-0251	Excavate for Foundation FDN-C-0451 (North Bay)	TT_Task	TK_NotStart	2026-04-13 08:00	2026-04-20 17:00			0
+%R	1251	1	193	OIL-A3-CIV-L6-0252	Excavate for Foundation FDN-C-0452 (South Bay)	TT_Task	TK_NotStart	2026-07-07 08:00	2026-07-13 17:00			0
+%R	1252	1	188	OIL-A3-CIV-L6-0253	Rebar Fixing Foundation FDN-C-0453 (Sec-1)	TT_Task	TK_NotStart	2026-06-01 08:00	2026-06-16 17:00			0
+%R	1253	1	189	OIL-A3-CIV-L6-0254	Rebar Fixing Foundation FDN-C-0454 (Sec-2)	TT_Task	TK_NotStart	2026-07-01 08:00	2026-07-10 17:00			0
+%R	1254	1	190	OIL-A3-CIV-L6-0255	Rebar Fixing Foundation FDN-C-0455 (Sec-3)	TT_Task	TK_NotStart	2026-07-09 08:00	2026-07-26 17:00			0
+%R	1255	1	191	OIL-A3-CIV-L6-0256	Rebar Fixing Foundation FDN-C-0456 (Sec-4)	TT_Task	TK_NotStart	2026-07-15 08:00	2026-07-25 17:00			0
+%R	1256	1	192	OIL-A3-CIV-L6-0257	Rebar Fixing Foundation FDN-C-0457 (North Bay)	TT_Task	TK_NotStart	2026-04-24 08:00	2026-05-11 17:00			0
+%R	1257	1	193	OIL-A3-CIV-L6-0258	Rebar Fixing Foundation FDN-C-0458 (South Bay)	TT_Task	TK_NotStart	2026-05-02 08:00	2026-05-09 17:00			0
+%R	1258	1	188	OIL-A3-CIV-L6-0259	Backfill Around FDN-C-0459 (Sec-1)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-27 17:00			0
+%R	1259	1	189	OIL-A3-CIV-L6-0260	Backfill Around FDN-C-0460 (Sec-2)	TT_Task	TK_NotStart	2026-06-11 08:00	2026-06-29 17:00			0
+%R	1260	1	190	OIL-A3-CIV-L6-0261	Backfill Around FDN-C-0461 (Sec-3)	TT_Task	TK_NotStart	2026-05-01 08:00	2026-05-11 17:00			0
+%R	1261	1	191	OIL-A3-CIV-L6-0262	Backfill Around FDN-C-0462 (Sec-4)	TT_Task	TK_NotStart	2026-04-19 08:00	2026-04-22 17:00			0
+%R	1262	1	192	OIL-A3-CIV-L6-0263	Backfill Around FDN-C-0463 (North Bay)	TT_Task	TK_NotStart	2026-07-11 08:00	2026-07-23 17:00			0
+%R	1263	1	193	OIL-A3-CIV-L6-0264	Backfill Around FDN-C-0464 (South Bay)	TT_Task	TK_NotStart	2026-06-13 08:00	2026-06-21 17:00			0
+%R	1264	1	194	OIL-A3-ELE-L6-0265	Lay Cable CBL-EL-0665 (Sec-1)	TT_Task	TK_NotStart	2026-07-16 08:00	2026-07-21 17:00			0
+%R	1265	1	195	OIL-A3-ELE-L6-0266	Lay Cable CBL-EL-0666 (Sec-2)	TT_Task	TK_NotStart	2026-06-25 08:00	2026-07-04 17:00			0
+%R	1266	1	196	OIL-A3-ELE-L6-0267	Lay Cable CBL-EL-0667 (Sec-3)	TT_Task	TK_NotStart	2026-07-17 08:00	2026-07-21 17:00			0
+%R	1267	1	197	OIL-A3-ELE-L6-0268	Lay Cable CBL-EL-0668 (Sec-4)	TT_Task	TK_NotStart	2026-04-02 08:00	2026-04-18 17:00			0
+%R	1268	1	198	OIL-A3-ELE-L6-0269	Lay Cable CBL-EL-0669 (North Bay)	TT_Task	TK_NotStart	2026-04-05 08:00	2026-04-13 17:00			0
+%R	1269	1	199	OIL-A3-ELE-L6-0270	Lay Cable CBL-EL-0670 (South Bay)	TT_Task	TK_NotStart	2026-04-10 08:00	2026-04-16 17:00			0
+%R	1270	1	194	OIL-A3-ELE-L6-0271	Terminate Cable CBL-EL-0671 (Sec-1)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-05-02 17:00			0
+%R	1271	1	195	OIL-A3-ELE-L6-0272	Terminate Cable CBL-EL-0672 (Sec-2)	TT_Task	TK_NotStart	2026-05-02 08:00	2026-05-07 17:00			0
+%R	1272	1	196	OIL-A3-ELE-L6-0273	Terminate Cable CBL-EL-0673 (Sec-3)	TT_Task	TK_NotStart	2026-06-11 08:00	2026-06-14 17:00			0
+%R	1273	1	197	OIL-A3-ELE-L6-0274	Terminate Cable CBL-EL-0674 (Sec-4)	TT_Task	TK_NotStart	2026-05-30 08:00	2026-06-09 17:00			0
+%R	1274	1	198	OIL-A3-ELE-L6-0275	Terminate Cable CBL-EL-0675 (North Bay)	TT_Task	TK_NotStart	2026-05-05 08:00	2026-05-11 17:00			0
+%R	1275	1	199	OIL-A3-ELE-L6-0276	Terminate Cable CBL-EL-0676 (South Bay)	TT_Task	TK_NotStart	2026-04-18 08:00	2026-04-28 17:00			0
+%R	1276	1	194	OIL-A3-ELE-L6-0277	Install Cable Tray (Sec-1)	TT_Task	TK_NotStart	2026-06-28 08:00	2026-07-14 17:00			0
+%R	1277	1	195	OIL-A3-ELE-L6-0278	Install Cable Tray (Sec-2)	TT_Task	TK_NotStart	2026-05-22 08:00	2026-06-01 17:00			0
+%R	1278	1	196	OIL-A3-ELE-L6-0279	Install Cable Tray (Sec-3)	TT_Task	TK_NotStart	2026-06-06 08:00	2026-06-13 17:00			0
+%R	1279	1	197	OIL-A3-ELE-L6-0280	Install Cable Tray (Sec-4)	TT_Task	TK_NotStart	2026-04-24 08:00	2026-04-29 17:00			0
+%R	1280	1	198	OIL-A3-ELE-L6-0281	Install Cable Tray (North Bay)	TT_Task	TK_NotStart	2026-04-18 08:00	2026-05-04 17:00			0
+%R	1281	1	199	OIL-A3-ELE-L6-0282	Install Cable Tray (South Bay)	TT_Task	TK_NotStart	2026-06-26 08:00	2026-07-07 17:00			0
+%R	1282	1	194	OIL-A3-ELE-L6-0283	Install Transformer E-2683 (Sec-1)	TT_Task	TK_NotStart	2026-05-26 08:00	2026-06-05 17:00			0
+%R	1283	1	195	OIL-A3-ELE-L6-0284	Install Transformer E-2684A (Sec-2)	TT_Task	TK_NotStart	2026-04-08 08:00	2026-04-19 17:00			0
+%R	1284	1	196	OIL-A3-ELE-L6-0285	Install Transformer T-2685 (Sec-3)	TT_Task	TK_NotStart	2026-05-08 08:00	2026-05-24 17:00			0
+%R	1285	1	197	OIL-A3-ELE-L6-0286	Install Transformer V-2686B (Sec-4)	TT_Task	TK_NotStart	2026-05-07 08:00	2026-05-24 17:00			0
+%R	1286	1	198	OIL-A3-ELE-L6-0287	Install Transformer T-2687 (North Bay)	TT_Task	TK_NotStart	2026-05-29 08:00	2026-06-10 17:00			0
+%R	1287	1	199	OIL-A3-ELE-L6-0288	Install Transformer E-2688 (South Bay)	TT_Task	TK_NotStart	2026-04-29 08:00	2026-05-08 17:00			0
+%R	1288	1	200	OIL-A3-INS-L6-0289	Install Instrument Loop LP-IN-0989 (Sec-1)	TT_Task	TK_NotStart	2026-04-21 08:00	2026-05-01 17:00			0
+%R	1289	1	201	OIL-A3-INS-L6-0290	Install Instrument Loop LP-IN-0990 (Sec-2)	TT_Task	TK_NotStart	2026-05-08 08:00	2026-05-12 17:00			0
+%R	1290	1	202	OIL-A3-INS-L6-0291	Install Instrument Loop LP-IN-0991 (Sec-3)	TT_Task	TK_NotStart	2026-06-06 08:00	2026-06-21 17:00			0
+%R	1291	1	203	OIL-A3-INS-L6-0292	Install Instrument Loop LP-IN-0992 (Sec-4)	TT_Task	TK_NotStart	2026-05-14 08:00	2026-05-28 17:00			0
+%R	1292	1	204	OIL-A3-INS-L6-0293	Install Instrument Loop LP-IN-0993 (North Bay)	TT_Task	TK_NotStart	2026-07-10 08:00	2026-07-17 17:00			0
+%R	1293	1	205	OIL-A3-INS-L6-0294	Install Instrument Loop LP-IN-0994 (South Bay)	TT_Task	TK_NotStart	2026-06-03 08:00	2026-06-18 17:00			0
+%R	1294	1	200	OIL-A3-INS-L6-0295	Loop Check LP-IN-0995 (Sec-1)	TT_Task	TK_NotStart	2026-05-19 08:00	2026-06-05 17:00			0
+%R	1295	1	201	OIL-A3-INS-L6-0296	Loop Check LP-IN-0996 (Sec-2)	TT_Task	TK_NotStart	2026-06-07 08:00	2026-06-22 17:00			0
+%R	1296	1	202	OIL-A3-INS-L6-0297	Loop Check LP-IN-0997 (Sec-3)	TT_Task	TK_NotStart	2026-04-24 08:00	2026-05-06 17:00			0
+%R	1297	1	203	OIL-A3-INS-L6-0298	Loop Check LP-IN-0998 (Sec-4)	TT_Task	TK_NotStart	2026-05-12 08:00	2026-05-22 17:00			0
+%R	1298	1	204	OIL-A3-INS-L6-0299	Loop Check LP-IN-0999 (North Bay)	TT_Task	TK_NotStart	2026-06-12 08:00	2026-06-30 17:00			0
+%R	1299	1	205	OIL-A3-INS-L6-0300	Loop Check LP-IN-1000 (South Bay)	TT_Task	TK_NotStart	2026-07-15 08:00	2026-07-31 17:00			0
+%R	1300	1	200	OIL-A3-INS-L6-0301	Install Impulse Tubing LP-IN-1001 (Sec-1)	TT_Task	TK_NotStart	2026-04-02 08:00	2026-04-07 17:00			0
+%R	1301	1	201	OIL-A3-INS-L6-0302	Install Impulse Tubing LP-IN-1002 (Sec-2)	TT_Task	TK_NotStart	2026-06-23 08:00	2026-06-30 17:00			0
+%R	1302	1	202	OIL-A3-INS-L6-0303	Install Impulse Tubing LP-IN-1003 (Sec-3)	TT_Task	TK_NotStart	2026-05-14 08:00	2026-05-19 17:00			0
+%R	1303	1	203	OIL-A3-INS-L6-0304	Install Impulse Tubing LP-IN-1004 (Sec-4)	TT_Task	TK_NotStart	2026-04-23 08:00	2026-04-29 17:00			0
+%R	1304	1	204	OIL-A3-INS-L6-0305	Install Impulse Tubing LP-IN-1005 (North Bay)	TT_Task	TK_NotStart	2026-05-08 08:00	2026-05-17 17:00			0
+%R	1305	1	205	OIL-A3-INS-L6-0306	Install Impulse Tubing LP-IN-1006 (South Bay)	TT_Task	TK_NotStart	2026-04-14 08:00	2026-04-28 17:00			0
+%R	1306	1	206	OIL-A3-STA-L6-0307	Erect Vessel P-2707 (Sec-1)	TT_Task	TK_NotStart	2026-04-01 08:00	2026-04-13 17:00			0
+%R	1307	1	207	OIL-A3-STA-L6-0308	Erect Vessel P-2708 (Sec-2)	TT_Task	TK_NotStart	2026-07-08 08:00	2026-07-19 17:00			0
+%R	1308	1	208	OIL-A3-STA-L6-0309	Erect Vessel K-2709 (Sec-3)	TT_Task	TK_NotStart	2026-04-16 08:00	2026-04-23 17:00			0
+%R	1309	1	209	OIL-A3-STA-L6-0310	Erect Vessel P-2710 (Sec-4)	TT_Task	TK_NotStart	2026-06-06 08:00	2026-06-24 17:00			0
+%R	1310	1	210	OIL-A3-STA-L6-0311	Erect Vessel P-2711B (North Bay)	TT_Task	TK_NotStart	2026-05-12 08:00	2026-05-19 17:00			0
+%R	1311	1	211	OIL-A3-STA-L6-0312	Erect Vessel E-2712 (South Bay)	TT_Task	TK_NotStart	2026-06-20 08:00	2026-06-26 17:00			0
+%R	1312	1	206	OIL-A3-STA-L6-0313	Grout Vessel V-2713A (Sec-1)	TT_Task	TK_NotStart	2026-04-03 08:00	2026-04-07 17:00			0
+%R	1313	1	207	OIL-A3-STA-L6-0314	Grout Vessel T-2714 (Sec-2)	TT_Task	TK_NotStart	2026-05-02 08:00	2026-05-12 17:00			0
+%R	1314	1	208	OIL-A3-STA-L6-0315	Grout Vessel E-2715 (Sec-3)	TT_Task	TK_NotStart	2026-05-24 08:00	2026-06-04 17:00			0
+%R	1315	1	209	OIL-A3-STA-L6-0316	Grout Vessel T-2716B (Sec-4)	TT_Task	TK_NotStart	2026-05-23 08:00	2026-06-04 17:00			0
+%R	1316	1	210	OIL-A3-STA-L6-0317	Grout Vessel V-2717 (North Bay)	TT_Task	TK_NotStart	2026-05-16 08:00	2026-05-31 17:00			0
+%R	1317	1	211	OIL-A3-STA-L6-0318	Grout Vessel T-2718B (South Bay)	TT_Task	TK_NotStart	2026-05-13 08:00	2026-05-28 17:00			0
+%R	1318	1	206	OIL-A3-STA-L6-0319	Align Exchanger P-2719A (Sec-1)	TT_Task	TK_NotStart	2026-05-02 08:00	2026-05-17 17:00			0
+%R	1319	1	207	OIL-A3-STA-L6-0320	Align Exchanger E-2720 (Sec-2)	TT_Task	TK_NotStart	2026-05-06 08:00	2026-05-09 17:00			0
+%R	1320	1	208	OIL-A3-STA-L6-0321	Align Exchanger V-2721 (Sec-3)	TT_Task	TK_NotStart	2026-06-09 08:00	2026-06-16 17:00			0
+%R	1321	1	209	OIL-A3-STA-L6-0322	Align Exchanger V-2722 (Sec-4)	TT_Task	TK_NotStart	2026-04-28 08:00	2026-05-13 17:00			0
+%R	1322	1	210	OIL-A3-STA-L6-0323	Align Exchanger E-2723A (North Bay)	TT_Task	TK_NotStart	2026-04-30 08:00	2026-05-17 17:00			0
+%R	1323	1	211	OIL-A3-STA-L6-0324	Align Exchanger K-2724A (South Bay)	TT_Task	TK_NotStart	2026-06-08 08:00	2026-06-18 17:00			0
+%T	TASKPRED
+%F	task_pred_id	task_id	pred_task_id	proj_id	pred_proj_id	pred_type
+%R	5001	1001	1000	1	1	PR_FS
+%R	5002	1002	1001	1	1	PR_FS
+%R	5003	1003	1002	1	1	PR_FS
+%R	5004	1004	1003	1	1	PR_FS
+%R	5005	1005	1004	1	1	PR_FS
+%R	5006	1006	1005	1	1	PR_FS
+%R	5007	1007	1006	1	1	PR_FS
+%R	5008	1008	1007	1	1	PR_FS
+%R	5009	1009	1008	1	1	PR_FS
+%R	5010	1010	1009	1	1	PR_FS
+%R	5011	1011	1010	1	1	PR_FS
+%R	5012	1012	1011	1	1	PR_FS
+%R	5013	1013	1012	1	1	PR_FS
+%R	5014	1014	1013	1	1	PR_FS
+%R	5015	1015	1014	1	1	PR_FS
+%R	5016	1016	1015	1	1	PR_FS
+%R	5017	1017	1016	1	1	PR_FS
+%R	5018	1018	1017	1	1	PR_FS
+%R	5019	1019	1018	1	1	PR_FS
+%R	5020	1020	1019	1	1	PR_FS
+%R	5021	1021	1020	1	1	PR_FS
+%R	5022	1022	1021	1	1	PR_FS
+%R	5023	1023	1022	1	1	PR_FS
+%R	5024	1025	1024	1	1	PR_FS
+%R	5025	1026	1025	1	1	PR_FS
+%R	5026	1027	1026	1	1	PR_FS
+%R	5027	1028	1027	1	1	PR_FS
+%R	5028	1029	1028	1	1	PR_FS
+%R	5029	1030	1029	1	1	PR_FS
+%R	5030	1031	1030	1	1	PR_FS
+%R	5031	1032	1031	1	1	PR_FS
+%R	5032	1033	1032	1	1	PR_FS
+%R	5033	1034	1033	1	1	PR_FS
+%R	5034	1035	1034	1	1	PR_FS
+%R	5035	1036	1035	1	1	PR_FS
+%R	5036	1037	1036	1	1	PR_FS
+%R	5037	1038	1037	1	1	PR_FS
+%R	5038	1039	1038	1	1	PR_FS
+%R	5039	1040	1039	1	1	PR_FS
+%R	5040	1041	1040	1	1	PR_FS
+%R	5041	1042	1041	1	1	PR_FS
+%R	5042	1043	1042	1	1	PR_FS
+%R	5043	1044	1043	1	1	PR_FS
+%R	5044	1045	1044	1	1	PR_FS
+%R	5045	1046	1045	1	1	PR_FS
+%R	5046	1047	1046	1	1	PR_FS
+%R	5047	1049	1048	1	1	PR_FS
+%R	5048	1050	1049	1	1	PR_FS
+%R	5049	1051	1050	1	1	PR_FS
+%R	5050	1052	1051	1	1	PR_FS
+%R	5051	1053	1052	1	1	PR_FS
+%R	5052	1054	1053	1	1	PR_FS
+%R	5053	1055	1054	1	1	PR_FS
+%R	5054	1056	1055	1	1	PR_FS
+%R	5055	1057	1056	1	1	PR_FS
+%R	5056	1058	1057	1	1	PR_FS
+%R	5057	1059	1058	1	1	PR_FS
+%R	5058	1060	1059	1	1	PR_FS
+%R	5059	1061	1060	1	1	PR_FS
+%R	5060	1062	1061	1	1	PR_FS
+%R	5061	1063	1062	1	1	PR_FS
+%R	5062	1064	1063	1	1	PR_FS
+%R	5063	1065	1064	1	1	PR_FS
+%R	5064	1066	1065	1	1	PR_FS
+%R	5065	1067	1066	1	1	PR_FS
+%R	5066	1068	1067	1	1	PR_FS
+%R	5067	1069	1068	1	1	PR_FS
+%R	5068	1070	1069	1	1	PR_FS
+%R	5069	1071	1070	1	1	PR_FS
+%R	5070	1073	1072	1	1	PR_FS
+%R	5071	1074	1073	1	1	PR_FS
+%R	5072	1075	1074	1	1	PR_FS
+%R	5073	1076	1075	1	1	PR_FS
+%R	5074	1077	1076	1	1	PR_FS
+%R	5075	1078	1077	1	1	PR_FS
+%R	5076	1079	1078	1	1	PR_FS
+%R	5077	1080	1079	1	1	PR_FS
+%R	5078	1081	1080	1	1	PR_FS
+%R	5079	1082	1081	1	1	PR_FS
+%R	5080	1083	1082	1	1	PR_FS
+%R	5081	1084	1083	1	1	PR_FS
+%R	5082	1085	1084	1	1	PR_FS
+%R	5083	1086	1085	1	1	PR_FS
+%R	5084	1087	1086	1	1	PR_FS
+%R	5085	1088	1087	1	1	PR_FS
+%R	5086	1089	1088	1	1	PR_FS
+%R	5087	1091	1090	1	1	PR_FS
+%R	5088	1092	1091	1	1	PR_FS
+%R	5089	1093	1092	1	1	PR_FS
+%R	5090	1094	1093	1	1	PR_FS
+%R	5091	1095	1094	1	1	PR_FS
+%R	5092	1096	1095	1	1	PR_FS
+%R	5093	1097	1096	1	1	PR_FS
+%R	5094	1098	1097	1	1	PR_FS
+%R	5095	1099	1098	1	1	PR_FS
+%R	5096	1100	1099	1	1	PR_FS
+%R	5097	1101	1100	1	1	PR_FS
+%R	5098	1102	1101	1	1	PR_FS
+%R	5099	1103	1102	1	1	PR_FS
+%R	5100	1104	1103	1	1	PR_FS
+%R	5101	1105	1104	1	1	PR_FS
+%R	5102	1106	1105	1	1	PR_FS
+%R	5103	1107	1106	1	1	PR_FS
+%R	5104	1109	1108	1	1	PR_FS
+%R	5105	1110	1109	1	1	PR_FS
+%R	5106	1111	1110	1	1	PR_FS
+%R	5107	1112	1111	1	1	PR_FS
+%R	5108	1113	1112	1	1	PR_FS
+%R	5109	1114	1113	1	1	PR_FS
+%R	5110	1115	1114	1	1	PR_FS
+%R	5111	1116	1115	1	1	PR_FS
+%R	5112	1117	1116	1	1	PR_FS
+%R	5113	1118	1117	1	1	PR_FS
+%R	5114	1119	1118	1	1	PR_FS
+%R	5115	1120	1119	1	1	PR_FS
+%R	5116	1121	1120	1	1	PR_FS
+%R	5117	1122	1121	1	1	PR_FS
+%R	5118	1123	1122	1	1	PR_FS
+%R	5119	1124	1123	1	1	PR_FS
+%R	5120	1125	1124	1	1	PR_FS
+%R	5121	1126	1125	1	1	PR_FS
+%R	5122	1127	1126	1	1	PR_FS
+%R	5123	1128	1127	1	1	PR_FS
+%R	5124	1129	1128	1	1	PR_FS
+%R	5125	1130	1129	1	1	PR_FS
+%R	5126	1131	1130	1	1	PR_FS
+%R	5127	1133	1132	1	1	PR_FS
+%R	5128	1134	1133	1	1	PR_FS
+%R	5129	1135	1134	1	1	PR_FS
+%R	5130	1136	1135	1	1	PR_FS
+%R	5131	1137	1136	1	1	PR_FS
+%R	5132	1138	1137	1	1	PR_FS
+%R	5133	1139	1138	1	1	PR_FS
+%R	5134	1140	1139	1	1	PR_FS
+%R	5135	1141	1140	1	1	PR_FS
+%R	5136	1142	1141	1	1	PR_FS
+%R	5137	1143	1142	1	1	PR_FS
+%R	5138	1144	1143	1	1	PR_FS
+%R	5139	1145	1144	1	1	PR_FS
+%R	5140	1146	1145	1	1	PR_FS
+%R	5141	1147	1146	1	1	PR_FS
+%R	5142	1148	1147	1	1	PR_FS
+%R	5143	1149	1148	1	1	PR_FS
+%R	5144	1150	1149	1	1	PR_FS
+%R	5145	1151	1150	1	1	PR_FS
+%R	5146	1152	1151	1	1	PR_FS
+%R	5147	1153	1152	1	1	PR_FS
+%R	5148	1154	1153	1	1	PR_FS
+%R	5149	1155	1154	1	1	PR_FS
+%R	5150	1157	1156	1	1	PR_FS
+%R	5151	1158	1157	1	1	PR_FS
+%R	5152	1159	1158	1	1	PR_FS
+%R	5153	1160	1159	1	1	PR_FS
+%R	5154	1161	1160	1	1	PR_FS
+%R	5155	1162	1161	1	1	PR_FS
+%R	5156	1163	1162	1	1	PR_FS
+%R	5157	1164	1163	1	1	PR_FS
+%R	5158	1165	1164	1	1	PR_FS
+%R	5159	1166	1165	1	1	PR_FS
+%R	5160	1167	1166	1	1	PR_FS
+%R	5161	1168	1167	1	1	PR_FS
+%R	5162	1169	1168	1	1	PR_FS
+%R	5163	1170	1169	1	1	PR_FS
+%R	5164	1171	1170	1	1	PR_FS
+%R	5165	1172	1171	1	1	PR_FS
+%R	5166	1173	1172	1	1	PR_FS
+%R	5167	1174	1173	1	1	PR_FS
+%R	5168	1175	1174	1	1	PR_FS
+%R	5169	1176	1175	1	1	PR_FS
+%R	5170	1177	1176	1	1	PR_FS
+%R	5171	1178	1177	1	1	PR_FS
+%R	5172	1179	1178	1	1	PR_FS
+%R	5173	1181	1180	1	1	PR_FS
+%R	5174	1182	1181	1	1	PR_FS
+%R	5175	1183	1182	1	1	PR_FS
+%R	5176	1184	1183	1	1	PR_FS
+%R	5177	1185	1184	1	1	PR_FS
+%R	5178	1186	1185	1	1	PR_FS
+%R	5179	1187	1186	1	1	PR_FS
+%R	5180	1188	1187	1	1	PR_FS
+%R	5181	1189	1188	1	1	PR_FS
+%R	5182	1190	1189	1	1	PR_FS
+%R	5183	1191	1190	1	1	PR_FS
+%R	5184	1192	1191	1	1	PR_FS
+%R	5185	1193	1192	1	1	PR_FS
+%R	5186	1194	1193	1	1	PR_FS
+%R	5187	1195	1194	1	1	PR_FS
+%R	5188	1196	1195	1	1	PR_FS
+%R	5189	1197	1196	1	1	PR_FS
+%R	5190	1199	1198	1	1	PR_FS
+%R	5191	1200	1199	1	1	PR_FS
+%R	5192	1201	1200	1	1	PR_FS
+%R	5193	1202	1201	1	1	PR_FS
+%R	5194	1203	1202	1	1	PR_FS
+%R	5195	1204	1203	1	1	PR_FS
+%R	5196	1205	1204	1	1	PR_FS
+%R	5197	1206	1205	1	1	PR_FS
+%R	5198	1207	1206	1	1	PR_FS
+%R	5199	1208	1207	1	1	PR_FS
+%R	5200	1209	1208	1	1	PR_FS
+%R	5201	1210	1209	1	1	PR_FS
+%R	5202	1211	1210	1	1	PR_FS
+%R	5203	1212	1211	1	1	PR_FS
+%R	5204	1213	1212	1	1	PR_FS
+%R	5205	1214	1213	1	1	PR_FS
+%R	5206	1215	1214	1	1	PR_FS
+%R	5207	1217	1216	1	1	PR_FS
+%R	5208	1218	1217	1	1	PR_FS
+%R	5209	1219	1218	1	1	PR_FS
+%R	5210	1220	1219	1	1	PR_FS
+%R	5211	1221	1220	1	1	PR_FS
+%R	5212	1222	1221	1	1	PR_FS
+%R	5213	1223	1222	1	1	PR_FS
+%R	5214	1224	1223	1	1	PR_FS
+%R	5215	1225	1224	1	1	PR_FS
+%R	5216	1226	1225	1	1	PR_FS
+%R	5217	1227	1226	1	1	PR_FS
+%R	5218	1228	1227	1	1	PR_FS
+%R	5219	1229	1228	1	1	PR_FS
+%R	5220	1230	1229	1	1	PR_FS
+%R	5221	1231	1230	1	1	PR_FS
+%R	5222	1232	1231	1	1	PR_FS
+%R	5223	1233	1232	1	1	PR_FS
+%R	5224	1234	1233	1	1	PR_FS
+%R	5225	1235	1234	1	1	PR_FS
+%R	5226	1236	1235	1	1	PR_FS
+%R	5227	1237	1236	1	1	PR_FS
+%R	5228	1238	1237	1	1	PR_FS
+%R	5229	1239	1238	1	1	PR_FS
+%R	5230	1241	1240	1	1	PR_FS
+%R	5231	1242	1241	1	1	PR_FS
+%R	5232	1243	1242	1	1	PR_FS
+%R	5233	1244	1243	1	1	PR_FS
+%R	5234	1245	1244	1	1	PR_FS
+%R	5235	1246	1245	1	1	PR_FS
+%R	5236	1247	1246	1	1	PR_FS
+%R	5237	1248	1247	1	1	PR_FS
+%R	5238	1249	1248	1	1	PR_FS
+%R	5239	1250	1249	1	1	PR_FS
+%R	5240	1251	1250	1	1	PR_FS
+%R	5241	1252	1251	1	1	PR_FS
+%R	5242	1253	1252	1	1	PR_FS
+%R	5243	1254	1253	1	1	PR_FS
+%R	5244	1255	1254	1	1	PR_FS
+%R	5245	1256	1255	1	1	PR_FS
+%R	5246	1257	1256	1	1	PR_FS
+%R	5247	1258	1257	1	1	PR_FS
+%R	5248	1259	1258	1	1	PR_FS
+%R	5249	1260	1259	1	1	PR_FS
+%R	5250	1261	1260	1	1	PR_FS
+%R	5251	1262	1261	1	1	PR_FS
+%R	5252	1263	1262	1	1	PR_FS
+%R	5253	1265	1264	1	1	PR_FS
+%R	5254	1266	1265	1	1	PR_FS
+%R	5255	1267	1266	1	1	PR_FS
+%R	5256	1268	1267	1	1	PR_FS
+%R	5257	1269	1268	1	1	PR_FS
+%R	5258	1270	1269	1	1	PR_FS
+%R	5259	1271	1270	1	1	PR_FS
+%R	5260	1272	1271	1	1	PR_FS
+%R	5261	1273	1272	1	1	PR_FS
+%R	5262	1274	1273	1	1	PR_FS
+%R	5263	1275	1274	1	1	PR_FS
+%R	5264	1276	1275	1	1	PR_FS
+%R	5265	1277	1276	1	1	PR_FS
+%R	5266	1278	1277	1	1	PR_FS
+%R	5267	1279	1278	1	1	PR_FS
+%R	5268	1280	1279	1	1	PR_FS
+%R	5269	1281	1280	1	1	PR_FS
+%R	5270	1282	1281	1	1	PR_FS
+%R	5271	1283	1282	1	1	PR_FS
+%R	5272	1284	1283	1	1	PR_FS
+%R	5273	1285	1284	1	1	PR_FS
+%R	5274	1286	1285	1	1	PR_FS
+%R	5275	1287	1286	1	1	PR_FS
+%R	5276	1289	1288	1	1	PR_FS
+%R	5277	1290	1289	1	1	PR_FS
+%R	5278	1291	1290	1	1	PR_FS
+%R	5279	1292	1291	1	1	PR_FS
+%R	5280	1293	1292	1	1	PR_FS
+%R	5281	1294	1293	1	1	PR_FS
+%R	5282	1295	1294	1	1	PR_FS
+%R	5283	1296	1295	1	1	PR_FS
+%R	5284	1297	1296	1	1	PR_FS
+%R	5285	1298	1297	1	1	PR_FS
+%R	5286	1299	1298	1	1	PR_FS
+%R	5287	1300	1299	1	1	PR_FS
+%R	5288	1301	1300	1	1	PR_FS
+%R	5289	1302	1301	1	1	PR_FS
+%R	5290	1303	1302	1	1	PR_FS
+%R	5291	1304	1303	1	1	PR_FS
+%R	5292	1305	1304	1	1	PR_FS
+%R	5293	1307	1306	1	1	PR_FS
+%R	5294	1308	1307	1	1	PR_FS
+%R	5295	1309	1308	1	1	PR_FS
+%R	5296	1310	1309	1	1	PR_FS
+%R	5297	1311	1310	1	1	PR_FS
+%R	5298	1312	1311	1	1	PR_FS
+%R	5299	1313	1312	1	1	PR_FS
+%R	5300	1314	1313	1	1	PR_FS
+%R	5301	1315	1314	1	1	PR_FS
+%R	5302	1316	1315	1	1	PR_FS
+%R	5303	1317	1316	1	1	PR_FS
+%R	5304	1318	1317	1	1	PR_FS
+%R	5305	1319	1318	1	1	PR_FS
+%R	5306	1320	1319	1	1	PR_FS
+%R	5307	1321	1320	1	1	PR_FS
+%R	5308	1322	1321	1	1	PR_FS
+%R	5309	1323	1322	1	1	PR_FS
+%T	UDFTYPE
+%F	udf_type_id	table_name	udf_type_name	udf_type_label	logical_data_type
+%R	1001	TASK	setu_discipline	SETU Discipline	FT_TEXT
+%R	1002	TASK	setu_planned_qty	SETU Planned Qty	FT_FLOAT
+%R	1003	TASK	setu_uom	SETU UOM	FT_TEXT
+%R	1004	TASK	setu_level	SETU Level	FT_TEXT
+%R	1005	TASK	setu_tags	SETU Tags	FT_TEXT
+%T	UDFVALUE
+%F	udf_type_id	fk_id	proj_id	udf_text	udf_number
+%R	1001	1000	1	Piping	
+%R	1002	1000	1		60.0
+%R	1003	1000	1	m	
+%R	1004	1000	1	L5	
+%R	1005	1000	1	line:12"-CW-1001	
+%R	1001	1001	1	Piping	
+%R	1002	1001	1		20.0
+%R	1003	1001	1	m	
+%R	1004	1001	1	L6	
+%R	1005	1001	1	line:24"-PG-1002	
+%R	1001	1002	1	Piping	
+%R	1002	1002	1		120.0
+%R	1003	1002	1	m	
+%R	1004	1002	1	L6	
+%R	1005	1002	1	line:8"-PG-1003	
+%R	1001	1003	1	Piping	
+%R	1002	1003	1		60.0
+%R	1003	1003	1	m	
+%R	1004	1003	1	L5	
+%R	1005	1003	1	line:6"-HC-1004	
+%R	1001	1004	1	Piping	
+%R	1002	1004	1		20.0
+%R	1003	1004	1	m	
+%R	1004	1004	1	L6	
+%R	1005	1004	1	line:16"-CW-1005	
+%R	1001	1005	1	Piping	
+%R	1002	1005	1		120.0
+%R	1003	1005	1	m	
+%R	1004	1005	1	L6	
+%R	1005	1005	1	line:24"-CW-1006	
+%R	1001	1006	1	Piping	
+%R	1002	1006	1		60.0
+%R	1003	1006	1	m	
+%R	1004	1006	1	L5	
+%R	1005	1006	1	line:8"-HC-1007	
+%R	1001	1007	1	Piping	
+%R	1002	1007	1		120.0
+%R	1003	1007	1	m	
+%R	1004	1007	1	L6	
+%R	1005	1007	1	line:12"-CW-1008	
+%R	1001	1008	1	Piping	
+%R	1002	1008	1		40.0
+%R	1003	1008	1	m	
+%R	1004	1008	1	L6	
+%R	1005	1008	1	line:16"-FG-1009	
+%R	1001	1009	1	Piping	
+%R	1002	1009	1		60.0
+%R	1003	1009	1	m	
+%R	1004	1009	1	L5	
+%R	1005	1009	1	line:12"-CW-1010	
+%R	1001	1010	1	Piping	
+%R	1002	1010	1		20.0
+%R	1003	1010	1	m	
+%R	1004	1010	1	L6	
+%R	1005	1010	1	line:12"-HC-1011	
+%R	1001	1011	1	Piping	
+%R	1002	1011	1		60.0
+%R	1003	1011	1	m	
+%R	1004	1011	1	L6	
+%R	1005	1011	1	line:6"-FG-1012	
+%R	1001	1012	1	Piping	
+%R	1002	1012	1		40.0
+%R	1003	1012	1	m	
+%R	1004	1012	1	L5	
+%R	1005	1012	1	line:6"-HC-1013	
+%R	1001	1013	1	Piping	
+%R	1002	1013	1		80.0
+%R	1003	1013	1	m	
+%R	1004	1013	1	L6	
+%R	1005	1013	1	line:12"-CW-1014	
+%R	1001	1014	1	Piping	
+%R	1002	1014	1		60.0
+%R	1003	1014	1	m	
+%R	1004	1014	1	L6	
+%R	1005	1014	1	line:16"-FG-1015	
+%R	1001	1015	1	Piping	
+%R	1002	1015	1		20.0
+%R	1003	1015	1	m	
+%R	1004	1015	1	L5	
+%R	1005	1015	1	line:16"-CW-1016	
+%R	1001	1016	1	Piping	
+%R	1002	1016	1		120.0
+%R	1003	1016	1	m	
+%R	1004	1016	1	L6	
+%R	1005	1016	1	line:16"-CW-1017	
+%R	1001	1017	1	Piping	
+%R	1002	1017	1		80.0
+%R	1003	1017	1	m	
+%R	1004	1017	1	L6	
+%R	1005	1017	1	line:24"-FG-1018	
+%R	1001	1018	1	Piping	
+%R	1002	1018	1		20.0
+%R	1003	1018	1	m	
+%R	1004	1018	1	L5	
+%R	1005	1018	1	line:24"-HC-1019	
+%R	1001	1019	1	Piping	
+%R	1002	1019	1		20.0
+%R	1003	1019	1	m	
+%R	1004	1019	1	L6	
+%R	1005	1019	1	line:8"-PG-1020	
+%R	1001	1020	1	Piping	
+%R	1002	1020	1		40.0
+%R	1003	1020	1	m	
+%R	1004	1020	1	L6	
+%R	1005	1020	1	line:6"-CW-1021	
+%R	1001	1021	1	Piping	
+%R	1002	1021	1		80.0
+%R	1003	1021	1	m	
+%R	1004	1021	1	L5	
+%R	1005	1021	1	line:24"-HC-1022	
+%R	1001	1022	1	Piping	
+%R	1002	1022	1		40.0
+%R	1003	1022	1	m	
+%R	1004	1022	1	L6	
+%R	1005	1022	1	line:6"-PG-1023	
+%R	1001	1023	1	Piping	
+%R	1002	1023	1		120.0
+%R	1003	1023	1	m	
+%R	1004	1023	1	L6	
+%R	1005	1023	1	line:6"-FG-1024	
+%R	1001	1024	1	Civil	
+%R	1002	1024	1		60.0
+%R	1003	1024	1	m3	
+%R	1004	1024	1	L5	
+%R	1005	1024	1	foundation:FDN-C-0225|equipment:C-0225	
+%R	1001	1025	1	Civil	
+%R	1002	1025	1		40.0
+%R	1003	1025	1	m3	
+%R	1004	1025	1	L6	
+%R	1005	1025	1	foundation:FDN-C-0226|equipment:C-0226	
+%R	1001	1026	1	Civil	
+%R	1002	1026	1		60.0
+%R	1003	1026	1	m3	
+%R	1004	1026	1	L6	
+%R	1005	1026	1	foundation:FDN-C-0227|equipment:C-0227	
+%R	1001	1027	1	Civil	
+%R	1002	1027	1		80.0
+%R	1003	1027	1	m3	
+%R	1004	1027	1	L5	
+%R	1005	1027	1	foundation:FDN-C-0228|equipment:C-0228	
+%R	1001	1028	1	Civil	
+%R	1002	1028	1		60.0
+%R	1003	1028	1	m3	
+%R	1004	1028	1	L6	
+%R	1005	1028	1	foundation:FDN-C-0229|equipment:C-0229	
+%R	1001	1029	1	Civil	
+%R	1002	1029	1		20.0
+%R	1003	1029	1	m3	
+%R	1004	1029	1	L6	
+%R	1005	1029	1	foundation:FDN-C-0230|equipment:C-0230	
+%R	1001	1030	1	Civil	
+%R	1002	1030	1		20.0
+%R	1003	1030	1	m3	
+%R	1004	1030	1	L5	
+%R	1005	1030	1	foundation:FDN-C-0231|equipment:C-0231	
+%R	1001	1031	1	Civil	
+%R	1002	1031	1		20.0
+%R	1003	1031	1	m3	
+%R	1004	1031	1	L6	
+%R	1005	1031	1	foundation:FDN-C-0232|equipment:C-0232	
+%R	1001	1032	1	Civil	
+%R	1002	1032	1		40.0
+%R	1003	1032	1	m3	
+%R	1004	1032	1	L6	
+%R	1005	1032	1	foundation:FDN-C-0233|equipment:C-0233	
+%R	1001	1033	1	Civil	
+%R	1002	1033	1		80.0
+%R	1003	1033	1	m3	
+%R	1004	1033	1	L5	
+%R	1005	1033	1	foundation:FDN-C-0234|equipment:C-0234	
+%R	1001	1034	1	Civil	
+%R	1002	1034	1		120.0
+%R	1003	1034	1	m3	
+%R	1004	1034	1	L6	
+%R	1005	1034	1	foundation:FDN-C-0235|equipment:C-0235	
+%R	1001	1035	1	Civil	
+%R	1002	1035	1		80.0
+%R	1003	1035	1	m3	
+%R	1004	1035	1	L6	
+%R	1005	1035	1	foundation:FDN-C-0236|equipment:C-0236	
+%R	1001	1036	1	Civil	
+%R	1002	1036	1		80.0
+%R	1003	1036	1	m3	
+%R	1004	1036	1	L5	
+%R	1005	1036	1	foundation:FDN-C-0237|equipment:C-0237	
+%R	1001	1037	1	Civil	
+%R	1002	1037	1		120.0
+%R	1003	1037	1	m3	
+%R	1004	1037	1	L6	
+%R	1005	1037	1	foundation:FDN-C-0238|equipment:C-0238	
+%R	1001	1038	1	Civil	
+%R	1002	1038	1		120.0
+%R	1003	1038	1	m3	
+%R	1004	1038	1	L6	
+%R	1005	1038	1	foundation:FDN-C-0239|equipment:C-0239	
+%R	1001	1039	1	Civil	
+%R	1002	1039	1		120.0
+%R	1003	1039	1	m3	
+%R	1004	1039	1	L5	
+%R	1005	1039	1	foundation:FDN-C-0240|equipment:C-0240	
+%R	1001	1040	1	Civil	
+%R	1002	1040	1		60.0
+%R	1003	1040	1	m3	
+%R	1004	1040	1	L6	
+%R	1005	1040	1	foundation:FDN-C-0241|equipment:C-0241	
+%R	1001	1041	1	Civil	
+%R	1002	1041	1		80.0
+%R	1003	1041	1	m3	
+%R	1004	1041	1	L6	
+%R	1005	1041	1	foundation:FDN-C-0242|equipment:C-0242	
+%R	1001	1042	1	Civil	
+%R	1002	1042	1		80.0
+%R	1003	1042	1	m3	
+%R	1004	1042	1	L5	
+%R	1005	1042	1	foundation:FDN-C-0243|equipment:C-0243	
+%R	1001	1043	1	Civil	
+%R	1002	1043	1		40.0
+%R	1003	1043	1	m3	
+%R	1004	1043	1	L6	
+%R	1005	1043	1	foundation:FDN-C-0244|equipment:C-0244	
+%R	1001	1044	1	Civil	
+%R	1002	1044	1		40.0
+%R	1003	1044	1	m3	
+%R	1004	1044	1	L6	
+%R	1005	1044	1	foundation:FDN-C-0245|equipment:C-0245	
+%R	1001	1045	1	Civil	
+%R	1002	1045	1		60.0
+%R	1003	1045	1	m3	
+%R	1004	1045	1	L5	
+%R	1005	1045	1	foundation:FDN-C-0246|equipment:C-0246	
+%R	1001	1046	1	Civil	
+%R	1002	1046	1		120.0
+%R	1003	1046	1	m3	
+%R	1004	1046	1	L6	
+%R	1005	1046	1	foundation:FDN-C-0247|equipment:C-0247	
+%R	1001	1047	1	Civil	
+%R	1002	1047	1		60.0
+%R	1003	1047	1	m3	
+%R	1004	1047	1	L6	
+%R	1005	1047	1	foundation:FDN-C-0248|equipment:C-0248	
+%R	1001	1048	1	Electrical	
+%R	1002	1048	1		80.0
+%R	1003	1048	1	m	
+%R	1004	1048	1	L5	
+%R	1005	1048	1	cable:CBL-EL-0449	
+%R	1001	1049	1	Electrical	
+%R	1002	1049	1		80.0
+%R	1003	1049	1	m	
+%R	1004	1049	1	L6	
+%R	1005	1049	1	cable:CBL-EL-0450	
+%R	1001	1050	1	Electrical	
+%R	1002	1050	1		20.0
+%R	1003	1050	1	m	
+%R	1004	1050	1	L6	
+%R	1005	1050	1	cable:CBL-EL-0451	
+%R	1001	1051	1	Electrical	
+%R	1002	1051	1		120.0
+%R	1003	1051	1	m	
+%R	1004	1051	1	L5	
+%R	1005	1051	1	cable:CBL-EL-0452	
+%R	1001	1052	1	Electrical	
+%R	1002	1052	1		20.0
+%R	1003	1052	1	m	
+%R	1004	1052	1	L6	
+%R	1005	1052	1	cable:CBL-EL-0453	
+%R	1001	1053	1	Electrical	
+%R	1002	1053	1		60.0
+%R	1003	1053	1	m	
+%R	1004	1053	1	L6	
+%R	1005	1053	1	cable:CBL-EL-0454	
+%R	1001	1054	1	Electrical	
+%R	1002	1054	1		20.0
+%R	1003	1054	1	m	
+%R	1004	1054	1	L5	
+%R	1005	1054	1	cable:CBL-EL-0455	
+%R	1001	1055	1	Electrical	
+%R	1002	1055	1		80.0
+%R	1003	1055	1	m	
+%R	1004	1055	1	L6	
+%R	1005	1055	1	cable:CBL-EL-0456	
+%R	1001	1056	1	Electrical	
+%R	1002	1056	1		40.0
+%R	1003	1056	1	m	
+%R	1004	1056	1	L6	
+%R	1005	1056	1	cable:CBL-EL-0457	
+%R	1001	1057	1	Electrical	
+%R	1002	1057	1		80.0
+%R	1003	1057	1	m	
+%R	1004	1057	1	L5	
+%R	1005	1057	1	cable:CBL-EL-0458	
+%R	1001	1058	1	Electrical	
+%R	1002	1058	1		120.0
+%R	1003	1058	1	m	
+%R	1004	1058	1	L6	
+%R	1005	1058	1	cable:CBL-EL-0459	
+%R	1001	1059	1	Electrical	
+%R	1002	1059	1		20.0
+%R	1003	1059	1	m	
+%R	1004	1059	1	L6	
+%R	1005	1059	1	cable:CBL-EL-0460	
+%R	1001	1060	1	Electrical	
+%R	1002	1060	1		40.0
+%R	1003	1060	1	m	
+%R	1004	1060	1	L5	
+%R	1005	1060	1		
+%R	1001	1061	1	Electrical	
+%R	1002	1061	1		120.0
+%R	1003	1061	1	m	
+%R	1004	1061	1	L6	
+%R	1005	1061	1		
+%R	1001	1062	1	Electrical	
+%R	1002	1062	1		40.0
+%R	1003	1062	1	m	
+%R	1004	1062	1	L6	
+%R	1005	1062	1		
+%R	1001	1063	1	Electrical	
+%R	1002	1063	1		20.0
+%R	1003	1063	1	m	
+%R	1004	1063	1	L5	
+%R	1005	1063	1		
+%R	1001	1064	1	Electrical	
+%R	1002	1064	1		120.0
+%R	1003	1064	1	m	
+%R	1004	1064	1	L6	
+%R	1005	1064	1		
+%R	1001	1065	1	Electrical	
+%R	1002	1065	1		120.0
+%R	1003	1065	1	m	
+%R	1004	1065	1	L6	
+%R	1005	1065	1		
+%R	1001	1066	1	Electrical	
+%R	1002	1066	1		80.0
+%R	1003	1066	1	m	
+%R	1004	1066	1	L5	
+%R	1005	1066	1	equipment:P-2467	
+%R	1001	1067	1	Electrical	
+%R	1002	1067	1		20.0
+%R	1003	1067	1	m	
+%R	1004	1067	1	L6	
+%R	1005	1067	1	equipment:P-2468B	
+%R	1001	1068	1	Electrical	
+%R	1002	1068	1		60.0
+%R	1003	1068	1	m	
+%R	1004	1068	1	L6	
+%R	1005	1068	1	equipment:K-2469B	
+%R	1001	1069	1	Electrical	
+%R	1002	1069	1		80.0
+%R	1003	1069	1	m	
+%R	1004	1069	1	L5	
+%R	1005	1069	1	equipment:V-2470B	
+%R	1001	1070	1	Electrical	
+%R	1002	1070	1		20.0
+%R	1003	1070	1	m	
+%R	1004	1070	1	L6	
+%R	1005	1070	1	equipment:T-2471B	
+%R	1001	1071	1	Electrical	
+%R	1002	1071	1		20.0
+%R	1003	1071	1	m	
+%R	1004	1071	1	L6	
+%R	1005	1071	1	equipment:E-2472A	
+%R	1001	1072	1	Instrumentation	
+%R	1002	1072	1		2.0
+%R	1003	1072	1	nos	
+%R	1004	1072	1	L5	
+%R	1005	1072	1	loop:LP-IN-0773	
+%R	1001	1073	1	Instrumentation	
+%R	1002	1073	1		2.0
+%R	1003	1073	1	nos	
+%R	1004	1073	1	L6	
+%R	1005	1073	1	loop:LP-IN-0774	
+%R	1001	1074	1	Instrumentation	
+%R	1002	1074	1		2.0
+%R	1003	1074	1	nos	
+%R	1004	1074	1	L6	
+%R	1005	1074	1	loop:LP-IN-0775	
+%R	1001	1075	1	Instrumentation	
+%R	1002	1075	1		2.0
+%R	1003	1075	1	nos	
+%R	1004	1075	1	L5	
+%R	1005	1075	1	loop:LP-IN-0776	
+%R	1001	1076	1	Instrumentation	
+%R	1002	1076	1		2.0
+%R	1003	1076	1	nos	
+%R	1004	1076	1	L6	
+%R	1005	1076	1	loop:LP-IN-0777	
+%R	1001	1077	1	Instrumentation	
+%R	1002	1077	1		2.0
+%R	1003	1077	1	nos	
+%R	1004	1077	1	L6	
+%R	1005	1077	1	loop:LP-IN-0778	
+%R	1001	1078	1	Instrumentation	
+%R	1002	1078	1		2.0
+%R	1003	1078	1	nos	
+%R	1004	1078	1	L5	
+%R	1005	1078	1	loop:LP-IN-0779	
+%R	1001	1079	1	Instrumentation	
+%R	1002	1079	1		2.0
+%R	1003	1079	1	nos	
+%R	1004	1079	1	L6	
+%R	1005	1079	1	loop:LP-IN-0780	
+%R	1001	1080	1	Instrumentation	
+%R	1002	1080	1		1.0
+%R	1003	1080	1	nos	
+%R	1004	1080	1	L6	
+%R	1005	1080	1	loop:LP-IN-0781	
+%R	1001	1081	1	Instrumentation	
+%R	1002	1081	1		2.0
+%R	1003	1081	1	nos	
+%R	1004	1081	1	L5	
+%R	1005	1081	1	loop:LP-IN-0782	
+%R	1001	1082	1	Instrumentation	
+%R	1002	1082	1		1.0
+%R	1003	1082	1	nos	
+%R	1004	1082	1	L6	
+%R	1005	1082	1	loop:LP-IN-0783	
+%R	1001	1083	1	Instrumentation	
+%R	1002	1083	1		1.0
+%R	1003	1083	1	nos	
+%R	1004	1083	1	L6	
+%R	1005	1083	1	loop:LP-IN-0784	
+%R	1001	1084	1	Instrumentation	
+%R	1002	1084	1		2.0
+%R	1003	1084	1	nos	
+%R	1004	1084	1	L5	
+%R	1005	1084	1	loop:LP-IN-0785	
+%R	1001	1085	1	Instrumentation	
+%R	1002	1085	1		1.0
+%R	1003	1085	1	nos	
+%R	1004	1085	1	L6	
+%R	1005	1085	1	loop:LP-IN-0786	
+%R	1001	1086	1	Instrumentation	
+%R	1002	1086	1		2.0
+%R	1003	1086	1	nos	
+%R	1004	1086	1	L6	
+%R	1005	1086	1	loop:LP-IN-0787	
+%R	1001	1087	1	Instrumentation	
+%R	1002	1087	1		2.0
+%R	1003	1087	1	nos	
+%R	1004	1087	1	L5	
+%R	1005	1087	1	loop:LP-IN-0788	
+%R	1001	1088	1	Instrumentation	
+%R	1002	1088	1		2.0
+%R	1003	1088	1	nos	
+%R	1004	1088	1	L6	
+%R	1005	1088	1	loop:LP-IN-0789	
+%R	1001	1089	1	Instrumentation	
+%R	1002	1089	1		4.0
+%R	1003	1089	1	nos	
+%R	1004	1089	1	L6	
+%R	1005	1089	1	loop:LP-IN-0790	
+%R	1001	1090	1	Static Equipment	
+%R	1002	1090	1		2.0
+%R	1003	1090	1	nos	
+%R	1004	1090	1	L5	
+%R	1005	1090	1	equipment:K-2491B	
+%R	1001	1091	1	Static Equipment	
+%R	1002	1091	1		4.0
+%R	1003	1091	1	nos	
+%R	1004	1091	1	L6	
+%R	1005	1091	1	equipment:T-2492A	
+%R	1001	1092	1	Static Equipment	
+%R	1002	1092	1		2.0
+%R	1003	1092	1	nos	
+%R	1004	1092	1	L6	
+%R	1005	1092	1	equipment:P-2493	
+%R	1001	1093	1	Static Equipment	
+%R	1002	1093	1		4.0
+%R	1003	1093	1	nos	
+%R	1004	1093	1	L5	
+%R	1005	1093	1	equipment:V-2494	
+%R	1001	1094	1	Static Equipment	
+%R	1002	1094	1		4.0
+%R	1003	1094	1	nos	
+%R	1004	1094	1	L6	
+%R	1005	1094	1	equipment:K-2495	
+%R	1001	1095	1	Static Equipment	
+%R	1002	1095	1		2.0
+%R	1003	1095	1	nos	
+%R	1004	1095	1	L6	
+%R	1005	1095	1	equipment:E-2496B	
+%R	1001	1096	1	Static Equipment	
+%R	1002	1096	1		4.0
+%R	1003	1096	1	nos	
+%R	1004	1096	1	L5	
+%R	1005	1096	1	equipment:T-2497A	
+%R	1001	1097	1	Static Equipment	
+%R	1002	1097	1		4.0
+%R	1003	1097	1	nos	
+%R	1004	1097	1	L6	
+%R	1005	1097	1	equipment:E-2498A	
+%R	1001	1098	1	Static Equipment	
+%R	1002	1098	1		2.0
+%R	1003	1098	1	nos	
+%R	1004	1098	1	L6	
+%R	1005	1098	1	equipment:T-2499B	
+%R	1001	1099	1	Static Equipment	
+%R	1002	1099	1		1.0
+%R	1003	1099	1	nos	
+%R	1004	1099	1	L5	
+%R	1005	1099	1	equipment:E-2500	
+%R	1001	1100	1	Static Equipment	
+%R	1002	1100	1		4.0
+%R	1003	1100	1	nos	
+%R	1004	1100	1	L6	
+%R	1005	1100	1	equipment:E-2501B	
+%R	1001	1101	1	Static Equipment	
+%R	1002	1101	1		1.0
+%R	1003	1101	1	nos	
+%R	1004	1101	1	L6	
+%R	1005	1101	1	equipment:V-2502A	
+%R	1001	1102	1	Static Equipment	
+%R	1002	1102	1		1.0
+%R	1003	1102	1	nos	
+%R	1004	1102	1	L5	
+%R	1005	1102	1	equipment:E-2503A	
+%R	1001	1103	1	Static Equipment	
+%R	1002	1103	1		1.0
+%R	1003	1103	1	nos	
+%R	1004	1103	1	L6	
+%R	1005	1103	1	equipment:P-2504B	
+%R	1001	1104	1	Static Equipment	
+%R	1002	1104	1		4.0
+%R	1003	1104	1	nos	
+%R	1004	1104	1	L6	
+%R	1005	1104	1	equipment:T-2505	
+%R	1001	1105	1	Static Equipment	
+%R	1002	1105	1		1.0
+%R	1003	1105	1	nos	
+%R	1004	1105	1	L5	
+%R	1005	1105	1	equipment:P-2506	
+%R	1001	1106	1	Static Equipment	
+%R	1002	1106	1		1.0
+%R	1003	1106	1	nos	
+%R	1004	1106	1	L6	
+%R	1005	1106	1	equipment:E-2507A	
+%R	1001	1107	1	Static Equipment	
+%R	1002	1107	1		2.0
+%R	1003	1107	1	nos	
+%R	1004	1107	1	L6	
+%R	1005	1107	1	equipment:E-2508A	
+%R	1001	1108	1	Piping	
+%R	1002	1108	1		120.0
+%R	1003	1108	1	m	
+%R	1004	1108	1	L5	
+%R	1005	1108	1	line:12"-FG-1109	
+%R	1001	1109	1	Piping	
+%R	1002	1109	1		40.0
+%R	1003	1109	1	m	
+%R	1004	1109	1	L6	
+%R	1005	1109	1	line:16"-CW-1110	
+%R	1001	1110	1	Piping	
+%R	1002	1110	1		60.0
+%R	1003	1110	1	m	
+%R	1004	1110	1	L6	
+%R	1005	1110	1	line:16"-PG-1111	
+%R	1001	1111	1	Piping	
+%R	1002	1111	1		60.0
+%R	1003	1111	1	m	
+%R	1004	1111	1	L5	
+%R	1005	1111	1	line:8"-PG-1112	
+%R	1001	1112	1	Piping	
+%R	1002	1112	1		20.0
+%R	1003	1112	1	m	
+%R	1004	1112	1	L6	
+%R	1005	1112	1	line:12"-FG-1113	
+%R	1001	1113	1	Piping	
+%R	1002	1113	1		40.0
+%R	1003	1113	1	m	
+%R	1004	1113	1	L6	
+%R	1005	1113	1	line:16"-HC-1114	
+%R	1001	1114	1	Piping	
+%R	1002	1114	1		80.0
+%R	1003	1114	1	m	
+%R	1004	1114	1	L5	
+%R	1005	1114	1	line:6"-FG-1115	
+%R	1001	1115	1	Piping	
+%R	1002	1115	1		20.0
+%R	1003	1115	1	m	
+%R	1004	1115	1	L6	
+%R	1005	1115	1	line:12"-PG-1116	
+%R	1001	1116	1	Piping	
+%R	1002	1116	1		20.0
+%R	1003	1116	1	m	
+%R	1004	1116	1	L6	
+%R	1005	1116	1	line:6"-HC-1117	
+%R	1001	1117	1	Piping	
+%R	1002	1117	1		40.0
+%R	1003	1117	1	m	
+%R	1004	1117	1	L5	
+%R	1005	1117	1	line:12"-PG-1118	
+%R	1001	1118	1	Piping	
+%R	1002	1118	1		60.0
+%R	1003	1118	1	m	
+%R	1004	1118	1	L6	
+%R	1005	1118	1	line:8"-CW-1119	
+%R	1001	1119	1	Piping	
+%R	1002	1119	1		40.0
+%R	1003	1119	1	m	
+%R	1004	1119	1	L6	
+%R	1005	1119	1	line:12"-FG-1120	
+%R	1001	1120	1	Piping	
+%R	1002	1120	1		60.0
+%R	1003	1120	1	m	
+%R	1004	1120	1	L5	
+%R	1005	1120	1	line:16"-CW-1121	
+%R	1001	1121	1	Piping	
+%R	1002	1121	1		80.0
+%R	1003	1121	1	m	
+%R	1004	1121	1	L6	
+%R	1005	1121	1	line:6"-HC-1122	
+%R	1001	1122	1	Piping	
+%R	1002	1122	1		60.0
+%R	1003	1122	1	m	
+%R	1004	1122	1	L6	
+%R	1005	1122	1	line:6"-PG-1123	
+%R	1001	1123	1	Piping	
+%R	1002	1123	1		60.0
+%R	1003	1123	1	m	
+%R	1004	1123	1	L5	
+%R	1005	1123	1	line:8"-PG-1124	
+%R	1001	1124	1	Piping	
+%R	1002	1124	1		40.0
+%R	1003	1124	1	m	
+%R	1004	1124	1	L6	
+%R	1005	1124	1	line:24"-CW-1125	
+%R	1001	1125	1	Piping	
+%R	1002	1125	1		120.0
+%R	1003	1125	1	m	
+%R	1004	1125	1	L6	
+%R	1005	1125	1	line:6"-FG-1126	
+%R	1001	1126	1	Piping	
+%R	1002	1126	1		20.0
+%R	1003	1126	1	m	
+%R	1004	1126	1	L5	
+%R	1005	1126	1	line:8"-PG-1127	
+%R	1001	1127	1	Piping	
+%R	1002	1127	1		80.0
+%R	1003	1127	1	m	
+%R	1004	1127	1	L6	
+%R	1005	1127	1	line:8"-PG-1128	
+%R	1001	1128	1	Piping	
+%R	1002	1128	1		80.0
+%R	1003	1128	1	m	
+%R	1004	1128	1	L6	
+%R	1005	1128	1	line:24"-CW-1129	
+%R	1001	1129	1	Piping	
+%R	1002	1129	1		80.0
+%R	1003	1129	1	m	
+%R	1004	1129	1	L5	
+%R	1005	1129	1	line:12"-FG-1130	
+%R	1001	1130	1	Piping	
+%R	1002	1130	1		40.0
+%R	1003	1130	1	m	
+%R	1004	1130	1	L6	
+%R	1005	1130	1	line:6"-FG-1131	
+%R	1001	1131	1	Piping	
+%R	1002	1131	1		40.0
+%R	1003	1131	1	m	
+%R	1004	1131	1	L6	
+%R	1005	1131	1	line:16"-PG-1132	
+%R	1001	1132	1	Civil	
+%R	1002	1132	1		120.0
+%R	1003	1132	1	m3	
+%R	1004	1132	1	L5	
+%R	1005	1132	1	foundation:FDN-C-0333|equipment:C-0333	
+%R	1001	1133	1	Civil	
+%R	1002	1133	1		20.0
+%R	1003	1133	1	m3	
+%R	1004	1133	1	L6	
+%R	1005	1133	1	foundation:FDN-C-0334|equipment:C-0334	
+%R	1001	1134	1	Civil	
+%R	1002	1134	1		20.0
+%R	1003	1134	1	m3	
+%R	1004	1134	1	L6	
+%R	1005	1134	1	foundation:FDN-C-0335|equipment:C-0335	
+%R	1001	1135	1	Civil	
+%R	1002	1135	1		120.0
+%R	1003	1135	1	m3	
+%R	1004	1135	1	L5	
+%R	1005	1135	1	foundation:FDN-C-0336|equipment:C-0336	
+%R	1001	1136	1	Civil	
+%R	1002	1136	1		120.0
+%R	1003	1136	1	m3	
+%R	1004	1136	1	L6	
+%R	1005	1136	1	foundation:FDN-C-0337|equipment:C-0337	
+%R	1001	1137	1	Civil	
+%R	1002	1137	1		20.0
+%R	1003	1137	1	m3	
+%R	1004	1137	1	L6	
+%R	1005	1137	1	foundation:FDN-C-0338|equipment:C-0338	
+%R	1001	1138	1	Civil	
+%R	1002	1138	1		80.0
+%R	1003	1138	1	m3	
+%R	1004	1138	1	L5	
+%R	1005	1138	1	foundation:FDN-C-0339|equipment:C-0339	
+%R	1001	1139	1	Civil	
+%R	1002	1139	1		40.0
+%R	1003	1139	1	m3	
+%R	1004	1139	1	L6	
+%R	1005	1139	1	foundation:FDN-C-0340|equipment:C-0340	
+%R	1001	1140	1	Civil	
+%R	1002	1140	1		40.0
+%R	1003	1140	1	m3	
+%R	1004	1140	1	L6	
+%R	1005	1140	1	foundation:FDN-C-0341|equipment:C-0341	
+%R	1001	1141	1	Civil	
+%R	1002	1141	1		20.0
+%R	1003	1141	1	m3	
+%R	1004	1141	1	L5	
+%R	1005	1141	1	foundation:FDN-C-0342|equipment:C-0342	
+%R	1001	1142	1	Civil	
+%R	1002	1142	1		120.0
+%R	1003	1142	1	m3	
+%R	1004	1142	1	L6	
+%R	1005	1142	1	foundation:FDN-C-0343|equipment:C-0343	
+%R	1001	1143	1	Civil	
+%R	1002	1143	1		120.0
+%R	1003	1143	1	m3	
+%R	1004	1143	1	L6	
+%R	1005	1143	1	foundation:FDN-C-0344|equipment:C-0344	
+%R	1001	1144	1	Civil	
+%R	1002	1144	1		20.0
+%R	1003	1144	1	m3	
+%R	1004	1144	1	L5	
+%R	1005	1144	1	foundation:FDN-C-0345|equipment:C-0345	
+%R	1001	1145	1	Civil	
+%R	1002	1145	1		40.0
+%R	1003	1145	1	m3	
+%R	1004	1145	1	L6	
+%R	1005	1145	1	foundation:FDN-C-0346|equipment:C-0346	
+%R	1001	1146	1	Civil	
+%R	1002	1146	1		60.0
+%R	1003	1146	1	m3	
+%R	1004	1146	1	L6	
+%R	1005	1146	1	foundation:FDN-C-0347|equipment:C-0347	
+%R	1001	1147	1	Civil	
+%R	1002	1147	1		60.0
+%R	1003	1147	1	m3	
+%R	1004	1147	1	L5	
+%R	1005	1147	1	foundation:FDN-C-0348|equipment:C-0348	
+%R	1001	1148	1	Civil	
+%R	1002	1148	1		80.0
+%R	1003	1148	1	m3	
+%R	1004	1148	1	L6	
+%R	1005	1148	1	foundation:FDN-C-0349|equipment:C-0349	
+%R	1001	1149	1	Civil	
+%R	1002	1149	1		60.0
+%R	1003	1149	1	m3	
+%R	1004	1149	1	L6	
+%R	1005	1149	1	foundation:FDN-C-0350|equipment:C-0350	
+%R	1001	1150	1	Civil	
+%R	1002	1150	1		120.0
+%R	1003	1150	1	m3	
+%R	1004	1150	1	L5	
+%R	1005	1150	1	foundation:FDN-C-0351|equipment:C-0351	
+%R	1001	1151	1	Civil	
+%R	1002	1151	1		20.0
+%R	1003	1151	1	m3	
+%R	1004	1151	1	L6	
+%R	1005	1151	1	foundation:FDN-C-0352|equipment:C-0352	
+%R	1001	1152	1	Civil	
+%R	1002	1152	1		20.0
+%R	1003	1152	1	m3	
+%R	1004	1152	1	L6	
+%R	1005	1152	1	foundation:FDN-C-0353|equipment:C-0353	
+%R	1001	1153	1	Civil	
+%R	1002	1153	1		120.0
+%R	1003	1153	1	m3	
+%R	1004	1153	1	L5	
+%R	1005	1153	1	foundation:FDN-C-0354|equipment:C-0354	
+%R	1001	1154	1	Civil	
+%R	1002	1154	1		120.0
+%R	1003	1154	1	m3	
+%R	1004	1154	1	L6	
+%R	1005	1154	1	foundation:FDN-C-0355|equipment:C-0355	
+%R	1001	1155	1	Civil	
+%R	1002	1155	1		20.0
+%R	1003	1155	1	m3	
+%R	1004	1155	1	L6	
+%R	1005	1155	1	foundation:FDN-C-0356|equipment:C-0356	
+%R	1001	1156	1	Electrical	
+%R	1002	1156	1		80.0
+%R	1003	1156	1	m	
+%R	1004	1156	1	L5	
+%R	1005	1156	1	cable:CBL-EL-0557	
+%R	1001	1157	1	Electrical	
+%R	1002	1157	1		120.0
+%R	1003	1157	1	m	
+%R	1004	1157	1	L6	
+%R	1005	1157	1	cable:CBL-EL-0558	
+%R	1001	1158	1	Electrical	
+%R	1002	1158	1		80.0
+%R	1003	1158	1	m	
+%R	1004	1158	1	L6	
+%R	1005	1158	1	cable:CBL-EL-0559	
+%R	1001	1159	1	Electrical	
+%R	1002	1159	1		40.0
+%R	1003	1159	1	m	
+%R	1004	1159	1	L5	
+%R	1005	1159	1	cable:CBL-EL-0560	
+%R	1001	1160	1	Electrical	
+%R	1002	1160	1		120.0
+%R	1003	1160	1	m	
+%R	1004	1160	1	L6	
+%R	1005	1160	1	cable:CBL-EL-0561	
+%R	1001	1161	1	Electrical	
+%R	1002	1161	1		80.0
+%R	1003	1161	1	m	
+%R	1004	1161	1	L6	
+%R	1005	1161	1	cable:CBL-EL-0562	
+%R	1001	1162	1	Electrical	
+%R	1002	1162	1		60.0
+%R	1003	1162	1	m	
+%R	1004	1162	1	L5	
+%R	1005	1162	1	cable:CBL-EL-0563	
+%R	1001	1163	1	Electrical	
+%R	1002	1163	1		120.0
+%R	1003	1163	1	m	
+%R	1004	1163	1	L6	
+%R	1005	1163	1	cable:CBL-EL-0564	
+%R	1001	1164	1	Electrical	
+%R	1002	1164	1		40.0
+%R	1003	1164	1	m	
+%R	1004	1164	1	L6	
+%R	1005	1164	1	cable:CBL-EL-0565	
+%R	1001	1165	1	Electrical	
+%R	1002	1165	1		80.0
+%R	1003	1165	1	m	
+%R	1004	1165	1	L5	
+%R	1005	1165	1	cable:CBL-EL-0566	
+%R	1001	1166	1	Electrical	
+%R	1002	1166	1		120.0
+%R	1003	1166	1	m	
+%R	1004	1166	1	L6	
+%R	1005	1166	1	cable:CBL-EL-0567	
+%R	1001	1167	1	Electrical	
+%R	1002	1167	1		40.0
+%R	1003	1167	1	m	
+%R	1004	1167	1	L6	
+%R	1005	1167	1	cable:CBL-EL-0568	
+%R	1001	1168	1	Electrical	
+%R	1002	1168	1		20.0
+%R	1003	1168	1	m	
+%R	1004	1168	1	L5	
+%R	1005	1168	1		
+%R	1001	1169	1	Electrical	
+%R	1002	1169	1		20.0
+%R	1003	1169	1	m	
+%R	1004	1169	1	L6	
+%R	1005	1169	1		
+%R	1001	1170	1	Electrical	
+%R	1002	1170	1		40.0
+%R	1003	1170	1	m	
+%R	1004	1170	1	L6	
+%R	1005	1170	1		
+%R	1001	1171	1	Electrical	
+%R	1002	1171	1		40.0
+%R	1003	1171	1	m	
+%R	1004	1171	1	L5	
+%R	1005	1171	1		
+%R	1001	1172	1	Electrical	
+%R	1002	1172	1		60.0
+%R	1003	1172	1	m	
+%R	1004	1172	1	L6	
+%R	1005	1172	1		
+%R	1001	1173	1	Electrical	
+%R	1002	1173	1		60.0
+%R	1003	1173	1	m	
+%R	1004	1173	1	L6	
+%R	1005	1173	1		
+%R	1001	1174	1	Electrical	
+%R	1002	1174	1		60.0
+%R	1003	1174	1	m	
+%R	1004	1174	1	L5	
+%R	1005	1174	1	equipment:T-2575	
+%R	1001	1175	1	Electrical	
+%R	1002	1175	1		40.0
+%R	1003	1175	1	m	
+%R	1004	1175	1	L6	
+%R	1005	1175	1	equipment:K-2576B	
+%R	1001	1176	1	Electrical	
+%R	1002	1176	1		80.0
+%R	1003	1176	1	m	
+%R	1004	1176	1	L6	
+%R	1005	1176	1	equipment:K-2577	
+%R	1001	1177	1	Electrical	
+%R	1002	1177	1		120.0
+%R	1003	1177	1	m	
+%R	1004	1177	1	L5	
+%R	1005	1177	1	equipment:V-2578A	
+%R	1001	1178	1	Electrical	
+%R	1002	1178	1		20.0
+%R	1003	1178	1	m	
+%R	1004	1178	1	L6	
+%R	1005	1178	1	equipment:V-2579B	
+%R	1001	1179	1	Electrical	
+%R	1002	1179	1		80.0
+%R	1003	1179	1	m	
+%R	1004	1179	1	L6	
+%R	1005	1179	1	equipment:E-2580A	
+%R	1001	1180	1	Instrumentation	
+%R	1002	1180	1		2.0
+%R	1003	1180	1	nos	
+%R	1004	1180	1	L5	
+%R	1005	1180	1	loop:LP-IN-0881	
+%R	1001	1181	1	Instrumentation	
+%R	1002	1181	1		2.0
+%R	1003	1181	1	nos	
+%R	1004	1181	1	L6	
+%R	1005	1181	1	loop:LP-IN-0882	
+%R	1001	1182	1	Instrumentation	
+%R	1002	1182	1		1.0
+%R	1003	1182	1	nos	
+%R	1004	1182	1	L6	
+%R	1005	1182	1	loop:LP-IN-0883	
+%R	1001	1183	1	Instrumentation	
+%R	1002	1183	1		4.0
+%R	1003	1183	1	nos	
+%R	1004	1183	1	L5	
+%R	1005	1183	1	loop:LP-IN-0884	
+%R	1001	1184	1	Instrumentation	
+%R	1002	1184	1		1.0
+%R	1003	1184	1	nos	
+%R	1004	1184	1	L6	
+%R	1005	1184	1	loop:LP-IN-0885	
+%R	1001	1185	1	Instrumentation	
+%R	1002	1185	1		1.0
+%R	1003	1185	1	nos	
+%R	1004	1185	1	L6	
+%R	1005	1185	1	loop:LP-IN-0886	
+%R	1001	1186	1	Instrumentation	
+%R	1002	1186	1		2.0
+%R	1003	1186	1	nos	
+%R	1004	1186	1	L5	
+%R	1005	1186	1	loop:LP-IN-0887	
+%R	1001	1187	1	Instrumentation	
+%R	1002	1187	1		2.0
+%R	1003	1187	1	nos	
+%R	1004	1187	1	L6	
+%R	1005	1187	1	loop:LP-IN-0888	
+%R	1001	1188	1	Instrumentation	
+%R	1002	1188	1		2.0
+%R	1003	1188	1	nos	
+%R	1004	1188	1	L6	
+%R	1005	1188	1	loop:LP-IN-0889	
+%R	1001	1189	1	Instrumentation	
+%R	1002	1189	1		2.0
+%R	1003	1189	1	nos	
+%R	1004	1189	1	L5	
+%R	1005	1189	1	loop:LP-IN-0890	
+%R	1001	1190	1	Instrumentation	
+%R	1002	1190	1		4.0
+%R	1003	1190	1	nos	
+%R	1004	1190	1	L6	
+%R	1005	1190	1	loop:LP-IN-0891	
+%R	1001	1191	1	Instrumentation	
+%R	1002	1191	1		2.0
+%R	1003	1191	1	nos	
+%R	1004	1191	1	L6	
+%R	1005	1191	1	loop:LP-IN-0892	
+%R	1001	1192	1	Instrumentation	
+%R	1002	1192	1		4.0
+%R	1003	1192	1	nos	
+%R	1004	1192	1	L5	
+%R	1005	1192	1	loop:LP-IN-0893	
+%R	1001	1193	1	Instrumentation	
+%R	1002	1193	1		4.0
+%R	1003	1193	1	nos	
+%R	1004	1193	1	L6	
+%R	1005	1193	1	loop:LP-IN-0894	
+%R	1001	1194	1	Instrumentation	
+%R	1002	1194	1		4.0
+%R	1003	1194	1	nos	
+%R	1004	1194	1	L6	
+%R	1005	1194	1	loop:LP-IN-0895	
+%R	1001	1195	1	Instrumentation	
+%R	1002	1195	1		4.0
+%R	1003	1195	1	nos	
+%R	1004	1195	1	L5	
+%R	1005	1195	1	loop:LP-IN-0896	
+%R	1001	1196	1	Instrumentation	
+%R	1002	1196	1		4.0
+%R	1003	1196	1	nos	
+%R	1004	1196	1	L6	
+%R	1005	1196	1	loop:LP-IN-0897	
+%R	1001	1197	1	Instrumentation	
+%R	1002	1197	1		2.0
+%R	1003	1197	1	nos	
+%R	1004	1197	1	L6	
+%R	1005	1197	1	loop:LP-IN-0898	
+%R	1001	1198	1	Static Equipment	
+%R	1002	1198	1		4.0
+%R	1003	1198	1	nos	
+%R	1004	1198	1	L5	
+%R	1005	1198	1	equipment:K-2599A	
+%R	1001	1199	1	Static Equipment	
+%R	1002	1199	1		4.0
+%R	1003	1199	1	nos	
+%R	1004	1199	1	L6	
+%R	1005	1199	1	equipment:T-2600	
+%R	1001	1200	1	Static Equipment	
+%R	1002	1200	1		2.0
+%R	1003	1200	1	nos	
+%R	1004	1200	1	L6	
+%R	1005	1200	1	equipment:K-2601B	
+%R	1001	1201	1	Static Equipment	
+%R	1002	1201	1		4.0
+%R	1003	1201	1	nos	
+%R	1004	1201	1	L5	
+%R	1005	1201	1	equipment:T-2602A	
+%R	1001	1202	1	Static Equipment	
+%R	1002	1202	1		4.0
+%R	1003	1202	1	nos	
+%R	1004	1202	1	L6	
+%R	1005	1202	1	equipment:V-2603A	
+%R	1001	1203	1	Static Equipment	
+%R	1002	1203	1		4.0
+%R	1003	1203	1	nos	
+%R	1004	1203	1	L6	
+%R	1005	1203	1	equipment:T-2604A	
+%R	1001	1204	1	Static Equipment	
+%R	1002	1204	1		1.0
+%R	1003	1204	1	nos	
+%R	1004	1204	1	L5	
+%R	1005	1204	1	equipment:E-2605A	
+%R	1001	1205	1	Static Equipment	
+%R	1002	1205	1		2.0
+%R	1003	1205	1	nos	
+%R	1004	1205	1	L6	
+%R	1005	1205	1	equipment:K-2606	
+%R	1001	1206	1	Static Equipment	
+%R	1002	1206	1		2.0
+%R	1003	1206	1	nos	
+%R	1004	1206	1	L6	
+%R	1005	1206	1	equipment:K-2607	
+%R	1001	1207	1	Static Equipment	
+%R	1002	1207	1		4.0
+%R	1003	1207	1	nos	
+%R	1004	1207	1	L5	
+%R	1005	1207	1	equipment:T-2608B	
+%R	1001	1208	1	Static Equipment	
+%R	1002	1208	1		4.0
+%R	1003	1208	1	nos	
+%R	1004	1208	1	L6	
+%R	1005	1208	1	equipment:V-2609A	
+%R	1001	1209	1	Static Equipment	
+%R	1002	1209	1		4.0
+%R	1003	1209	1	nos	
+%R	1004	1209	1	L6	
+%R	1005	1209	1	equipment:E-2610A	
+%R	1001	1210	1	Static Equipment	
+%R	1002	1210	1		4.0
+%R	1003	1210	1	nos	
+%R	1004	1210	1	L5	
+%R	1005	1210	1	equipment:T-2611	
+%R	1001	1211	1	Static Equipment	
+%R	1002	1211	1		2.0
+%R	1003	1211	1	nos	
+%R	1004	1211	1	L6	
+%R	1005	1211	1	equipment:V-2612A	
+%R	1001	1212	1	Static Equipment	
+%R	1002	1212	1		4.0
+%R	1003	1212	1	nos	
+%R	1004	1212	1	L6	
+%R	1005	1212	1	equipment:T-2613B	
+%R	1001	1213	1	Static Equipment	
+%R	1002	1213	1		2.0
+%R	1003	1213	1	nos	
+%R	1004	1213	1	L5	
+%R	1005	1213	1	equipment:K-2614	
+%R	1001	1214	1	Static Equipment	
+%R	1002	1214	1		4.0
+%R	1003	1214	1	nos	
+%R	1004	1214	1	L6	
+%R	1005	1214	1	equipment:V-2615B	
+%R	1001	1215	1	Static Equipment	
+%R	1002	1215	1		2.0
+%R	1003	1215	1	nos	
+%R	1004	1215	1	L6	
+%R	1005	1215	1	equipment:T-2616B	
+%R	1001	1216	1	Piping	
+%R	1002	1216	1		80.0
+%R	1003	1216	1	m	
+%R	1004	1216	1	L5	
+%R	1005	1216	1	line:16"-FG-1217	
+%R	1001	1217	1	Piping	
+%R	1002	1217	1		60.0
+%R	1003	1217	1	m	
+%R	1004	1217	1	L6	
+%R	1005	1217	1	line:12"-FG-1218	
+%R	1001	1218	1	Piping	
+%R	1002	1218	1		80.0
+%R	1003	1218	1	m	
+%R	1004	1218	1	L6	
+%R	1005	1218	1	line:8"-FG-1219	
+%R	1001	1219	1	Piping	
+%R	1002	1219	1		20.0
+%R	1003	1219	1	m	
+%R	1004	1219	1	L5	
+%R	1005	1219	1	line:24"-HC-1220	
+%R	1001	1220	1	Piping	
+%R	1002	1220	1		120.0
+%R	1003	1220	1	m	
+%R	1004	1220	1	L6	
+%R	1005	1220	1	line:6"-CW-1221	
+%R	1001	1221	1	Piping	
+%R	1002	1221	1		20.0
+%R	1003	1221	1	m	
+%R	1004	1221	1	L6	
+%R	1005	1221	1	line:8"-PG-1222	
+%R	1001	1222	1	Piping	
+%R	1002	1222	1		60.0
+%R	1003	1222	1	m	
+%R	1004	1222	1	L5	
+%R	1005	1222	1	line:16"-PG-1223	
+%R	1001	1223	1	Piping	
+%R	1002	1223	1		80.0
+%R	1003	1223	1	m	
+%R	1004	1223	1	L6	
+%R	1005	1223	1	line:8"-HC-1224	
+%R	1001	1224	1	Piping	
+%R	1002	1224	1		20.0
+%R	1003	1224	1	m	
+%R	1004	1224	1	L6	
+%R	1005	1224	1	line:24"-PG-1225	
+%R	1001	1225	1	Piping	
+%R	1002	1225	1		40.0
+%R	1003	1225	1	m	
+%R	1004	1225	1	L5	
+%R	1005	1225	1	line:16"-CW-1226	
+%R	1001	1226	1	Piping	
+%R	1002	1226	1		40.0
+%R	1003	1226	1	m	
+%R	1004	1226	1	L6	
+%R	1005	1226	1	line:8"-PG-1227	
+%R	1001	1227	1	Piping	
+%R	1002	1227	1		40.0
+%R	1003	1227	1	m	
+%R	1004	1227	1	L6	
+%R	1005	1227	1	line:6"-CW-1228	
+%R	1001	1228	1	Piping	
+%R	1002	1228	1		80.0
+%R	1003	1228	1	m	
+%R	1004	1228	1	L5	
+%R	1005	1228	1	line:6"-FG-1229	
+%R	1001	1229	1	Piping	
+%R	1002	1229	1		80.0
+%R	1003	1229	1	m	
+%R	1004	1229	1	L6	
+%R	1005	1229	1	line:12"-PG-1230	
+%R	1001	1230	1	Piping	
+%R	1002	1230	1		60.0
+%R	1003	1230	1	m	
+%R	1004	1230	1	L6	
+%R	1005	1230	1	line:12"-FG-1231	
+%R	1001	1231	1	Piping	
+%R	1002	1231	1		60.0
+%R	1003	1231	1	m	
+%R	1004	1231	1	L5	
+%R	1005	1231	1	line:24"-HC-1232	
+%R	1001	1232	1	Piping	
+%R	1002	1232	1		60.0
+%R	1003	1232	1	m	
+%R	1004	1232	1	L6	
+%R	1005	1232	1	line:8"-HC-1233	
+%R	1001	1233	1	Piping	
+%R	1002	1233	1		40.0
+%R	1003	1233	1	m	
+%R	1004	1233	1	L6	
+%R	1005	1233	1	line:12"-PG-1234	
+%R	1001	1234	1	Piping	
+%R	1002	1234	1		120.0
+%R	1003	1234	1	m	
+%R	1004	1234	1	L5	
+%R	1005	1234	1	line:24"-FG-1235	
+%R	1001	1235	1	Piping	
+%R	1002	1235	1		80.0
+%R	1003	1235	1	m	
+%R	1004	1235	1	L6	
+%R	1005	1235	1	line:8"-HC-1236	
+%R	1001	1236	1	Piping	
+%R	1002	1236	1		60.0
+%R	1003	1236	1	m	
+%R	1004	1236	1	L6	
+%R	1005	1236	1	line:8"-PG-1237	
+%R	1001	1237	1	Piping	
+%R	1002	1237	1		60.0
+%R	1003	1237	1	m	
+%R	1004	1237	1	L5	
+%R	1005	1237	1	line:24"-PG-1238	
+%R	1001	1238	1	Piping	
+%R	1002	1238	1		80.0
+%R	1003	1238	1	m	
+%R	1004	1238	1	L6	
+%R	1005	1238	1	line:24"-PG-1239	
+%R	1001	1239	1	Piping	
+%R	1002	1239	1		120.0
+%R	1003	1239	1	m	
+%R	1004	1239	1	L6	
+%R	1005	1239	1	line:16"-PG-1240	
+%R	1001	1240	1	Civil	
+%R	1002	1240	1		20.0
+%R	1003	1240	1	m3	
+%R	1004	1240	1	L5	
+%R	1005	1240	1	foundation:FDN-C-0441|equipment:C-0441	
+%R	1001	1241	1	Civil	
+%R	1002	1241	1		40.0
+%R	1003	1241	1	m3	
+%R	1004	1241	1	L6	
+%R	1005	1241	1	foundation:FDN-C-0442|equipment:C-0442	
+%R	1001	1242	1	Civil	
+%R	1002	1242	1		40.0
+%R	1003	1242	1	m3	
+%R	1004	1242	1	L6	
+%R	1005	1242	1	foundation:FDN-C-0443|equipment:C-0443	
+%R	1001	1243	1	Civil	
+%R	1002	1243	1		20.0
+%R	1003	1243	1	m3	
+%R	1004	1243	1	L5	
+%R	1005	1243	1	foundation:FDN-C-0444|equipment:C-0444	
+%R	1001	1244	1	Civil	
+%R	1002	1244	1		80.0
+%R	1003	1244	1	m3	
+%R	1004	1244	1	L6	
+%R	1005	1244	1	foundation:FDN-C-0445|equipment:C-0445	
+%R	1001	1245	1	Civil	
+%R	1002	1245	1		60.0
+%R	1003	1245	1	m3	
+%R	1004	1245	1	L6	
+%R	1005	1245	1	foundation:FDN-C-0446|equipment:C-0446	
+%R	1001	1246	1	Civil	
+%R	1002	1246	1		80.0
+%R	1003	1246	1	m3	
+%R	1004	1246	1	L5	
+%R	1005	1246	1	foundation:FDN-C-0447|equipment:C-0447	
+%R	1001	1247	1	Civil	
+%R	1002	1247	1		60.0
+%R	1003	1247	1	m3	
+%R	1004	1247	1	L6	
+%R	1005	1247	1	foundation:FDN-C-0448|equipment:C-0448	
+%R	1001	1248	1	Civil	
+%R	1002	1248	1		40.0
+%R	1003	1248	1	m3	
+%R	1004	1248	1	L6	
+%R	1005	1248	1	foundation:FDN-C-0449|equipment:C-0449	
+%R	1001	1249	1	Civil	
+%R	1002	1249	1		120.0
+%R	1003	1249	1	m3	
+%R	1004	1249	1	L5	
+%R	1005	1249	1	foundation:FDN-C-0450|equipment:C-0450	
+%R	1001	1250	1	Civil	
+%R	1002	1250	1		60.0
+%R	1003	1250	1	m3	
+%R	1004	1250	1	L6	
+%R	1005	1250	1	foundation:FDN-C-0451|equipment:C-0451	
+%R	1001	1251	1	Civil	
+%R	1002	1251	1		80.0
+%R	1003	1251	1	m3	
+%R	1004	1251	1	L6	
+%R	1005	1251	1	foundation:FDN-C-0452|equipment:C-0452	
+%R	1001	1252	1	Civil	
+%R	1002	1252	1		40.0
+%R	1003	1252	1	m3	
+%R	1004	1252	1	L5	
+%R	1005	1252	1	foundation:FDN-C-0453|equipment:C-0453	
+%R	1001	1253	1	Civil	
+%R	1002	1253	1		20.0
+%R	1003	1253	1	m3	
+%R	1004	1253	1	L6	
+%R	1005	1253	1	foundation:FDN-C-0454|equipment:C-0454	
+%R	1001	1254	1	Civil	
+%R	1002	1254	1		20.0
+%R	1003	1254	1	m3	
+%R	1004	1254	1	L6	
+%R	1005	1254	1	foundation:FDN-C-0455|equipment:C-0455	
+%R	1001	1255	1	Civil	
+%R	1002	1255	1		80.0
+%R	1003	1255	1	m3	
+%R	1004	1255	1	L5	
+%R	1005	1255	1	foundation:FDN-C-0456|equipment:C-0456	
+%R	1001	1256	1	Civil	
+%R	1002	1256	1		120.0
+%R	1003	1256	1	m3	
+%R	1004	1256	1	L6	
+%R	1005	1256	1	foundation:FDN-C-0457|equipment:C-0457	
+%R	1001	1257	1	Civil	
+%R	1002	1257	1		20.0
+%R	1003	1257	1	m3	
+%R	1004	1257	1	L6	
+%R	1005	1257	1	foundation:FDN-C-0458|equipment:C-0458	
+%R	1001	1258	1	Civil	
+%R	1002	1258	1		80.0
+%R	1003	1258	1	m3	
+%R	1004	1258	1	L5	
+%R	1005	1258	1	foundation:FDN-C-0459|equipment:C-0459	
+%R	1001	1259	1	Civil	
+%R	1002	1259	1		60.0
+%R	1003	1259	1	m3	
+%R	1004	1259	1	L6	
+%R	1005	1259	1	foundation:FDN-C-0460|equipment:C-0460	
+%R	1001	1260	1	Civil	
+%R	1002	1260	1		20.0
+%R	1003	1260	1	m3	
+%R	1004	1260	1	L6	
+%R	1005	1260	1	foundation:FDN-C-0461|equipment:C-0461	
+%R	1001	1261	1	Civil	
+%R	1002	1261	1		80.0
+%R	1003	1261	1	m3	
+%R	1004	1261	1	L5	
+%R	1005	1261	1	foundation:FDN-C-0462|equipment:C-0462	
+%R	1001	1262	1	Civil	
+%R	1002	1262	1		40.0
+%R	1003	1262	1	m3	
+%R	1004	1262	1	L6	
+%R	1005	1262	1	foundation:FDN-C-0463|equipment:C-0463	
+%R	1001	1263	1	Civil	
+%R	1002	1263	1		40.0
+%R	1003	1263	1	m3	
+%R	1004	1263	1	L6	
+%R	1005	1263	1	foundation:FDN-C-0464|equipment:C-0464	
+%R	1001	1264	1	Electrical	
+%R	1002	1264	1		120.0
+%R	1003	1264	1	m	
+%R	1004	1264	1	L5	
+%R	1005	1264	1	cable:CBL-EL-0665	
+%R	1001	1265	1	Electrical	
+%R	1002	1265	1		120.0
+%R	1003	1265	1	m	
+%R	1004	1265	1	L6	
+%R	1005	1265	1	cable:CBL-EL-0666	
+%R	1001	1266	1	Electrical	
+%R	1002	1266	1		120.0
+%R	1003	1266	1	m	
+%R	1004	1266	1	L6	
+%R	1005	1266	1	cable:CBL-EL-0667	
+%R	1001	1267	1	Electrical	
+%R	1002	1267	1		80.0
+%R	1003	1267	1	m	
+%R	1004	1267	1	L5	
+%R	1005	1267	1	cable:CBL-EL-0668	
+%R	1001	1268	1	Electrical	
+%R	1002	1268	1		60.0
+%R	1003	1268	1	m	
+%R	1004	1268	1	L6	
+%R	1005	1268	1	cable:CBL-EL-0669	
+%R	1001	1269	1	Electrical	
+%R	1002	1269	1		60.0
+%R	1003	1269	1	m	
+%R	1004	1269	1	L6	
+%R	1005	1269	1	cable:CBL-EL-0670	
+%R	1001	1270	1	Electrical	
+%R	1002	1270	1		80.0
+%R	1003	1270	1	m	
+%R	1004	1270	1	L5	
+%R	1005	1270	1	cable:CBL-EL-0671	
+%R	1001	1271	1	Electrical	
+%R	1002	1271	1		40.0
+%R	1003	1271	1	m	
+%R	1004	1271	1	L6	
+%R	1005	1271	1	cable:CBL-EL-0672	
+%R	1001	1272	1	Electrical	
+%R	1002	1272	1		20.0
+%R	1003	1272	1	m	
+%R	1004	1272	1	L6	
+%R	1005	1272	1	cable:CBL-EL-0673	
+%R	1001	1273	1	Electrical	
+%R	1002	1273	1		80.0
+%R	1003	1273	1	m	
+%R	1004	1273	1	L5	
+%R	1005	1273	1	cable:CBL-EL-0674	
+%R	1001	1274	1	Electrical	
+%R	1002	1274	1		80.0
+%R	1003	1274	1	m	
+%R	1004	1274	1	L6	
+%R	1005	1274	1	cable:CBL-EL-0675	
+%R	1001	1275	1	Electrical	
+%R	1002	1275	1		40.0
+%R	1003	1275	1	m	
+%R	1004	1275	1	L6	
+%R	1005	1275	1	cable:CBL-EL-0676	
+%R	1001	1276	1	Electrical	
+%R	1002	1276	1		120.0
+%R	1003	1276	1	m	
+%R	1004	1276	1	L5	
+%R	1005	1276	1		
+%R	1001	1277	1	Electrical	
+%R	1002	1277	1		60.0
+%R	1003	1277	1	m	
+%R	1004	1277	1	L6	
+%R	1005	1277	1		
+%R	1001	1278	1	Electrical	
+%R	1002	1278	1		60.0
+%R	1003	1278	1	m	
+%R	1004	1278	1	L6	
+%R	1005	1278	1		
+%R	1001	1279	1	Electrical	
+%R	1002	1279	1		60.0
+%R	1003	1279	1	m	
+%R	1004	1279	1	L5	
+%R	1005	1279	1		
+%R	1001	1280	1	Electrical	
+%R	1002	1280	1		80.0
+%R	1003	1280	1	m	
+%R	1004	1280	1	L6	
+%R	1005	1280	1		
+%R	1001	1281	1	Electrical	
+%R	1002	1281	1		120.0
+%R	1003	1281	1	m	
+%R	1004	1281	1	L6	
+%R	1005	1281	1		
+%R	1001	1282	1	Electrical	
+%R	1002	1282	1		20.0
+%R	1003	1282	1	m	
+%R	1004	1282	1	L5	
+%R	1005	1282	1	equipment:E-2683	
+%R	1001	1283	1	Electrical	
+%R	1002	1283	1		20.0
+%R	1003	1283	1	m	
+%R	1004	1283	1	L6	
+%R	1005	1283	1	equipment:E-2684A	
+%R	1001	1284	1	Electrical	
+%R	1002	1284	1		120.0
+%R	1003	1284	1	m	
+%R	1004	1284	1	L6	
+%R	1005	1284	1	equipment:T-2685	
+%R	1001	1285	1	Electrical	
+%R	1002	1285	1		120.0
+%R	1003	1285	1	m	
+%R	1004	1285	1	L5	
+%R	1005	1285	1	equipment:V-2686B	
+%R	1001	1286	1	Electrical	
+%R	1002	1286	1		120.0
+%R	1003	1286	1	m	
+%R	1004	1286	1	L6	
+%R	1005	1286	1	equipment:T-2687	
+%R	1001	1287	1	Electrical	
+%R	1002	1287	1		120.0
+%R	1003	1287	1	m	
+%R	1004	1287	1	L6	
+%R	1005	1287	1	equipment:E-2688	
+%R	1001	1288	1	Instrumentation	
+%R	1002	1288	1		2.0
+%R	1003	1288	1	nos	
+%R	1004	1288	1	L5	
+%R	1005	1288	1	loop:LP-IN-0989	
+%R	1001	1289	1	Instrumentation	
+%R	1002	1289	1		1.0
+%R	1003	1289	1	nos	
+%R	1004	1289	1	L6	
+%R	1005	1289	1	loop:LP-IN-0990	
+%R	1001	1290	1	Instrumentation	
+%R	1002	1290	1		2.0
+%R	1003	1290	1	nos	
+%R	1004	1290	1	L6	
+%R	1005	1290	1	loop:LP-IN-0991	
+%R	1001	1291	1	Instrumentation	
+%R	1002	1291	1		1.0
+%R	1003	1291	1	nos	
+%R	1004	1291	1	L5	
+%R	1005	1291	1	loop:LP-IN-0992	
+%R	1001	1292	1	Instrumentation	
+%R	1002	1292	1		2.0
+%R	1003	1292	1	nos	
+%R	1004	1292	1	L6	
+%R	1005	1292	1	loop:LP-IN-0993	
+%R	1001	1293	1	Instrumentation	
+%R	1002	1293	1		4.0
+%R	1003	1293	1	nos	
+%R	1004	1293	1	L6	
+%R	1005	1293	1	loop:LP-IN-0994	
+%R	1001	1294	1	Instrumentation	
+%R	1002	1294	1		4.0
+%R	1003	1294	1	nos	
+%R	1004	1294	1	L5	
+%R	1005	1294	1	loop:LP-IN-0995	
+%R	1001	1295	1	Instrumentation	
+%R	1002	1295	1		4.0
+%R	1003	1295	1	nos	
+%R	1004	1295	1	L6	
+%R	1005	1295	1	loop:LP-IN-0996	
+%R	1001	1296	1	Instrumentation	
+%R	1002	1296	1		1.0
+%R	1003	1296	1	nos	
+%R	1004	1296	1	L6	
+%R	1005	1296	1	loop:LP-IN-0997	
+%R	1001	1297	1	Instrumentation	
+%R	1002	1297	1		2.0
+%R	1003	1297	1	nos	
+%R	1004	1297	1	L5	
+%R	1005	1297	1	loop:LP-IN-0998	
+%R	1001	1298	1	Instrumentation	
+%R	1002	1298	1		2.0
+%R	1003	1298	1	nos	
+%R	1004	1298	1	L6	
+%R	1005	1298	1	loop:LP-IN-0999	
+%R	1001	1299	1	Instrumentation	
+%R	1002	1299	1		2.0
+%R	1003	1299	1	nos	
+%R	1004	1299	1	L6	
+%R	1005	1299	1	loop:LP-IN-1000	
+%R	1001	1300	1	Instrumentation	
+%R	1002	1300	1		4.0
+%R	1003	1300	1	nos	
+%R	1004	1300	1	L5	
+%R	1005	1300	1	loop:LP-IN-1001	
+%R	1001	1301	1	Instrumentation	
+%R	1002	1301	1		1.0
+%R	1003	1301	1	nos	
+%R	1004	1301	1	L6	
+%R	1005	1301	1	loop:LP-IN-1002	
+%R	1001	1302	1	Instrumentation	
+%R	1002	1302	1		1.0
+%R	1003	1302	1	nos	
+%R	1004	1302	1	L6	
+%R	1005	1302	1	loop:LP-IN-1003	
+%R	1001	1303	1	Instrumentation	
+%R	1002	1303	1		4.0
+%R	1003	1303	1	nos	
+%R	1004	1303	1	L5	
+%R	1005	1303	1	loop:LP-IN-1004	
+%R	1001	1304	1	Instrumentation	
+%R	1002	1304	1		4.0
+%R	1003	1304	1	nos	
+%R	1004	1304	1	L6	
+%R	1005	1304	1	loop:LP-IN-1005	
+%R	1001	1305	1	Instrumentation	
+%R	1002	1305	1		4.0
+%R	1003	1305	1	nos	
+%R	1004	1305	1	L6	
+%R	1005	1305	1	loop:LP-IN-1006	
+%R	1001	1306	1	Static Equipment	
+%R	1002	1306	1		2.0
+%R	1003	1306	1	nos	
+%R	1004	1306	1	L5	
+%R	1005	1306	1	equipment:P-2707	
+%R	1001	1307	1	Static Equipment	
+%R	1002	1307	1		4.0
+%R	1003	1307	1	nos	
+%R	1004	1307	1	L6	
+%R	1005	1307	1	equipment:P-2708	
+%R	1001	1308	1	Static Equipment	
+%R	1002	1308	1		1.0
+%R	1003	1308	1	nos	
+%R	1004	1308	1	L6	
+%R	1005	1308	1	equipment:K-2709	
+%R	1001	1309	1	Static Equipment	
+%R	1002	1309	1		2.0
+%R	1003	1309	1	nos	
+%R	1004	1309	1	L5	
+%R	1005	1309	1	equipment:P-2710	
+%R	1001	1310	1	Static Equipment	
+%R	1002	1310	1		4.0
+%R	1003	1310	1	nos	
+%R	1004	1310	1	L6	
+%R	1005	1310	1	equipment:P-2711B	
+%R	1001	1311	1	Static Equipment	
+%R	1002	1311	1		4.0
+%R	1003	1311	1	nos	
+%R	1004	1311	1	L6	
+%R	1005	1311	1	equipment:E-2712	
+%R	1001	1312	1	Static Equipment	
+%R	1002	1312	1		1.0
+%R	1003	1312	1	nos	
+%R	1004	1312	1	L5	
+%R	1005	1312	1	equipment:V-2713A	
+%R	1001	1313	1	Static Equipment	
+%R	1002	1313	1		1.0
+%R	1003	1313	1	nos	
+%R	1004	1313	1	L6	
+%R	1005	1313	1	equipment:T-2714	
+%R	1001	1314	1	Static Equipment	
+%R	1002	1314	1		2.0
+%R	1003	1314	1	nos	
+%R	1004	1314	1	L6	
+%R	1005	1314	1	equipment:E-2715	
+%R	1001	1315	1	Static Equipment	
+%R	1002	1315	1		2.0
+%R	1003	1315	1	nos	
+%R	1004	1315	1	L5	
+%R	1005	1315	1	equipment:T-2716B	
+%R	1001	1316	1	Static Equipment	
+%R	1002	1316	1		1.0
+%R	1003	1316	1	nos	
+%R	1004	1316	1	L6	
+%R	1005	1316	1	equipment:V-2717	
+%R	1001	1317	1	Static Equipment	
+%R	1002	1317	1		2.0
+%R	1003	1317	1	nos	
+%R	1004	1317	1	L6	
+%R	1005	1317	1	equipment:T-2718B	
+%R	1001	1318	1	Static Equipment	
+%R	1002	1318	1		1.0
+%R	1003	1318	1	nos	
+%R	1004	1318	1	L5	
+%R	1005	1318	1	equipment:P-2719A	
+%R	1001	1319	1	Static Equipment	
+%R	1002	1319	1		2.0
+%R	1003	1319	1	nos	
+%R	1004	1319	1	L6	
+%R	1005	1319	1	equipment:E-2720	
+%R	1001	1320	1	Static Equipment	
+%R	1002	1320	1		4.0
+%R	1003	1320	1	nos	
+%R	1004	1320	1	L6	
+%R	1005	1320	1	equipment:V-2721	
+%R	1001	1321	1	Static Equipment	
+%R	1002	1321	1		2.0
+%R	1003	1321	1	nos	
+%R	1004	1321	1	L5	
+%R	1005	1321	1	equipment:V-2722	
+%R	1001	1322	1	Static Equipment	
+%R	1002	1322	1		4.0
+%R	1003	1322	1	nos	
+%R	1004	1322	1	L6	
+%R	1005	1322	1	equipment:E-2723A	
+%R	1001	1323	1	Static Equipment	
+%R	1002	1323	1		2.0
+%R	1003	1323	1	nos	
+%R	1004	1323	1	L6	
+%R	1005	1323	1	equipment:K-2724A	
+%E

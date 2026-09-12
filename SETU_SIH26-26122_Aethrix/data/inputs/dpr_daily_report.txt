@@ -1,0 +1,1340 @@
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 03-Apr-2026
+Prepared by: A. Saikia
+================================================================
+
+INSTRUMENTATION
+  - tubing installed at South Bay (2 nos)   [Ref: E00195]
+
+GENERAL / OTHER
+  - hydrotest completed for line 6"-FG-1131 (40 m)   [Ref: E00138]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 08-Apr-2026
+Prepared by: S. Baruah
+================================================================
+
+STATIC EQUIPMENT
+  - grout poured E-2501B (4 nos)   [Ref: E00109]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 08-Apr-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - grout poured V-2713A (1 nos)   [Ref: E00311]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 09-Apr-2026
+Prepared by: R. Gogoi
+================================================================
+
+ELECTRICAL
+  - cable laying done CBL-EL-0669 (34.8 m)   [Ref: E00276]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 11-Apr-2026
+Prepared by: M. Das
+================================================================
+
+STATIC EQUIPMENT
+  - grouting done for vessel at Sec-3 (2 nos)   [Ref: E00107]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 12-Apr-2026
+Prepared by: K. Bora
+================================================================
+
+STATIC EQUIPMENT
+  - vessel P-2707 erected (1 nos)   [Ref: E00305]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 13-Apr-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - concrete pouring completed for foundation at Sec-4 (8.7 m3)   [Ref: E00247]
+
+GENERAL / OTHER
+  - spools erected on line 8"-PG-1222 (10.7 m)   [Ref: E00218]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 15-Apr-2026
+Prepared by: P. Nath
+================================================================
+
+ELECTRICAL
+  - cable laying done CBL-EL-0670 (60 m)   [Ref: E00279]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 16-Apr-2026
+Prepared by: S. Baruah
+================================================================
+
+STATIC EQUIPMENT
+  - exchanger alignment done Sec-2 (1 nos)   [Ref: E00111]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 17-Apr-2026
+Prepared by: M. Das
+================================================================
+
+STATIC EQUIPMENT
+  - vessel P-2707 erected (1 nos)   [Ref: E00306]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 18-Apr-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - welding completed North Bay (40 m)   [Ref: E00131]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 18-Apr-2026
+Prepared by: A. Saikia
+================================================================
+
+ELECTRICAL
+  - cable tray erection at South Bay (47.3 m)   [Ref: E00064]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 18-Apr-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - poured FDN-C-0444 (5 m3)   [Ref: E00249]
+  - excavation completed for foundation North Bay (60 m3)   [Ref: E00255]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 19-Apr-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - grouting done for vessel at Sec-2 (1 nos)   [Ref: E00204]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 19-Apr-2026
+Prepared by: P. Nath
+================================================================
+
+ELECTRICAL
+  - terminations completed CBL-EL-0676 (17.6 m)   [Ref: E00285]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 20-Apr-2026
+Prepared by: P. Nath
+================================================================
+
+CIVIL
+  - backfill done FDN-C-0248 (60 m3)   [Ref: E00054]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 21-Apr-2026
+Prepared by: M. Das
+================================================================
+
+CIVIL
+  - backfilling in progress at CH 10+500 (40 m3)   [Ref: E00051]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 22-Apr-2026
+Prepared by: M. Das
+================================================================
+
+CIVIL
+  - backfill done FDN-C-0243 (24.3 m3)   [Ref: E00050]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 22-Apr-2026
+Prepared by: A. Saikia
+================================================================
+
+PIPING
+  - fabricated spools 16"-CW-1226 (7.7 m)   [Ref: E00226]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 24-Apr-2026
+Prepared by: P. Nath
+================================================================
+
+CIVIL
+  - excavation completed for foundation Sec-3 (15 m3)   [Ref: E00252]
+
+ELECTRICAL
+  - cable termination done at South Bay (22.4 m)   [Ref: E00286]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 25-Apr-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - terminated both ends CBL-EL-0565 (40 m)   [Ref: E00172]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 26-Apr-2026
+Prepared by: M. Das
+================================================================
+
+GENERAL / OTHER
+  - reinforcement fixing done at North Bay (84 m3)   [Ref: E00267]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 27-Apr-2026
+Prepared by: A. Saikia
+================================================================
+
+INSTRUMENTATION
+  - tubing installed at Sec-2 (1 nos)   [Ref: E00090]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 28-Apr-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - excavation finished near CH 33+600 (8.5 m3)   [Ref: E00253]
+
+GENERAL / OTHER
+  - pressure testing done Sec-4 (22 m)   [Ref: E00239]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 29-Apr-2026
+Prepared by: P. Nath
+================================================================
+
+INSTRUMENTATION
+  - impulse tubing completed for Sec-2 (1 nos)   [Ref: E00091]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 01-May-2026
+Prepared by: M. Das
+================================================================
+
+ELECTRICAL
+  - terminated both ends CBL-EL-0563 (34 m)   [Ref: E00171]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 02-May-2026
+Prepared by: K. Bora
+================================================================
+
+GENERAL / OTHER
+  - excavated pit for FDN-C-0449 (16.5 m3)   [Ref: E00254]
+  - diesel generator hired and placed at gate 2 (7 nos)   [Ref: E00323]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 03-May-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - backfilling in progress at CH 23+800 (64.8 m3)   [Ref: E00164]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 05-May-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - additional dewatering pump commissioned near pit 3 (7 nos)   [Ref: E00327]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 06-May-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (5 nos)   [Ref: E00324]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 07-May-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (3 nos)   [Ref: E00334]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 08-May-2026
+Prepared by: R. Gogoi
+================================================================
+
+PIPING
+  - fit-up and welding done on the line Sec-4 (13.4 m)   [Ref: E00018]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 10-May-2026
+Prepared by: A. Saikia
+================================================================
+
+GENERAL / OTHER
+  - vessel erection completed at Sec-1 (1 nos)   [Ref: E00095]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 12-May-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - cable trays fixed in North Bay (26.7 m)   [Ref: E00174]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 13-May-2026
+Prepared by: R. Gogoi
+================================================================
+
+STATIC EQUIPMENT
+  - erected vessel in Sec-1 (4 nos)   [Ref: E00196]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 14-May-2026
+Prepared by: S. Baruah
+================================================================
+
+STATIC EQUIPMENT
+  - erected vessel in Sec-1 (1 nos)   [Ref: E00096]
+
+GENERAL / OTHER
+  - loop LP-IN-0778 installed (2 nos)   [Ref: E00082]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 14-May-2026
+Prepared by: P. Nath
+================================================================
+
+PIPING
+  - hydro testing carried out on line Sec-2 (17.4 m)   [Ref: E00235]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 15-May-2026
+Prepared by: R. Gogoi
+================================================================
+
+INSTRUMENTATION
+  - loop LP-IN-0884 installed (1 nos)   [Ref: E00183]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 15-May-2026
+Prepared by: S. Baruah
+================================================================
+
+INSTRUMENTATION
+  - loop checking completed LP-IN-0779 (2 nos)   [Ref: E00083]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 17-May-2026
+Prepared by: A. Saikia
+================================================================
+
+ELECTRICAL
+  - cable tray erection at North Bay (16.2 m)   [Ref: E00175]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 17-May-2026
+Prepared by: P. Nath
+================================================================
+
+CIVIL
+  - backfill done FDN-C-0246 (34.1 m3)   [Ref: E00053]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 18-May-2026
+Prepared by: P. Nath
+================================================================
+
+PIPING
+  - hydro testing carried out on cooling water line Sec-2 (11.7 m)   [Ref: E00019]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 18-May-2026
+Prepared by: A. Saikia
+================================================================
+
+GENERAL / OTHER
+  - grout poured T-2718B (2 nos)   [Ref: E00314]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 20-May-2026
+Prepared by: S. Baruah
+================================================================
+
+GENERAL / OTHER
+  - site clearance for extra laydown area completed (7 nos)   [Ref: E00325]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 21-May-2026
+Prepared by: R. Gogoi
+================================================================
+
+ELECTRICAL
+  - transformer T-2685 installed and aligned (74.3 m)   [Ref: E00292]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 23-May-2026
+Prepared by: S. Baruah
+================================================================
+
+GENERAL / OTHER
+  - alignment completed for exchanger at North Bay (2 nos)   [Ref: E00212]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 24-May-2026
+Prepared by: M. Das
+================================================================
+
+PIPING
+  - pressure testing done Sec-1 (37.9 m)   [Ref: E00232]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 26-May-2026
+Prepared by: K. Bora
+================================================================
+
+STATIC EQUIPMENT
+  - vessel erection completed at North Bay (2 nos)   [Ref: E00200]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 27-May-2026
+Prepared by: K. Bora
+================================================================
+
+PIPING
+  - hydrotest completed for line 8"-PG-1128 (35.5 m)   [Ref: E00134]
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (9 nos)   [Ref: E00329]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 27-May-2026
+Prepared by: M. Das
+================================================================
+
+GENERAL / OTHER
+  - grouting done for vessel at Sec-3 (2 nos)   [Ref: E00312]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 28-May-2026
+Prepared by: R. Gogoi
+================================================================
+
+STATIC EQUIPMENT
+  - vessel V-2603A erected (1 nos)   [Ref: E00201]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 28-May-2026
+Prepared by: P. Nath
+================================================================
+
+PIPING
+  - spool fabrication done for Sec-3 (8.5 m)   [Ref: E00222]
+
+GENERAL / OTHER
+  - pressure testing done Sec-1 (82.1 m)   [Ref: E00233]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 29-May-2026
+Prepared by: K. Bora
+================================================================
+
+GENERAL / OTHER
+  - spools erected on line 16"-FG-1217 (22.9 m)   [Ref: E00215]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 30-May-2026
+Prepared by: M. Das
+================================================================
+
+STATIC EQUIPMENT
+  - vessel erection completed at North Bay (1 nos)   [Ref: E00202]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 30-May-2026
+Prepared by: M. Das
+================================================================
+
+PIPING
+  - spool fabrication in progress Sec-3 (8 m)   [Ref: E00224]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 31-May-2026
+Prepared by: M. Das
+================================================================
+
+CIVIL
+  - excavation completed for foundation Sec-3 (40 m3)   [Ref: E00150]
+  - backfill done FDN-C-0353 (7.5 m3)   [Ref: E00161]
+
+INSTRUMENTATION
+  - loop check done for South Bay (1 nos)   [Ref: E00188]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 01-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+PIPING
+  - 3 joints welded on line 6"-PG-1123 (18.8 m)   [Ref: E00130]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 03-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+ELECTRICAL
+  - tray installation completed Sec-2 (120 m)   [Ref: E00062]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 03-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - reinforcement fixing done at Sec-1 (14.3 m3)   [Ref: E00258]
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (6 nos)   [Ref: E00332]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 04-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+CIVIL
+  - casting done for foundation Sec-2 (13.7 m3)   [Ref: E00243]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 05-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+GENERAL / OTHER
+  - pressure testing done South Bay (40 m)   [Ref: E00139]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 06-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+STATIC EQUIPMENT
+  - grouting done for vessel at South Bay (2 nos)   [Ref: E00209]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 06-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+CIVIL
+  - concrete pouring completed for foundation at Sec-3 (27.9 m3)   [Ref: E00031]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 07-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - site clearance for extra laydown area completed (8 nos)   [Ref: E00326]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 07-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (6 nos)   [Ref: E00328]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 08-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+INSTRUMENTATION
+  - instrument installation done North Bay (2 nos)   [Ref: E00081]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 08-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - reinforcement placed at CH 8+500 (7.9 m3)   [Ref: E00259]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 09-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+CIVIL
+  - rebar work completed FDN-C-0347 (60 m3)   [Ref: E00158]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 09-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+ELECTRICAL
+  - installed transformer P-2468B (6.9 m)   [Ref: E00070]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 10-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - reinforcement placed at CH 8+500 (17.8 m3)   [Ref: E00260]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 11-Jun-2026
+Prepared by: M. Das
+================================================================
+
+GENERAL / OTHER
+  - casting done for foundation Sec-3 (10.3 m3)   [Ref: E00142]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 11-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+STATIC EQUIPMENT
+  - grouting completed E-2498A (4 nos)   [Ref: E00106]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 11-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+INSTRUMENTATION
+  - instrument installation done South Bay (2 nos)   [Ref: E00299]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 12-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (8 nos)   [Ref: E00333]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 13-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+CIVIL
+  - concrete pouring completed for foundation at Sec-3 (3.9 m3)   [Ref: E00143]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 13-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - spool erection completed for process gas line South Bay (120 m)   [Ref: E00008]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 13-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+GENERAL / OTHER
+  - loop check done for Sec-2 (2 nos)   [Ref: E00301]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 14-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+CIVIL
+  - excavation finished near CH 24+700 (19 m3)   [Ref: E00148]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 14-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+PIPING
+  - spool erection completed for cooling water line Sec-2 (6.8 m)   [Ref: E00005]
+
+ELECTRICAL
+  - installed transformer P-2468B (5 m)   [Ref: E00071]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 15-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+ELECTRICAL
+  - transformer installation done at South Bay (20 m)   [Ref: E00077]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 16-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+GENERAL / OTHER
+  - poured FDN-C-0333 (37.1 m3)   [Ref: E00140]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 16-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+ELECTRICAL
+  - transformer installation done at Sec-2 (8.1 m)   [Ref: E00072]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 16-Jun-2026
+Prepared by: P. Nath
+================================================================
+
+PIPING
+  - spool fabrication in progress Sec-2 (80 m)   [Ref: E00221]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 18-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+CIVIL
+  - excavation completed for foundation Sec-2 (21 m3)   [Ref: E00149]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 18-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+CIVIL
+  - rebar work completed FDN-C-0242 (35.5 m3)   [Ref: E00045]
+
+GENERAL / OTHER
+  - additional dewatering pump commissioned near pit 3 (3 nos)   [Ref: E00330]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 19-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+ELECTRICAL
+  - cable termination done at Sec-4 (80 m)   [Ref: E00173]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 19-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - spool fabrication done for Sec-1 (60 m)   [Ref: E00220]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 20-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+PIPING
+  - erected spools at North Bay (20 m)   [Ref: E00007]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 21-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - casting done for foundation Sec-1 (82.9 m3)   [Ref: E00141]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 21-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+PIPING
+  - hydrotest completed for line 24"-HC-1022 (43.6 m)   [Ref: E00024]
+
+ELECTRICAL
+  - transformer installation done at North Bay (11.7 m)   [Ref: E00075]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 22-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+ELECTRICAL
+  - installed transformer T-2471B (8.3 m)   [Ref: E00076]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 23-Jun-2026
+Prepared by: M. Das
+================================================================
+
+CIVIL
+  - reinforcement fixing done at North Bay (60 m3)   [Ref: E00044]
+
+PIPING
+  - pressure testing done Sec-4 (36.4 m)   [Ref: E00025]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 23-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+PIPING
+  - hydro testing carried out on the line North Bay (80 m)   [Ref: E00240]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 24-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+PIPING
+  - spool fabrication done for Sec-2 (120 m)   [Ref: E00011]
+
+GENERAL / OTHER
+  - spool fabrication done for Sec-1 (29 m)   [Ref: E00010]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 25-Jun-2026
+Prepared by: K. Bora
+================================================================
+
+CIVIL
+  - reinforcement placed at CH 34+400 (20.3 m3)   [Ref: E00047]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 26-Jun-2026
+Prepared by: S. Baruah
+================================================================
+
+PIPING
+  - hydro testing carried out on cooling water line Sec-1 (9.6 m)   [Ref: E00133]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 26-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+CIVIL
+  - casting done for foundation Sec-1 (31.7 m3)   [Ref: E00028]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 26-Jun-2026
+Prepared by: M. Das
+================================================================
+
+STATIC EQUIPMENT
+  - exchanger alignment done South Bay (1 nos)   [Ref: E00322]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 29-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+GENERAL / OTHER
+  - cable tray erection at South Bay (61.3 m)   [Ref: E00289]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 30-Jun-2026
+Prepared by: A. Saikia
+================================================================
+
+PIPING
+  - spool fabrication in progress Sec-4 (18.9 m)   [Ref: E00122]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 30-Jun-2026
+Prepared by: R. Gogoi
+================================================================
+
+GENERAL / OTHER
+  - unplanned rework on damaged spool at laydown yard (9 nos)   [Ref: E00331]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 04-Jul-2026
+Prepared by: P. Nath
+================================================================
+
+CIVIL
+  - reinforcement placed at CH 1+700 (8.5 m3)   [Ref: E00261]
+
+ELECTRICAL
+  - cable trays fixed in South Bay (58.7 m)   [Ref: E00290]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 05-Jul-2026
+Prepared by: A. Saikia
+================================================================
+
+INSTRUMENTATION
+  - instrument installation done North Bay (1 nos)   [Ref: E00185]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 05-Jul-2026
+Prepared by: P. Nath
+================================================================
+
+INSTRUMENTATION
+  - impulse tubing completed for Sec-1 (1 nos)   [Ref: E00087]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 06-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+PIPING
+  - spool fabrication done for South Bay (28.9 m)   [Ref: E00013]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 06-Jul-2026
+Prepared by: K. Bora
+================================================================
+
+CIVIL
+  - excavated pit for FDN-C-0448 (60 m3)   [Ref: E00251]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 07-Jul-2026
+Prepared by: K. Bora
+================================================================
+
+PIPING
+  - hydro testing carried out on main line Sec-3 (46.8 m)   [Ref: E00136]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 07-Jul-2026
+Prepared by: K. Bora
+================================================================
+
+CIVIL
+  - excavation finished near CH 9+000 (39.2 m3)   [Ref: E00042]
+
+STATIC EQUIPMENT
+  - grouting done for vessel at South Bay (1 nos)   [Ref: E00110]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 07-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+CIVIL
+  - reinforcement fixing done at Sec-2 (3.8 m3)   [Ref: E00262]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 08-Jul-2026
+Prepared by: R. Gogoi
+================================================================
+
+CIVIL
+  - reinforcement placed at CH 19+200 (10.9 m3)   [Ref: E00156]
+
+PIPING
+  - spool fabrication in progress South Bay (40 m)   [Ref: E00126]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 09-Jul-2026
+Prepared by: M. Das
+================================================================
+
+PIPING
+  - hydrotest completed for line 24"-CW-1129 (33.2 m)   [Ref: E00137]
+
+STATIC EQUIPMENT
+  - erected vessel in Sec-4 (4 nos)   [Ref: E00199]
+
+GENERAL / OTHER
+  - casting done for foundation South Bay (20 m3)   [Ref: E00146]
+  - loop check done for Sec-4 (2 nos)   [Ref: E00186]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 09-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+PIPING
+  - fabricated spools 6"-FG-1012 (16.1 m)   [Ref: E00014]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 11-Jul-2026
+Prepared by: R. Gogoi
+================================================================
+
+INSTRUMENTATION
+  - loop LP-IN-0883 installed (1 nos)   [Ref: E00181]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 11-Jul-2026
+Prepared by: K. Bora
+================================================================
+
+PIPING
+  - spool fabrication in progress South Bay (15 m)   [Ref: E00015]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 12-Jul-2026
+Prepared by: M. Das
+================================================================
+
+CIVIL
+  - excavation completed for foundation North Bay (120 m3)   [Ref: E00153]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 13-Jul-2026
+Prepared by: R. Gogoi
+================================================================
+
+INSTRUMENTATION
+  - impulse tubing done LP-IN-0789 (1 nos)   [Ref: E00093]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 14-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+GENERAL / OTHER
+  - instrument installation done Sec-3 (1 nos)   [Ref: E00182]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 15-Jul-2026
+Prepared by: K. Bora
+================================================================
+
+GENERAL / OTHER
+  - erected spools at Sec-3 (29.2 m)   [Ref: E00117]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 15-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+STATIC EQUIPMENT
+  - alignment completed for exchanger at South Bay (1 nos)   [Ref: E00116]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 15-Jul-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - excavated pit for FDN-C-0452 (41.5 m3)   [Ref: E00256]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 16-Jul-2026
+Prepared by: P. Nath
+================================================================
+
+GENERAL / OTHER
+  - excavation finished near CH 12+600 (5.3 m3)   [Ref: E00037]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 17-Jul-2026
+Prepared by: K. Bora
+================================================================
+
+INSTRUMENTATION
+  - impulse tubing done LP-IN-0789 (1 nos)   [Ref: E00094]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 20-Jul-2026
+Prepared by: A. Saikia
+================================================================
+
+PIPING
+  - spools erected on line 6"-HC-1004 (60 m)   [Ref: E00006]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 20-Jul-2026
+Prepared by: P. Nath
+================================================================
+
+CIVIL
+  - reinforcement fixing done at Sec-4 (33.6 m3)   [Ref: E00265]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 22-Jul-2026
+Prepared by: A. Saikia
+================================================================
+
+ELECTRICAL
+  - cable pulled for North Bay feeder (41 m)   [Ref: E00168]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Utilities & Flare
+Date: 22-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+GENERAL / OTHER
+  - concrete pouring completed for foundation at Sec-3 (9.5 m3)   [Ref: E00246]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Gas Compression Area
+Date: 25-Jul-2026
+Prepared by: M. Das
+================================================================
+
+INSTRUMENTATION
+  - loop LP-IN-0775 installed (1 nos)   [Ref: E00080]
+
+================================================================
+DAILY PROGRESS REPORT — OIL Field Development Project
+Area: Crude Gathering Station
+Date: 27-Jul-2026
+Prepared by: S. Baruah
+================================================================
+
+ELECTRICAL
+  - cable laying done CBL-EL-0561 (32.7 m)   [Ref: E00169]

@@ -1,0 +1,325 @@
+activity_id,wbs_path,description,discipline,level,planned_start,planned_finish,planned_qty,uom,tags,predecessors
+OIL-A1-PIP-L6-0001,OIL Project > Gas Compression Area > Sec-1 > Piping,"Erect Line 12""-CW-1001 Spools (Sec-1)",Piping,L5,2026-07-15,2026-07-21,60.0,m,"line:12""-CW-1001",
+OIL-A1-PIP-L6-0002,OIL Project > Gas Compression Area > Sec-2 > Piping,"Erect Line 24""-PG-1002 Spools (Sec-2)",Piping,L6,2026-05-26,2026-06-11,20.0,m,"line:24""-PG-1002",OIL-A1-PIP-L6-0001
+OIL-A1-PIP-L6-0003,OIL Project > Gas Compression Area > Sec-3 > Piping,"Erect Line 8""-PG-1003 Spools (Sec-3)",Piping,L6,2026-04-16,2026-04-26,120.0,m,"line:8""-PG-1003",OIL-A1-PIP-L6-0002
+OIL-A1-PIP-L6-0004,OIL Project > Gas Compression Area > Sec-4 > Piping,"Erect Line 6""-HC-1004 Spools (Sec-4)",Piping,L5,2026-07-19,2026-07-26,60.0,m,"line:6""-HC-1004",OIL-A1-PIP-L6-0003
+OIL-A1-PIP-L6-0005,OIL Project > Gas Compression Area > North Bay > Piping,"Erect Line 16""-CW-1005 Spools (North Bay)",Piping,L6,2026-06-11,2026-06-19,20.0,m,"line:16""-CW-1005",OIL-A1-PIP-L6-0004
+OIL-A1-PIP-L6-0006,OIL Project > Gas Compression Area > South Bay > Piping,"Erect Line 24""-CW-1006 Spools (South Bay)",Piping,L6,2026-06-12,2026-06-16,120.0,m,"line:24""-CW-1006",OIL-A1-PIP-L6-0005
+OIL-A1-PIP-L6-0007,OIL Project > Gas Compression Area > Sec-1 > Piping,"Fabricate Spools for Line 8""-HC-1007 (Sec-1)",Piping,L5,2026-06-14,2026-07-01,60.0,m,"line:8""-HC-1007",OIL-A1-PIP-L6-0006
+OIL-A1-PIP-L6-0008,OIL Project > Gas Compression Area > Sec-2 > Piping,"Fabricate Spools for Line 12""-CW-1008 (Sec-2)",Piping,L6,2026-06-13,2026-06-25,120.0,m,"line:12""-CW-1008",OIL-A1-PIP-L6-0007
+OIL-A1-PIP-L6-0009,OIL Project > Gas Compression Area > Sec-3 > Piping,"Fabricate Spools for Line 16""-FG-1009 (Sec-3)",Piping,L6,2026-04-16,2026-05-02,40.0,m,"line:16""-FG-1009",OIL-A1-PIP-L6-0008
+OIL-A1-PIP-L6-0010,OIL Project > Gas Compression Area > Sec-4 > Piping,"Fabricate Spools for Line 12""-CW-1010 (Sec-4)",Piping,L5,2026-07-07,2026-07-20,60.0,m,"line:12""-CW-1010",OIL-A1-PIP-L6-0009
+OIL-A1-PIP-L6-0011,OIL Project > Gas Compression Area > North Bay > Piping,"Fabricate Spools for Line 12""-HC-1011 (North Bay)",Piping,L6,2026-05-05,2026-05-23,20.0,m,"line:12""-HC-1011",OIL-A1-PIP-L6-0010
+OIL-A1-PIP-L6-0012,OIL Project > Gas Compression Area > South Bay > Piping,"Fabricate Spools for Line 6""-FG-1012 (South Bay)",Piping,L6,2026-07-01,2026-07-16,60.0,m,"line:6""-FG-1012",OIL-A1-PIP-L6-0011
+OIL-A1-PIP-L6-0013,OIL Project > Gas Compression Area > Sec-1 > Piping,"Weld Joints Line 6""-HC-1013 (Sec-1)",Piping,L5,2026-06-03,2026-06-07,40.0,m,"line:6""-HC-1013",OIL-A1-PIP-L6-0012
+OIL-A1-PIP-L6-0014,OIL Project > Gas Compression Area > Sec-2 > Piping,"Weld Joints Line 12""-CW-1014 (Sec-2)",Piping,L6,2026-04-11,2026-04-19,80.0,m,"line:12""-CW-1014",OIL-A1-PIP-L6-0013
+OIL-A1-PIP-L6-0015,OIL Project > Gas Compression Area > Sec-3 > Piping,"Weld Joints Line 16""-FG-1015 (Sec-3)",Piping,L6,2026-06-30,2026-07-16,60.0,m,"line:16""-FG-1015",OIL-A1-PIP-L6-0014
+OIL-A1-PIP-L6-0016,OIL Project > Gas Compression Area > Sec-4 > Piping,"Weld Joints Line 16""-CW-1016 (Sec-4)",Piping,L5,2026-04-30,2026-05-10,20.0,m,"line:16""-CW-1016",OIL-A1-PIP-L6-0015
+OIL-A1-PIP-L6-0017,OIL Project > Gas Compression Area > North Bay > Piping,"Weld Joints Line 16""-CW-1017 (North Bay)",Piping,L6,2026-05-24,2026-06-07,120.0,m,"line:16""-CW-1017",OIL-A1-PIP-L6-0016
+OIL-A1-PIP-L6-0018,OIL Project > Gas Compression Area > South Bay > Piping,"Weld Joints Line 24""-FG-1018 (South Bay)",Piping,L6,2026-06-23,2026-06-27,80.0,m,"line:24""-FG-1018",OIL-A1-PIP-L6-0017
+OIL-A1-PIP-L6-0019,OIL Project > Gas Compression Area > Sec-1 > Piping,"Hydrotest Line 24""-HC-1019 (Sec-1)",Piping,L5,2026-06-01,2026-06-16,20.0,m,"line:24""-HC-1019",OIL-A1-PIP-L6-0018
+OIL-A1-PIP-L6-0020,OIL Project > Gas Compression Area > Sec-2 > Piping,"Hydrotest Line 8""-PG-1020 (Sec-2)",Piping,L6,2026-05-14,2026-05-18,20.0,m,"line:8""-PG-1020",OIL-A1-PIP-L6-0019
+OIL-A1-PIP-L6-0021,OIL Project > Gas Compression Area > Sec-3 > Piping,"Hydrotest Line 6""-CW-1021 (Sec-3)",Piping,L6,2026-04-04,2026-04-09,40.0,m,"line:6""-CW-1021",OIL-A1-PIP-L6-0020
+OIL-A1-PIP-L6-0022,OIL Project > Gas Compression Area > Sec-4 > Piping,"Hydrotest Line 24""-HC-1022 (Sec-4)",Piping,L5,2026-06-17,2026-07-01,80.0,m,"line:24""-HC-1022",OIL-A1-PIP-L6-0021
+OIL-A1-PIP-L6-0023,OIL Project > Gas Compression Area > North Bay > Piping,"Hydrotest Line 6""-PG-1023 (North Bay)",Piping,L6,2026-05-10,2026-05-15,40.0,m,"line:6""-PG-1023",OIL-A1-PIP-L6-0022
+OIL-A1-PIP-L6-0024,OIL Project > Gas Compression Area > South Bay > Piping,"Hydrotest Line 6""-FG-1024 (South Bay)",Piping,L6,2026-04-03,2026-04-12,120.0,m,"line:6""-FG-1024",OIL-A1-PIP-L6-0023
+OIL-A1-CIV-L6-0025,OIL Project > Gas Compression Area > Sec-1 > Civil,Pour Foundation FDN-C-0225 (Sec-1),Civil,L5,2026-06-22,2026-06-27,60.0,m3,foundation:FDN-C-0225|equipment:C-0225,
+OIL-A1-CIV-L6-0026,OIL Project > Gas Compression Area > Sec-2 > Civil,Pour Foundation FDN-C-0226 (Sec-2),Civil,L6,2026-06-09,2026-06-22,40.0,m3,foundation:FDN-C-0226|equipment:C-0226,OIL-A1-CIV-L6-0025
+OIL-A1-CIV-L6-0027,OIL Project > Gas Compression Area > Sec-3 > Civil,Pour Foundation FDN-C-0227 (Sec-3),Civil,L6,2026-06-06,2026-06-24,60.0,m3,foundation:FDN-C-0227|equipment:C-0227,OIL-A1-CIV-L6-0026
+OIL-A1-CIV-L6-0028,OIL Project > Gas Compression Area > Sec-4 > Civil,Pour Foundation FDN-C-0228 (Sec-4),Civil,L5,2026-06-28,2026-07-12,80.0,m3,foundation:FDN-C-0228|equipment:C-0228,OIL-A1-CIV-L6-0027
+OIL-A1-CIV-L6-0029,OIL Project > Gas Compression Area > North Bay > Civil,Pour Foundation FDN-C-0229 (North Bay),Civil,L6,2026-05-31,2026-06-09,60.0,m3,foundation:FDN-C-0229|equipment:C-0229,OIL-A1-CIV-L6-0028
+OIL-A1-CIV-L6-0030,OIL Project > Gas Compression Area > South Bay > Civil,Pour Foundation FDN-C-0230 (South Bay),Civil,L6,2026-06-23,2026-07-07,20.0,m3,foundation:FDN-C-0230|equipment:C-0230,OIL-A1-CIV-L6-0029
+OIL-A1-CIV-L6-0031,OIL Project > Gas Compression Area > Sec-1 > Civil,Excavate for Foundation FDN-C-0231 (Sec-1),Civil,L5,2026-07-11,2026-07-24,20.0,m3,foundation:FDN-C-0231|equipment:C-0231,OIL-A1-CIV-L6-0030
+OIL-A1-CIV-L6-0032,OIL Project > Gas Compression Area > Sec-2 > Civil,Excavate for Foundation FDN-C-0232 (Sec-2),Civil,L6,2026-04-22,2026-04-29,20.0,m3,foundation:FDN-C-0232|equipment:C-0232,OIL-A1-CIV-L6-0031
+OIL-A1-CIV-L6-0033,OIL Project > Gas Compression Area > Sec-3 > Civil,Excavate for Foundation FDN-C-0233 (Sec-3),Civil,L6,2026-06-24,2026-07-08,40.0,m3,foundation:FDN-C-0233|equipment:C-0233,OIL-A1-CIV-L6-0032
+OIL-A1-CIV-L6-0034,OIL Project > Gas Compression Area > Sec-4 > Civil,Excavate for Foundation FDN-C-0234 (Sec-4),Civil,L5,2026-07-05,2026-07-12,80.0,m3,foundation:FDN-C-0234|equipment:C-0234,OIL-A1-CIV-L6-0033
+OIL-A1-CIV-L6-0035,OIL Project > Gas Compression Area > North Bay > Civil,Excavate for Foundation FDN-C-0235 (North Bay),Civil,L6,2026-06-04,2026-06-14,120.0,m3,foundation:FDN-C-0235|equipment:C-0235,OIL-A1-CIV-L6-0034
+OIL-A1-CIV-L6-0036,OIL Project > Gas Compression Area > South Bay > Civil,Excavate for Foundation FDN-C-0236 (South Bay),Civil,L6,2026-07-04,2026-07-18,80.0,m3,foundation:FDN-C-0236|equipment:C-0236,OIL-A1-CIV-L6-0035
+OIL-A1-CIV-L6-0037,OIL Project > Gas Compression Area > Sec-1 > Civil,Rebar Fixing Foundation FDN-C-0237 (Sec-1),Civil,L5,2026-06-07,2026-06-10,80.0,m3,foundation:FDN-C-0237|equipment:C-0237,OIL-A1-CIV-L6-0036
+OIL-A1-CIV-L6-0038,OIL Project > Gas Compression Area > Sec-2 > Civil,Rebar Fixing Foundation FDN-C-0238 (Sec-2),Civil,L6,2026-06-19,2026-06-25,120.0,m3,foundation:FDN-C-0238|equipment:C-0238,OIL-A1-CIV-L6-0037
+OIL-A1-CIV-L6-0039,OIL Project > Gas Compression Area > Sec-3 > Civil,Rebar Fixing Foundation FDN-C-0239 (Sec-3),Civil,L6,2026-07-10,2026-07-16,120.0,m3,foundation:FDN-C-0239|equipment:C-0239,OIL-A1-CIV-L6-0038
+OIL-A1-CIV-L6-0040,OIL Project > Gas Compression Area > Sec-4 > Civil,Rebar Fixing Foundation FDN-C-0240 (Sec-4),Civil,L5,2026-06-04,2026-06-21,120.0,m3,foundation:FDN-C-0240|equipment:C-0240,OIL-A1-CIV-L6-0039
+OIL-A1-CIV-L6-0041,OIL Project > Gas Compression Area > North Bay > Civil,Rebar Fixing Foundation FDN-C-0241 (North Bay),Civil,L6,2026-06-17,2026-06-26,60.0,m3,foundation:FDN-C-0241|equipment:C-0241,OIL-A1-CIV-L6-0040
+OIL-A1-CIV-L6-0042,OIL Project > Gas Compression Area > South Bay > Civil,Rebar Fixing Foundation FDN-C-0242 (South Bay),Civil,L6,2026-06-11,2026-06-20,80.0,m3,foundation:FDN-C-0242|equipment:C-0242,OIL-A1-CIV-L6-0041
+OIL-A1-CIV-L6-0043,OIL Project > Gas Compression Area > Sec-1 > Civil,Backfill Around FDN-C-0243 (Sec-1),Civil,L5,2026-04-10,2026-04-20,80.0,m3,foundation:FDN-C-0243|equipment:C-0243,OIL-A1-CIV-L6-0042
+OIL-A1-CIV-L6-0044,OIL Project > Gas Compression Area > Sec-2 > Civil,Backfill Around FDN-C-0244 (Sec-2),Civil,L6,2026-04-19,2026-04-30,40.0,m3,foundation:FDN-C-0244|equipment:C-0244,OIL-A1-CIV-L6-0043
+OIL-A1-CIV-L6-0045,OIL Project > Gas Compression Area > Sec-3 > Civil,Backfill Around FDN-C-0245 (Sec-3),Civil,L6,2026-06-25,2026-07-05,40.0,m3,foundation:FDN-C-0245|equipment:C-0245,OIL-A1-CIV-L6-0044
+OIL-A1-CIV-L6-0046,OIL Project > Gas Compression Area > Sec-4 > Civil,Backfill Around FDN-C-0246 (Sec-4),Civil,L5,2026-05-11,2026-05-16,60.0,m3,foundation:FDN-C-0246|equipment:C-0246,OIL-A1-CIV-L6-0045
+OIL-A1-CIV-L6-0047,OIL Project > Gas Compression Area > North Bay > Civil,Backfill Around FDN-C-0247 (North Bay),Civil,L6,2026-05-20,2026-06-02,120.0,m3,foundation:FDN-C-0247|equipment:C-0247,OIL-A1-CIV-L6-0046
+OIL-A1-CIV-L6-0048,OIL Project > Gas Compression Area > South Bay > Civil,Backfill Around FDN-C-0248 (South Bay),Civil,L6,2026-04-14,2026-04-19,60.0,m3,foundation:FDN-C-0248|equipment:C-0248,OIL-A1-CIV-L6-0047
+OIL-A1-ELE-L6-0049,OIL Project > Gas Compression Area > Sec-1 > Electrical,Lay Cable CBL-EL-0449 (Sec-1),Electrical,L5,2026-07-18,2026-07-29,80.0,m,cable:CBL-EL-0449,
+OIL-A1-ELE-L6-0050,OIL Project > Gas Compression Area > Sec-2 > Electrical,Lay Cable CBL-EL-0450 (Sec-2),Electrical,L6,2026-07-12,2026-07-20,80.0,m,cable:CBL-EL-0450,OIL-A1-ELE-L6-0049
+OIL-A1-ELE-L6-0051,OIL Project > Gas Compression Area > Sec-3 > Electrical,Lay Cable CBL-EL-0451 (Sec-3),Electrical,L6,2026-04-11,2026-04-21,20.0,m,cable:CBL-EL-0451,OIL-A1-ELE-L6-0050
+OIL-A1-ELE-L6-0052,OIL Project > Gas Compression Area > Sec-4 > Electrical,Lay Cable CBL-EL-0452 (Sec-4),Electrical,L5,2026-05-24,2026-06-04,120.0,m,cable:CBL-EL-0452,OIL-A1-ELE-L6-0051
+OIL-A1-ELE-L6-0053,OIL Project > Gas Compression Area > North Bay > Electrical,Lay Cable CBL-EL-0453 (North Bay),Electrical,L6,2026-04-21,2026-05-02,20.0,m,cable:CBL-EL-0453,OIL-A1-ELE-L6-0052
+OIL-A1-ELE-L6-0054,OIL Project > Gas Compression Area > South Bay > Electrical,Lay Cable CBL-EL-0454 (South Bay),Electrical,L6,2026-07-07,2026-07-16,60.0,m,cable:CBL-EL-0454,OIL-A1-ELE-L6-0053
+OIL-A1-ELE-L6-0055,OIL Project > Gas Compression Area > Sec-1 > Electrical,Terminate Cable CBL-EL-0455 (Sec-1),Electrical,L5,2026-04-05,2026-04-08,20.0,m,cable:CBL-EL-0455,OIL-A1-ELE-L6-0054
+OIL-A1-ELE-L6-0056,OIL Project > Gas Compression Area > Sec-2 > Electrical,Terminate Cable CBL-EL-0456 (Sec-2),Electrical,L6,2026-04-14,2026-04-30,80.0,m,cable:CBL-EL-0456,OIL-A1-ELE-L6-0055
+OIL-A1-ELE-L6-0057,OIL Project > Gas Compression Area > Sec-3 > Electrical,Terminate Cable CBL-EL-0457 (Sec-3),Electrical,L6,2026-05-14,2026-05-23,40.0,m,cable:CBL-EL-0457,OIL-A1-ELE-L6-0056
+OIL-A1-ELE-L6-0058,OIL Project > Gas Compression Area > Sec-4 > Electrical,Terminate Cable CBL-EL-0458 (Sec-4),Electrical,L5,2026-06-20,2026-07-01,80.0,m,cable:CBL-EL-0458,OIL-A1-ELE-L6-0057
+OIL-A1-ELE-L6-0059,OIL Project > Gas Compression Area > North Bay > Electrical,Terminate Cable CBL-EL-0459 (North Bay),Electrical,L6,2026-06-25,2026-07-07,120.0,m,cable:CBL-EL-0459,OIL-A1-ELE-L6-0058
+OIL-A1-ELE-L6-0060,OIL Project > Gas Compression Area > South Bay > Electrical,Terminate Cable CBL-EL-0460 (South Bay),Electrical,L6,2026-05-05,2026-05-22,20.0,m,cable:CBL-EL-0460,OIL-A1-ELE-L6-0059
+OIL-A1-ELE-L6-0061,OIL Project > Gas Compression Area > Sec-1 > Electrical,Install Cable Tray (Sec-1),Electrical,L5,2026-04-05,2026-04-17,40.0,m,,OIL-A1-ELE-L6-0060
+OIL-A1-ELE-L6-0062,OIL Project > Gas Compression Area > Sec-2 > Electrical,Install Cable Tray (Sec-2),Electrical,L6,2026-05-31,2026-06-11,120.0,m,,OIL-A1-ELE-L6-0061
+OIL-A1-ELE-L6-0063,OIL Project > Gas Compression Area > Sec-3 > Electrical,Install Cable Tray (Sec-3),Electrical,L6,2026-07-14,2026-07-19,40.0,m,,OIL-A1-ELE-L6-0062
+OIL-A1-ELE-L6-0064,OIL Project > Gas Compression Area > Sec-4 > Electrical,Install Cable Tray (Sec-4),Electrical,L5,2026-06-20,2026-06-30,20.0,m,,OIL-A1-ELE-L6-0063
+OIL-A1-ELE-L6-0065,OIL Project > Gas Compression Area > North Bay > Electrical,Install Cable Tray (North Bay),Electrical,L6,2026-04-20,2026-05-02,120.0,m,,OIL-A1-ELE-L6-0064
+OIL-A1-ELE-L6-0066,OIL Project > Gas Compression Area > South Bay > Electrical,Install Cable Tray (South Bay),Electrical,L6,2026-04-18,2026-04-21,120.0,m,,OIL-A1-ELE-L6-0065
+OIL-A1-ELE-L6-0067,OIL Project > Gas Compression Area > Sec-1 > Electrical,Install Transformer P-2467 (Sec-1),Electrical,L5,2026-04-14,2026-04-29,80.0,m,equipment:P-2467,OIL-A1-ELE-L6-0066
+OIL-A1-ELE-L6-0068,OIL Project > Gas Compression Area > Sec-2 > Electrical,Install Transformer P-2468B (Sec-2),Electrical,L6,2026-06-02,2026-06-13,20.0,m,equipment:P-2468B,OIL-A1-ELE-L6-0067
+OIL-A1-ELE-L6-0069,OIL Project > Gas Compression Area > Sec-3 > Electrical,Install Transformer K-2469B (Sec-3),Electrical,L6,2026-04-09,2026-04-27,60.0,m,equipment:K-2469B,OIL-A1-ELE-L6-0068
+OIL-A1-ELE-L6-0070,OIL Project > Gas Compression Area > Sec-4 > Electrical,Install Transformer V-2470B (Sec-4),Electrical,L5,2026-07-04,2026-07-21,80.0,m,equipment:V-2470B,OIL-A1-ELE-L6-0069
+OIL-A1-ELE-L6-0071,OIL Project > Gas Compression Area > North Bay > Electrical,Install Transformer T-2471B (North Bay),Electrical,L6,2026-06-18,2026-06-27,20.0,m,equipment:T-2471B,OIL-A1-ELE-L6-0070
+OIL-A1-ELE-L6-0072,OIL Project > Gas Compression Area > South Bay > Electrical,Install Transformer E-2472A (South Bay),Electrical,L6,2026-06-12,2026-06-19,20.0,m,equipment:E-2472A,OIL-A1-ELE-L6-0071
+OIL-A1-INS-L6-0073,OIL Project > Gas Compression Area > Sec-1 > Instrumentation,Install Instrument Loop LP-IN-0773 (Sec-1),Instrumentation,L5,2026-06-26,2026-07-14,2.0,nos,loop:LP-IN-0773,
+OIL-A1-INS-L6-0074,OIL Project > Gas Compression Area > Sec-2 > Instrumentation,Install Instrument Loop LP-IN-0774 (Sec-2),Instrumentation,L6,2026-06-10,2026-06-19,2.0,nos,loop:LP-IN-0774,OIL-A1-INS-L6-0073
+OIL-A1-INS-L6-0075,OIL Project > Gas Compression Area > Sec-3 > Instrumentation,Install Instrument Loop LP-IN-0775 (Sec-3),Instrumentation,L6,2026-07-14,2026-07-31,2.0,nos,loop:LP-IN-0775,OIL-A1-INS-L6-0074
+OIL-A1-INS-L6-0076,OIL Project > Gas Compression Area > Sec-4 > Instrumentation,Install Instrument Loop LP-IN-0776 (Sec-4),Instrumentation,L5,2026-04-19,2026-04-30,2.0,nos,loop:LP-IN-0776,OIL-A1-INS-L6-0075
+OIL-A1-INS-L6-0077,OIL Project > Gas Compression Area > North Bay > Instrumentation,Install Instrument Loop LP-IN-0777 (North Bay),Instrumentation,L6,2026-06-03,2026-06-21,2.0,nos,loop:LP-IN-0777,OIL-A1-INS-L6-0076
+OIL-A1-INS-L6-0078,OIL Project > Gas Compression Area > South Bay > Instrumentation,Install Instrument Loop LP-IN-0778 (South Bay),Instrumentation,L6,2026-05-09,2026-05-16,2.0,nos,loop:LP-IN-0778,OIL-A1-INS-L6-0077
+OIL-A1-INS-L6-0079,OIL Project > Gas Compression Area > Sec-1 > Instrumentation,Loop Check LP-IN-0779 (Sec-1),Instrumentation,L5,2026-05-12,2026-05-25,2.0,nos,loop:LP-IN-0779,OIL-A1-INS-L6-0078
+OIL-A1-INS-L6-0080,OIL Project > Gas Compression Area > Sec-2 > Instrumentation,Loop Check LP-IN-0780 (Sec-2),Instrumentation,L6,2026-05-18,2026-05-23,2.0,nos,loop:LP-IN-0780,OIL-A1-INS-L6-0079
+OIL-A1-INS-L6-0081,OIL Project > Gas Compression Area > Sec-3 > Instrumentation,Loop Check LP-IN-0781 (Sec-3),Instrumentation,L6,2026-05-06,2026-05-12,1.0,nos,loop:LP-IN-0781,OIL-A1-INS-L6-0080
+OIL-A1-INS-L6-0082,OIL Project > Gas Compression Area > Sec-4 > Instrumentation,Loop Check LP-IN-0782 (Sec-4),Instrumentation,L5,2026-05-11,2026-05-20,2.0,nos,loop:LP-IN-0782,OIL-A1-INS-L6-0081
+OIL-A1-INS-L6-0083,OIL Project > Gas Compression Area > North Bay > Instrumentation,Loop Check LP-IN-0783 (North Bay),Instrumentation,L6,2026-07-02,2026-07-07,1.0,nos,loop:LP-IN-0783,OIL-A1-INS-L6-0082
+OIL-A1-INS-L6-0084,OIL Project > Gas Compression Area > South Bay > Instrumentation,Loop Check LP-IN-0784 (South Bay),Instrumentation,L6,2026-04-07,2026-04-14,1.0,nos,loop:LP-IN-0784,OIL-A1-INS-L6-0083
+OIL-A1-INS-L6-0085,OIL Project > Gas Compression Area > Sec-1 > Instrumentation,Install Impulse Tubing LP-IN-0785 (Sec-1),Instrumentation,L5,2026-07-04,2026-07-15,2.0,nos,loop:LP-IN-0785,OIL-A1-INS-L6-0084
+OIL-A1-INS-L6-0086,OIL Project > Gas Compression Area > Sec-2 > Instrumentation,Install Impulse Tubing LP-IN-0786 (Sec-2),Instrumentation,L6,2026-04-22,2026-04-30,1.0,nos,loop:LP-IN-0786,OIL-A1-INS-L6-0085
+OIL-A1-INS-L6-0087,OIL Project > Gas Compression Area > Sec-3 > Instrumentation,Install Impulse Tubing LP-IN-0787 (Sec-3),Instrumentation,L6,2026-07-07,2026-07-24,2.0,nos,loop:LP-IN-0787,OIL-A1-INS-L6-0086
+OIL-A1-INS-L6-0088,OIL Project > Gas Compression Area > Sec-4 > Instrumentation,Install Impulse Tubing LP-IN-0788 (Sec-4),Instrumentation,L5,2026-06-11,2026-06-16,2.0,nos,loop:LP-IN-0788,OIL-A1-INS-L6-0087
+OIL-A1-INS-L6-0089,OIL Project > Gas Compression Area > North Bay > Instrumentation,Install Impulse Tubing LP-IN-0789 (North Bay),Instrumentation,L6,2026-07-05,2026-07-21,2.0,nos,loop:LP-IN-0789,OIL-A1-INS-L6-0088
+OIL-A1-INS-L6-0090,OIL Project > Gas Compression Area > South Bay > Instrumentation,Install Impulse Tubing LP-IN-0790 (South Bay),Instrumentation,L6,2026-06-03,2026-06-14,4.0,nos,loop:LP-IN-0790,OIL-A1-INS-L6-0089
+OIL-A1-STA-L6-0091,OIL Project > Gas Compression Area > Sec-1 > Static Equipment,Erect Vessel K-2491B (Sec-1),Static Equipment,L5,2026-05-05,2026-05-15,2.0,nos,equipment:K-2491B,
+OIL-A1-STA-L6-0092,OIL Project > Gas Compression Area > Sec-2 > Static Equipment,Erect Vessel T-2492A (Sec-2),Static Equipment,L6,2026-04-05,2026-04-21,4.0,nos,equipment:T-2492A,OIL-A1-STA-L6-0091
+OIL-A1-STA-L6-0093,OIL Project > Gas Compression Area > Sec-3 > Static Equipment,Erect Vessel P-2493 (Sec-3),Static Equipment,L6,2026-07-19,2026-08-05,2.0,nos,equipment:P-2493,OIL-A1-STA-L6-0092
+OIL-A1-STA-L6-0094,OIL Project > Gas Compression Area > Sec-4 > Static Equipment,Erect Vessel V-2494 (Sec-4),Static Equipment,L5,2026-06-27,2026-07-03,4.0,nos,equipment:V-2494,OIL-A1-STA-L6-0093
+OIL-A1-STA-L6-0095,OIL Project > Gas Compression Area > North Bay > Static Equipment,Erect Vessel K-2495 (North Bay),Static Equipment,L6,2026-04-30,2026-05-04,4.0,nos,equipment:K-2495,OIL-A1-STA-L6-0094
+OIL-A1-STA-L6-0096,OIL Project > Gas Compression Area > South Bay > Static Equipment,Erect Vessel E-2496B (South Bay),Static Equipment,L6,2026-04-13,2026-04-18,2.0,nos,equipment:E-2496B,OIL-A1-STA-L6-0095
+OIL-A1-STA-L6-0097,OIL Project > Gas Compression Area > Sec-1 > Static Equipment,Grout Vessel T-2497A (Sec-1),Static Equipment,L5,2026-04-01,2026-04-04,4.0,nos,equipment:T-2497A,OIL-A1-STA-L6-0096
+OIL-A1-STA-L6-0098,OIL Project > Gas Compression Area > Sec-2 > Static Equipment,Grout Vessel E-2498A (Sec-2),Static Equipment,L6,2026-06-07,2026-06-17,4.0,nos,equipment:E-2498A,OIL-A1-STA-L6-0097
+OIL-A1-STA-L6-0099,OIL Project > Gas Compression Area > Sec-3 > Static Equipment,Grout Vessel T-2499B (Sec-3),Static Equipment,L6,2026-04-03,2026-04-12,2.0,nos,equipment:T-2499B,OIL-A1-STA-L6-0098
+OIL-A1-STA-L6-0100,OIL Project > Gas Compression Area > Sec-4 > Static Equipment,Grout Vessel E-2500 (Sec-4),Static Equipment,L5,2026-04-30,2026-05-18,1.0,nos,equipment:E-2500,OIL-A1-STA-L6-0099
+OIL-A1-STA-L6-0101,OIL Project > Gas Compression Area > North Bay > Static Equipment,Grout Vessel E-2501B (North Bay),Static Equipment,L6,2026-04-01,2026-04-13,4.0,nos,equipment:E-2501B,OIL-A1-STA-L6-0100
+OIL-A1-STA-L6-0102,OIL Project > Gas Compression Area > South Bay > Static Equipment,Grout Vessel V-2502A (South Bay),Static Equipment,L6,2026-07-08,2026-07-17,1.0,nos,equipment:V-2502A,OIL-A1-STA-L6-0101
+OIL-A1-STA-L6-0103,OIL Project > Gas Compression Area > Sec-1 > Static Equipment,Align Exchanger E-2503A (Sec-1),Static Equipment,L5,2026-06-03,2026-06-11,1.0,nos,equipment:E-2503A,OIL-A1-STA-L6-0102
+OIL-A1-STA-L6-0104,OIL Project > Gas Compression Area > Sec-2 > Static Equipment,Align Exchanger P-2504B (Sec-2),Static Equipment,L6,2026-04-07,2026-04-16,1.0,nos,equipment:P-2504B,OIL-A1-STA-L6-0103
+OIL-A1-STA-L6-0105,OIL Project > Gas Compression Area > Sec-3 > Static Equipment,Align Exchanger T-2505 (Sec-3),Static Equipment,L6,2026-05-21,2026-06-07,4.0,nos,equipment:T-2505,OIL-A1-STA-L6-0104
+OIL-A1-STA-L6-0106,OIL Project > Gas Compression Area > Sec-4 > Static Equipment,Align Exchanger P-2506 (Sec-4),Static Equipment,L5,2026-04-24,2026-05-11,1.0,nos,equipment:P-2506,OIL-A1-STA-L6-0105
+OIL-A1-STA-L6-0107,OIL Project > Gas Compression Area > North Bay > Static Equipment,Align Exchanger E-2507A (North Bay),Static Equipment,L6,2026-04-14,2026-04-17,1.0,nos,equipment:E-2507A,OIL-A1-STA-L6-0106
+OIL-A1-STA-L6-0108,OIL Project > Gas Compression Area > South Bay > Static Equipment,Align Exchanger E-2508A (South Bay),Static Equipment,L6,2026-07-07,2026-07-16,2.0,nos,equipment:E-2508A,OIL-A1-STA-L6-0107
+OIL-A2-PIP-L6-0109,OIL Project > Crude Gathering Station > Sec-1 > Piping,"Erect Line 12""-FG-1109 Spools (Sec-1)",Piping,L5,2026-04-26,2026-05-10,120.0,m,"line:12""-FG-1109",
+OIL-A2-PIP-L6-0110,OIL Project > Crude Gathering Station > Sec-2 > Piping,"Erect Line 16""-CW-1110 Spools (Sec-2)",Piping,L6,2026-06-20,2026-07-06,40.0,m,"line:16""-CW-1110",OIL-A2-PIP-L6-0109
+OIL-A2-PIP-L6-0111,OIL Project > Crude Gathering Station > Sec-3 > Piping,"Erect Line 16""-PG-1111 Spools (Sec-3)",Piping,L6,2026-07-12,2026-07-16,60.0,m,"line:16""-PG-1111",OIL-A2-PIP-L6-0110
+OIL-A2-PIP-L6-0112,OIL Project > Crude Gathering Station > Sec-4 > Piping,"Erect Line 8""-PG-1112 Spools (Sec-4)",Piping,L5,2026-05-13,2026-05-17,60.0,m,"line:8""-PG-1112",OIL-A2-PIP-L6-0111
+OIL-A2-PIP-L6-0113,OIL Project > Crude Gathering Station > North Bay > Piping,"Erect Line 12""-FG-1113 Spools (North Bay)",Piping,L6,2026-04-04,2026-04-14,20.0,m,"line:12""-FG-1113",OIL-A2-PIP-L6-0112
+OIL-A2-PIP-L6-0114,OIL Project > Crude Gathering Station > South Bay > Piping,"Erect Line 16""-HC-1114 Spools (South Bay)",Piping,L6,2026-04-17,2026-05-05,40.0,m,"line:16""-HC-1114",OIL-A2-PIP-L6-0113
+OIL-A2-PIP-L6-0115,OIL Project > Crude Gathering Station > Sec-1 > Piping,"Fabricate Spools for Line 6""-FG-1115 (Sec-1)",Piping,L5,2026-07-20,2026-08-02,80.0,m,"line:6""-FG-1115",OIL-A2-PIP-L6-0114
+OIL-A2-PIP-L6-0116,OIL Project > Crude Gathering Station > Sec-2 > Piping,"Fabricate Spools for Line 12""-PG-1116 (Sec-2)",Piping,L6,2026-05-02,2026-05-18,20.0,m,"line:12""-PG-1116",OIL-A2-PIP-L6-0115
+OIL-A2-PIP-L6-0117,OIL Project > Crude Gathering Station > Sec-3 > Piping,"Fabricate Spools for Line 6""-HC-1117 (Sec-3)",Piping,L6,2026-05-25,2026-05-31,20.0,m,"line:6""-HC-1117",OIL-A2-PIP-L6-0116
+OIL-A2-PIP-L6-0118,OIL Project > Crude Gathering Station > Sec-4 > Piping,"Fabricate Spools for Line 12""-PG-1118 (Sec-4)",Piping,L5,2026-06-30,2026-07-17,40.0,m,"line:12""-PG-1118",OIL-A2-PIP-L6-0117
+OIL-A2-PIP-L6-0119,OIL Project > Crude Gathering Station > North Bay > Piping,"Fabricate Spools for Line 8""-CW-1119 (North Bay)",Piping,L6,2026-07-05,2026-07-11,60.0,m,"line:8""-CW-1119",OIL-A2-PIP-L6-0118
+OIL-A2-PIP-L6-0120,OIL Project > Crude Gathering Station > South Bay > Piping,"Fabricate Spools for Line 12""-FG-1120 (South Bay)",Piping,L6,2026-07-04,2026-07-15,40.0,m,"line:12""-FG-1120",OIL-A2-PIP-L6-0119
+OIL-A2-PIP-L6-0121,OIL Project > Crude Gathering Station > Sec-1 > Piping,"Weld Joints Line 16""-CW-1121 (Sec-1)",Piping,L5,2026-05-07,2026-05-16,60.0,m,"line:16""-CW-1121",OIL-A2-PIP-L6-0120
+OIL-A2-PIP-L6-0122,OIL Project > Crude Gathering Station > Sec-2 > Piping,"Weld Joints Line 6""-HC-1122 (Sec-2)",Piping,L6,2026-04-30,2026-05-06,80.0,m,"line:6""-HC-1122",OIL-A2-PIP-L6-0121
+OIL-A2-PIP-L6-0123,OIL Project > Crude Gathering Station > Sec-3 > Piping,"Weld Joints Line 6""-PG-1123 (Sec-3)",Piping,L6,2026-05-18,2026-05-22,60.0,m,"line:6""-PG-1123",OIL-A2-PIP-L6-0122
+OIL-A2-PIP-L6-0124,OIL Project > Crude Gathering Station > Sec-4 > Piping,"Weld Joints Line 8""-PG-1124 (Sec-4)",Piping,L5,2026-04-25,2026-04-30,60.0,m,"line:8""-PG-1124",OIL-A2-PIP-L6-0123
+OIL-A2-PIP-L6-0125,OIL Project > Crude Gathering Station > North Bay > Piping,"Weld Joints Line 24""-CW-1125 (North Bay)",Piping,L6,2026-04-14,2026-04-28,40.0,m,"line:24""-CW-1125",OIL-A2-PIP-L6-0124
+OIL-A2-PIP-L6-0126,OIL Project > Crude Gathering Station > South Bay > Piping,"Weld Joints Line 6""-FG-1126 (South Bay)",Piping,L6,2026-05-03,2026-05-07,120.0,m,"line:6""-FG-1126",OIL-A2-PIP-L6-0125
+OIL-A2-PIP-L6-0127,OIL Project > Crude Gathering Station > Sec-1 > Piping,"Hydrotest Line 8""-PG-1127 (Sec-1)",Piping,L5,2026-06-19,2026-07-01,20.0,m,"line:8""-PG-1127",OIL-A2-PIP-L6-0126
+OIL-A2-PIP-L6-0128,OIL Project > Crude Gathering Station > Sec-2 > Piping,"Hydrotest Line 8""-PG-1128 (Sec-2)",Piping,L6,2026-05-23,2026-05-29,80.0,m,"line:8""-PG-1128",OIL-A2-PIP-L6-0127
+OIL-A2-PIP-L6-0129,OIL Project > Crude Gathering Station > Sec-3 > Piping,"Hydrotest Line 24""-CW-1129 (Sec-3)",Piping,L6,2026-06-29,2026-07-10,80.0,m,"line:24""-CW-1129",OIL-A2-PIP-L6-0128
+OIL-A2-PIP-L6-0130,OIL Project > Crude Gathering Station > Sec-4 > Piping,"Hydrotest Line 12""-FG-1130 (Sec-4)",Piping,L5,2026-05-16,2026-06-01,80.0,m,"line:12""-FG-1130",OIL-A2-PIP-L6-0129
+OIL-A2-PIP-L6-0131,OIL Project > Crude Gathering Station > North Bay > Piping,"Hydrotest Line 6""-FG-1131 (North Bay)",Piping,L6,2026-04-01,2026-04-17,40.0,m,"line:6""-FG-1131",OIL-A2-PIP-L6-0130
+OIL-A2-PIP-L6-0132,OIL Project > Crude Gathering Station > South Bay > Piping,"Hydrotest Line 16""-PG-1132 (South Bay)",Piping,L6,2026-05-29,2026-06-06,40.0,m,"line:16""-PG-1132",OIL-A2-PIP-L6-0131
+OIL-A2-CIV-L6-0133,OIL Project > Crude Gathering Station > Sec-1 > Civil,Pour Foundation FDN-C-0333 (Sec-1),Civil,L5,2026-06-13,2026-06-27,120.0,m3,foundation:FDN-C-0333|equipment:C-0333,
+OIL-A2-CIV-L6-0134,OIL Project > Crude Gathering Station > Sec-2 > Civil,Pour Foundation FDN-C-0334 (Sec-2),Civil,L6,2026-04-22,2026-04-27,20.0,m3,foundation:FDN-C-0334|equipment:C-0334,OIL-A2-CIV-L6-0133
+OIL-A2-CIV-L6-0135,OIL Project > Crude Gathering Station > Sec-3 > Civil,Pour Foundation FDN-C-0335 (Sec-3),Civil,L6,2026-06-01,2026-06-14,20.0,m3,foundation:FDN-C-0335|equipment:C-0335,OIL-A2-CIV-L6-0134
+OIL-A2-CIV-L6-0136,OIL Project > Crude Gathering Station > Sec-4 > Civil,Pour Foundation FDN-C-0336 (Sec-4),Civil,L5,2026-06-21,2026-07-01,120.0,m3,foundation:FDN-C-0336|equipment:C-0336,OIL-A2-CIV-L6-0135
+OIL-A2-CIV-L6-0137,OIL Project > Crude Gathering Station > North Bay > Civil,Pour Foundation FDN-C-0337 (North Bay),Civil,L6,2026-04-06,2026-04-21,120.0,m3,foundation:FDN-C-0337|equipment:C-0337,OIL-A2-CIV-L6-0136
+OIL-A2-CIV-L6-0138,OIL Project > Crude Gathering Station > South Bay > Civil,Pour Foundation FDN-C-0338 (South Bay),Civil,L6,2026-07-02,2026-07-11,20.0,m3,foundation:FDN-C-0338|equipment:C-0338,OIL-A2-CIV-L6-0137
+OIL-A2-CIV-L6-0139,OIL Project > Crude Gathering Station > Sec-1 > Civil,Excavate for Foundation FDN-C-0339 (Sec-1),Civil,L5,2026-05-29,2026-06-10,80.0,m3,foundation:FDN-C-0339|equipment:C-0339,OIL-A2-CIV-L6-0138
+OIL-A2-CIV-L6-0140,OIL Project > Crude Gathering Station > Sec-2 > Civil,Excavate for Foundation FDN-C-0340 (Sec-2),Civil,L6,2026-06-04,2026-06-21,40.0,m3,foundation:FDN-C-0340|equipment:C-0340,OIL-A2-CIV-L6-0139
+OIL-A2-CIV-L6-0141,OIL Project > Crude Gathering Station > Sec-3 > Civil,Excavate for Foundation FDN-C-0341 (Sec-3),Civil,L6,2026-05-28,2026-06-14,40.0,m3,foundation:FDN-C-0341|equipment:C-0341,OIL-A2-CIV-L6-0140
+OIL-A2-CIV-L6-0142,OIL Project > Crude Gathering Station > Sec-4 > Civil,Excavate for Foundation FDN-C-0342 (Sec-4),Civil,L5,2026-05-26,2026-06-09,20.0,m3,foundation:FDN-C-0342|equipment:C-0342,OIL-A2-CIV-L6-0141
+OIL-A2-CIV-L6-0143,OIL Project > Crude Gathering Station > North Bay > Civil,Excavate for Foundation FDN-C-0343 (North Bay),Civil,L6,2026-07-03,2026-07-16,120.0,m3,foundation:FDN-C-0343|equipment:C-0343,OIL-A2-CIV-L6-0142
+OIL-A2-CIV-L6-0144,OIL Project > Crude Gathering Station > South Bay > Civil,Excavate for Foundation FDN-C-0344 (South Bay),Civil,L6,2026-07-19,2026-07-24,120.0,m3,foundation:FDN-C-0344|equipment:C-0344,OIL-A2-CIV-L6-0143
+OIL-A2-CIV-L6-0145,OIL Project > Crude Gathering Station > Sec-1 > Civil,Rebar Fixing Foundation FDN-C-0345 (Sec-1),Civil,L5,2026-06-27,2026-07-07,20.0,m3,foundation:FDN-C-0345|equipment:C-0345,OIL-A2-CIV-L6-0144
+OIL-A2-CIV-L6-0146,OIL Project > Crude Gathering Station > Sec-2 > Civil,Rebar Fixing Foundation FDN-C-0346 (Sec-2),Civil,L6,2026-07-14,2026-07-31,40.0,m3,foundation:FDN-C-0346|equipment:C-0346,OIL-A2-CIV-L6-0145
+OIL-A2-CIV-L6-0147,OIL Project > Crude Gathering Station > Sec-3 > Civil,Rebar Fixing Foundation FDN-C-0347 (Sec-3),Civil,L6,2026-06-04,2026-06-14,60.0,m3,foundation:FDN-C-0347|equipment:C-0347,OIL-A2-CIV-L6-0146
+OIL-A2-CIV-L6-0148,OIL Project > Crude Gathering Station > Sec-4 > Civil,Rebar Fixing Foundation FDN-C-0348 (Sec-4),Civil,L5,2026-06-21,2026-07-02,60.0,m3,foundation:FDN-C-0348|equipment:C-0348,OIL-A2-CIV-L6-0147
+OIL-A2-CIV-L6-0149,OIL Project > Crude Gathering Station > North Bay > Civil,Rebar Fixing Foundation FDN-C-0349 (North Bay),Civil,L6,2026-06-21,2026-07-05,80.0,m3,foundation:FDN-C-0349|equipment:C-0349,OIL-A2-CIV-L6-0148
+OIL-A2-CIV-L6-0150,OIL Project > Crude Gathering Station > South Bay > Civil,Rebar Fixing Foundation FDN-C-0350 (South Bay),Civil,L6,2026-05-04,2026-05-19,60.0,m3,foundation:FDN-C-0350|equipment:C-0350,OIL-A2-CIV-L6-0149
+OIL-A2-CIV-L6-0151,OIL Project > Crude Gathering Station > Sec-1 > Civil,Backfill Around FDN-C-0351 (Sec-1),Civil,L5,2026-04-30,2026-05-08,120.0,m3,foundation:FDN-C-0351|equipment:C-0351,OIL-A2-CIV-L6-0150
+OIL-A2-CIV-L6-0152,OIL Project > Crude Gathering Station > Sec-2 > Civil,Backfill Around FDN-C-0352 (Sec-2),Civil,L6,2026-06-24,2026-07-07,20.0,m3,foundation:FDN-C-0352|equipment:C-0352,OIL-A2-CIV-L6-0151
+OIL-A2-CIV-L6-0153,OIL Project > Crude Gathering Station > Sec-3 > Civil,Backfill Around FDN-C-0353 (Sec-3),Civil,L6,2026-05-24,2026-06-07,20.0,m3,foundation:FDN-C-0353|equipment:C-0353,OIL-A2-CIV-L6-0152
+OIL-A2-CIV-L6-0154,OIL Project > Crude Gathering Station > Sec-4 > Civil,Backfill Around FDN-C-0354 (Sec-4),Civil,L5,2026-04-07,2026-04-10,120.0,m3,foundation:FDN-C-0354|equipment:C-0354,OIL-A2-CIV-L6-0153
+OIL-A2-CIV-L6-0155,OIL Project > Crude Gathering Station > North Bay > Civil,Backfill Around FDN-C-0355 (North Bay),Civil,L6,2026-04-29,2026-05-15,120.0,m3,foundation:FDN-C-0355|equipment:C-0355,OIL-A2-CIV-L6-0154
+OIL-A2-CIV-L6-0156,OIL Project > Crude Gathering Station > South Bay > Civil,Backfill Around FDN-C-0356 (South Bay),Civil,L6,2026-04-21,2026-04-28,20.0,m3,foundation:FDN-C-0356|equipment:C-0356,OIL-A2-CIV-L6-0155
+OIL-A2-ELE-L6-0157,OIL Project > Crude Gathering Station > Sec-1 > Electrical,Lay Cable CBL-EL-0557 (Sec-1),Electrical,L5,2026-06-25,2026-07-06,80.0,m,cable:CBL-EL-0557,
+OIL-A2-ELE-L6-0158,OIL Project > Crude Gathering Station > Sec-2 > Electrical,Lay Cable CBL-EL-0558 (Sec-2),Electrical,L6,2026-06-16,2026-07-03,120.0,m,cable:CBL-EL-0558,OIL-A2-ELE-L6-0157
+OIL-A2-ELE-L6-0159,OIL Project > Crude Gathering Station > Sec-3 > Electrical,Lay Cable CBL-EL-0559 (Sec-3),Electrical,L6,2026-04-08,2026-04-11,80.0,m,cable:CBL-EL-0559,OIL-A2-ELE-L6-0158
+OIL-A2-ELE-L6-0160,OIL Project > Crude Gathering Station > Sec-4 > Electrical,Lay Cable CBL-EL-0560 (Sec-4),Electrical,L5,2026-06-18,2026-06-27,40.0,m,cable:CBL-EL-0560,OIL-A2-ELE-L6-0159
+OIL-A2-ELE-L6-0161,OIL Project > Crude Gathering Station > North Bay > Electrical,Lay Cable CBL-EL-0561 (North Bay),Electrical,L6,2026-07-14,2026-07-22,120.0,m,cable:CBL-EL-0561,OIL-A2-ELE-L6-0160
+OIL-A2-ELE-L6-0162,OIL Project > Crude Gathering Station > South Bay > Electrical,Lay Cable CBL-EL-0562 (South Bay),Electrical,L6,2026-07-01,2026-07-04,80.0,m,cable:CBL-EL-0562,OIL-A2-ELE-L6-0161
+OIL-A2-ELE-L6-0163,OIL Project > Crude Gathering Station > Sec-1 > Electrical,Terminate Cable CBL-EL-0563 (Sec-1),Electrical,L5,2026-04-29,2026-05-05,60.0,m,cable:CBL-EL-0563,OIL-A2-ELE-L6-0162
+OIL-A2-ELE-L6-0164,OIL Project > Crude Gathering Station > Sec-2 > Electrical,Terminate Cable CBL-EL-0564 (Sec-2),Electrical,L6,2026-05-05,2026-05-21,120.0,m,cable:CBL-EL-0564,OIL-A2-ELE-L6-0163
+OIL-A2-ELE-L6-0165,OIL Project > Crude Gathering Station > Sec-3 > Electrical,Terminate Cable CBL-EL-0565 (Sec-3),Electrical,L6,2026-04-22,2026-05-03,40.0,m,cable:CBL-EL-0565,OIL-A2-ELE-L6-0164
+OIL-A2-ELE-L6-0166,OIL Project > Crude Gathering Station > Sec-4 > Electrical,Terminate Cable CBL-EL-0566 (Sec-4),Electrical,L5,2026-06-16,2026-06-26,80.0,m,cable:CBL-EL-0566,OIL-A2-ELE-L6-0165
+OIL-A2-ELE-L6-0167,OIL Project > Crude Gathering Station > North Bay > Electrical,Terminate Cable CBL-EL-0567 (North Bay),Electrical,L6,2026-05-26,2026-06-05,120.0,m,cable:CBL-EL-0567,OIL-A2-ELE-L6-0166
+OIL-A2-ELE-L6-0168,OIL Project > Crude Gathering Station > South Bay > Electrical,Terminate Cable CBL-EL-0568 (South Bay),Electrical,L6,2026-06-12,2026-06-20,40.0,m,cable:CBL-EL-0568,OIL-A2-ELE-L6-0167
+OIL-A2-ELE-L6-0169,OIL Project > Crude Gathering Station > Sec-1 > Electrical,Install Cable Tray (Sec-1),Electrical,L5,2026-05-15,2026-05-22,20.0,m,,OIL-A2-ELE-L6-0168
+OIL-A2-ELE-L6-0170,OIL Project > Crude Gathering Station > Sec-2 > Electrical,Install Cable Tray (Sec-2),Electrical,L6,2026-07-04,2026-07-08,20.0,m,,OIL-A2-ELE-L6-0169
+OIL-A2-ELE-L6-0171,OIL Project > Crude Gathering Station > Sec-3 > Electrical,Install Cable Tray (Sec-3),Electrical,L6,2026-04-14,2026-04-24,40.0,m,,OIL-A2-ELE-L6-0170
+OIL-A2-ELE-L6-0172,OIL Project > Crude Gathering Station > Sec-4 > Electrical,Install Cable Tray (Sec-4),Electrical,L5,2026-06-01,2026-06-07,40.0,m,,OIL-A2-ELE-L6-0171
+OIL-A2-ELE-L6-0173,OIL Project > Crude Gathering Station > North Bay > Electrical,Install Cable Tray (North Bay),Electrical,L6,2026-05-04,2026-05-07,60.0,m,,OIL-A2-ELE-L6-0172
+OIL-A2-ELE-L6-0174,OIL Project > Crude Gathering Station > South Bay > Electrical,Install Cable Tray (South Bay),Electrical,L6,2026-07-08,2026-07-26,60.0,m,,OIL-A2-ELE-L6-0173
+OIL-A2-ELE-L6-0175,OIL Project > Crude Gathering Station > Sec-1 > Electrical,Install Transformer T-2575 (Sec-1),Electrical,L5,2026-07-08,2026-07-14,60.0,m,equipment:T-2575,OIL-A2-ELE-L6-0174
+OIL-A2-ELE-L6-0176,OIL Project > Crude Gathering Station > Sec-2 > Electrical,Install Transformer K-2576B (Sec-2),Electrical,L6,2026-06-13,2026-06-25,40.0,m,equipment:K-2576B,OIL-A2-ELE-L6-0175
+OIL-A2-ELE-L6-0177,OIL Project > Crude Gathering Station > Sec-3 > Electrical,Install Transformer K-2577 (Sec-3),Electrical,L6,2026-04-01,2026-04-15,80.0,m,equipment:K-2577,OIL-A2-ELE-L6-0176
+OIL-A2-ELE-L6-0178,OIL Project > Crude Gathering Station > Sec-4 > Electrical,Install Transformer V-2578A (Sec-4),Electrical,L5,2026-07-16,2026-07-27,120.0,m,equipment:V-2578A,OIL-A2-ELE-L6-0177
+OIL-A2-ELE-L6-0179,OIL Project > Crude Gathering Station > North Bay > Electrical,Install Transformer V-2579B (North Bay),Electrical,L6,2026-04-22,2026-04-28,20.0,m,equipment:V-2579B,OIL-A2-ELE-L6-0178
+OIL-A2-ELE-L6-0180,OIL Project > Crude Gathering Station > South Bay > Electrical,Install Transformer E-2580A (South Bay),Electrical,L6,2026-05-21,2026-05-26,80.0,m,equipment:E-2580A,OIL-A2-ELE-L6-0179
+OIL-A2-INS-L6-0181,OIL Project > Crude Gathering Station > Sec-1 > Instrumentation,Install Instrument Loop LP-IN-0881 (Sec-1),Instrumentation,L5,2026-06-09,2026-06-17,2.0,nos,loop:LP-IN-0881,
+OIL-A2-INS-L6-0182,OIL Project > Crude Gathering Station > Sec-2 > Instrumentation,Install Instrument Loop LP-IN-0882 (Sec-2),Instrumentation,L6,2026-06-22,2026-06-26,2.0,nos,loop:LP-IN-0882,OIL-A2-INS-L6-0181
+OIL-A2-INS-L6-0183,OIL Project > Crude Gathering Station > Sec-3 > Instrumentation,Install Instrument Loop LP-IN-0883 (Sec-3),Instrumentation,L6,2026-07-04,2026-07-17,1.0,nos,loop:LP-IN-0883,OIL-A2-INS-L6-0182
+OIL-A2-INS-L6-0184,OIL Project > Crude Gathering Station > Sec-4 > Instrumentation,Install Instrument Loop LP-IN-0884 (Sec-4),Instrumentation,L5,2026-05-13,2026-05-30,4.0,nos,loop:LP-IN-0884,OIL-A2-INS-L6-0183
+OIL-A2-INS-L6-0185,OIL Project > Crude Gathering Station > North Bay > Instrumentation,Install Instrument Loop LP-IN-0885 (North Bay),Instrumentation,L6,2026-07-02,2026-07-09,1.0,nos,loop:LP-IN-0885,OIL-A2-INS-L6-0184
+OIL-A2-INS-L6-0186,OIL Project > Crude Gathering Station > South Bay > Instrumentation,Install Instrument Loop LP-IN-0886 (South Bay),Instrumentation,L6,2026-05-04,2026-05-10,1.0,nos,loop:LP-IN-0886,OIL-A2-INS-L6-0185
+OIL-A2-INS-L6-0187,OIL Project > Crude Gathering Station > Sec-1 > Instrumentation,Loop Check LP-IN-0887 (Sec-1),Instrumentation,L5,2026-07-03,2026-07-15,2.0,nos,loop:LP-IN-0887,OIL-A2-INS-L6-0186
+OIL-A2-INS-L6-0188,OIL Project > Crude Gathering Station > Sec-2 > Instrumentation,Loop Check LP-IN-0888 (Sec-2),Instrumentation,L6,2026-04-27,2026-05-12,2.0,nos,loop:LP-IN-0888,OIL-A2-INS-L6-0187
+OIL-A2-INS-L6-0189,OIL Project > Crude Gathering Station > Sec-3 > Instrumentation,Loop Check LP-IN-0889 (Sec-3),Instrumentation,L6,2026-06-20,2026-07-02,2.0,nos,loop:LP-IN-0889,OIL-A2-INS-L6-0188
+OIL-A2-INS-L6-0190,OIL Project > Crude Gathering Station > Sec-4 > Instrumentation,Loop Check LP-IN-0890 (Sec-4),Instrumentation,L5,2026-07-04,2026-07-14,2.0,nos,loop:LP-IN-0890,OIL-A2-INS-L6-0189
+OIL-A2-INS-L6-0191,OIL Project > Crude Gathering Station > North Bay > Instrumentation,Loop Check LP-IN-0891 (North Bay),Instrumentation,L6,2026-06-26,2026-07-04,4.0,nos,loop:LP-IN-0891,OIL-A2-INS-L6-0190
+OIL-A2-INS-L6-0192,OIL Project > Crude Gathering Station > South Bay > Instrumentation,Loop Check LP-IN-0892 (South Bay),Instrumentation,L6,2026-05-24,2026-06-03,2.0,nos,loop:LP-IN-0892,OIL-A2-INS-L6-0191
+OIL-A2-INS-L6-0193,OIL Project > Crude Gathering Station > Sec-1 > Instrumentation,Install Impulse Tubing LP-IN-0893 (Sec-1),Instrumentation,L5,2026-06-19,2026-07-05,4.0,nos,loop:LP-IN-0893,OIL-A2-INS-L6-0192
+OIL-A2-INS-L6-0194,OIL Project > Crude Gathering Station > Sec-2 > Instrumentation,Install Impulse Tubing LP-IN-0894 (Sec-2),Instrumentation,L6,2026-04-05,2026-04-16,4.0,nos,loop:LP-IN-0894,OIL-A2-INS-L6-0193
+OIL-A2-INS-L6-0195,OIL Project > Crude Gathering Station > Sec-3 > Instrumentation,Install Impulse Tubing LP-IN-0895 (Sec-3),Instrumentation,L6,2026-07-18,2026-08-04,4.0,nos,loop:LP-IN-0895,OIL-A2-INS-L6-0194
+OIL-A2-INS-L6-0196,OIL Project > Crude Gathering Station > Sec-4 > Instrumentation,Install Impulse Tubing LP-IN-0896 (Sec-4),Instrumentation,L5,2026-05-14,2026-05-30,4.0,nos,loop:LP-IN-0896,OIL-A2-INS-L6-0195
+OIL-A2-INS-L6-0197,OIL Project > Crude Gathering Station > North Bay > Instrumentation,Install Impulse Tubing LP-IN-0897 (North Bay),Instrumentation,L6,2026-07-03,2026-07-17,4.0,nos,loop:LP-IN-0897,OIL-A2-INS-L6-0196
+OIL-A2-INS-L6-0198,OIL Project > Crude Gathering Station > South Bay > Instrumentation,Install Impulse Tubing LP-IN-0898 (South Bay),Instrumentation,L6,2026-04-02,2026-04-07,2.0,nos,loop:LP-IN-0898,OIL-A2-INS-L6-0197
+OIL-A2-STA-L6-0199,OIL Project > Crude Gathering Station > Sec-1 > Static Equipment,Erect Vessel K-2599A (Sec-1),Static Equipment,L5,2026-05-09,2026-05-24,4.0,nos,equipment:K-2599A,
+OIL-A2-STA-L6-0200,OIL Project > Crude Gathering Station > Sec-2 > Static Equipment,Erect Vessel T-2600 (Sec-2),Static Equipment,L6,2026-07-09,2026-07-14,4.0,nos,equipment:T-2600,OIL-A2-STA-L6-0199
+OIL-A2-STA-L6-0201,OIL Project > Crude Gathering Station > Sec-3 > Static Equipment,Erect Vessel K-2601B (Sec-3),Static Equipment,L6,2026-05-16,2026-06-01,2.0,nos,equipment:K-2601B,OIL-A2-STA-L6-0200
+OIL-A2-STA-L6-0202,OIL Project > Crude Gathering Station > Sec-4 > Static Equipment,Erect Vessel T-2602A (Sec-4),Static Equipment,L5,2026-06-30,2026-07-15,4.0,nos,equipment:T-2602A,OIL-A2-STA-L6-0201
+OIL-A2-STA-L6-0203,OIL Project > Crude Gathering Station > North Bay > Static Equipment,Erect Vessel V-2603A (North Bay),Static Equipment,L6,2026-05-16,2026-05-26,4.0,nos,equipment:V-2603A,OIL-A2-STA-L6-0202
+OIL-A2-STA-L6-0204,OIL Project > Crude Gathering Station > South Bay > Static Equipment,Erect Vessel T-2604A (South Bay),Static Equipment,L6,2026-06-21,2026-06-26,4.0,nos,equipment:T-2604A,OIL-A2-STA-L6-0203
+OIL-A2-STA-L6-0205,OIL Project > Crude Gathering Station > Sec-1 > Static Equipment,Grout Vessel E-2605A (Sec-1),Static Equipment,L5,2026-07-15,2026-07-28,1.0,nos,equipment:E-2605A,OIL-A2-STA-L6-0204
+OIL-A2-STA-L6-0206,OIL Project > Crude Gathering Station > Sec-2 > Static Equipment,Grout Vessel K-2606 (Sec-2),Static Equipment,L6,2026-04-10,2026-04-22,2.0,nos,equipment:K-2606,OIL-A2-STA-L6-0205
+OIL-A2-STA-L6-0207,OIL Project > Crude Gathering Station > Sec-3 > Static Equipment,Grout Vessel K-2607 (Sec-3),Static Equipment,L6,2026-07-09,2026-07-26,2.0,nos,equipment:K-2607,OIL-A2-STA-L6-0206
+OIL-A2-STA-L6-0208,OIL Project > Crude Gathering Station > Sec-4 > Static Equipment,Grout Vessel T-2608B (Sec-4),Static Equipment,L5,2026-06-28,2026-07-03,4.0,nos,equipment:T-2608B,OIL-A2-STA-L6-0207
+OIL-A2-STA-L6-0209,OIL Project > Crude Gathering Station > North Bay > Static Equipment,Grout Vessel V-2609A (North Bay),Static Equipment,L6,2026-04-11,2026-04-28,4.0,nos,equipment:V-2609A,OIL-A2-STA-L6-0208
+OIL-A2-STA-L6-0210,OIL Project > Crude Gathering Station > South Bay > Static Equipment,Grout Vessel E-2610A (South Bay),Static Equipment,L6,2026-05-31,2026-06-18,4.0,nos,equipment:E-2610A,OIL-A2-STA-L6-0209
+OIL-A2-STA-L6-0211,OIL Project > Crude Gathering Station > Sec-1 > Static Equipment,Align Exchanger T-2611 (Sec-1),Static Equipment,L5,2026-06-03,2026-06-11,4.0,nos,equipment:T-2611,OIL-A2-STA-L6-0210
+OIL-A2-STA-L6-0212,OIL Project > Crude Gathering Station > Sec-2 > Static Equipment,Align Exchanger V-2612A (Sec-2),Static Equipment,L6,2026-06-03,2026-06-15,2.0,nos,equipment:V-2612A,OIL-A2-STA-L6-0211
+OIL-A2-STA-L6-0213,OIL Project > Crude Gathering Station > Sec-3 > Static Equipment,Align Exchanger T-2613B (Sec-3),Static Equipment,L6,2026-06-21,2026-07-05,4.0,nos,equipment:T-2613B,OIL-A2-STA-L6-0212
+OIL-A2-STA-L6-0214,OIL Project > Crude Gathering Station > Sec-4 > Static Equipment,Align Exchanger K-2614 (Sec-4),Static Equipment,L5,2026-06-05,2026-06-23,2.0,nos,equipment:K-2614,OIL-A2-STA-L6-0213
+OIL-A2-STA-L6-0215,OIL Project > Crude Gathering Station > North Bay > Static Equipment,Align Exchanger V-2615B (North Bay),Static Equipment,L6,2026-05-14,2026-05-20,4.0,nos,equipment:V-2615B,OIL-A2-STA-L6-0214
+OIL-A2-STA-L6-0216,OIL Project > Crude Gathering Station > South Bay > Static Equipment,Align Exchanger T-2616B (South Bay),Static Equipment,L6,2026-05-07,2026-05-23,2.0,nos,equipment:T-2616B,OIL-A2-STA-L6-0215
+OIL-A3-PIP-L6-0217,OIL Project > Utilities & Flare > Sec-1 > Piping,"Erect Line 16""-FG-1217 Spools (Sec-1)",Piping,L5,2026-05-16,2026-06-03,80.0,m,"line:16""-FG-1217",
+OIL-A3-PIP-L6-0218,OIL Project > Utilities & Flare > Sec-2 > Piping,"Erect Line 12""-FG-1218 Spools (Sec-2)",Piping,L6,2026-07-11,2026-07-17,60.0,m,"line:12""-FG-1218",OIL-A3-PIP-L6-0217
+OIL-A3-PIP-L6-0219,OIL Project > Utilities & Flare > Sec-3 > Piping,"Erect Line 8""-FG-1219 Spools (Sec-3)",Piping,L6,2026-07-10,2026-07-14,80.0,m,"line:8""-FG-1219",OIL-A3-PIP-L6-0218
+OIL-A3-PIP-L6-0220,OIL Project > Utilities & Flare > Sec-4 > Piping,"Erect Line 24""-HC-1220 Spools (Sec-4)",Piping,L5,2026-05-09,2026-05-15,20.0,m,"line:24""-HC-1220",OIL-A3-PIP-L6-0219
+OIL-A3-PIP-L6-0221,OIL Project > Utilities & Flare > North Bay > Piping,"Erect Line 6""-CW-1221 Spools (North Bay)",Piping,L6,2026-06-09,2026-06-24,120.0,m,"line:6""-CW-1221",OIL-A3-PIP-L6-0220
+OIL-A3-PIP-L6-0222,OIL Project > Utilities & Flare > South Bay > Piping,"Erect Line 8""-PG-1222 Spools (South Bay)",Piping,L6,2026-04-13,2026-04-21,20.0,m,"line:8""-PG-1222",OIL-A3-PIP-L6-0221
+OIL-A3-PIP-L6-0223,OIL Project > Utilities & Flare > Sec-1 > Piping,"Fabricate Spools for Line 16""-PG-1223 (Sec-1)",Piping,L5,2026-06-11,2026-06-22,60.0,m,"line:16""-PG-1223",OIL-A3-PIP-L6-0222
+OIL-A3-PIP-L6-0224,OIL Project > Utilities & Flare > Sec-2 > Piping,"Fabricate Spools for Line 8""-HC-1224 (Sec-2)",Piping,L6,2026-06-12,2026-06-16,80.0,m,"line:8""-HC-1224",OIL-A3-PIP-L6-0223
+OIL-A3-PIP-L6-0225,OIL Project > Utilities & Flare > Sec-3 > Piping,"Fabricate Spools for Line 24""-PG-1225 (Sec-3)",Piping,L6,2026-05-28,2026-06-02,20.0,m,"line:24""-PG-1225",OIL-A3-PIP-L6-0224
+OIL-A3-PIP-L6-0226,OIL Project > Utilities & Flare > Sec-4 > Piping,"Fabricate Spools for Line 16""-CW-1226 (Sec-4)",Piping,L5,2026-04-11,2026-04-29,40.0,m,"line:16""-CW-1226",OIL-A3-PIP-L6-0225
+OIL-A3-PIP-L6-0227,OIL Project > Utilities & Flare > North Bay > Piping,"Fabricate Spools for Line 8""-PG-1227 (North Bay)",Piping,L6,2026-07-19,2026-07-24,40.0,m,"line:8""-PG-1227",OIL-A3-PIP-L6-0226
+OIL-A3-PIP-L6-0228,OIL Project > Utilities & Flare > South Bay > Piping,"Fabricate Spools for Line 6""-CW-1228 (South Bay)",Piping,L6,2026-05-02,2026-05-19,40.0,m,"line:6""-CW-1228",OIL-A3-PIP-L6-0227
+OIL-A3-PIP-L6-0229,OIL Project > Utilities & Flare > Sec-1 > Piping,"Weld Joints Line 6""-FG-1229 (Sec-1)",Piping,L5,2026-06-20,2026-07-08,80.0,m,"line:6""-FG-1229",OIL-A3-PIP-L6-0228
+OIL-A3-PIP-L6-0230,OIL Project > Utilities & Flare > Sec-2 > Piping,"Weld Joints Line 12""-PG-1230 (Sec-2)",Piping,L6,2026-06-23,2026-06-28,80.0,m,"line:12""-PG-1230",OIL-A3-PIP-L6-0229
+OIL-A3-PIP-L6-0231,OIL Project > Utilities & Flare > Sec-3 > Piping,"Weld Joints Line 12""-FG-1231 (Sec-3)",Piping,L6,2026-04-08,2026-04-21,60.0,m,"line:12""-FG-1231",OIL-A3-PIP-L6-0230
+OIL-A3-PIP-L6-0232,OIL Project > Utilities & Flare > Sec-4 > Piping,"Weld Joints Line 24""-HC-1232 (Sec-4)",Piping,L5,2026-07-12,2026-07-18,60.0,m,"line:24""-HC-1232",OIL-A3-PIP-L6-0231
+OIL-A3-PIP-L6-0233,OIL Project > Utilities & Flare > North Bay > Piping,"Weld Joints Line 8""-HC-1233 (North Bay)",Piping,L6,2026-07-10,2026-07-23,60.0,m,"line:8""-HC-1233",OIL-A3-PIP-L6-0232
+OIL-A3-PIP-L6-0234,OIL Project > Utilities & Flare > South Bay > Piping,"Weld Joints Line 12""-PG-1234 (South Bay)",Piping,L6,2026-06-17,2026-06-20,40.0,m,"line:12""-PG-1234",OIL-A3-PIP-L6-0233
+OIL-A3-PIP-L6-0235,OIL Project > Utilities & Flare > Sec-1 > Piping,"Hydrotest Line 24""-FG-1235 (Sec-1)",Piping,L5,2026-05-20,2026-06-04,120.0,m,"line:24""-FG-1235",OIL-A3-PIP-L6-0234
+OIL-A3-PIP-L6-0236,OIL Project > Utilities & Flare > Sec-2 > Piping,"Hydrotest Line 8""-HC-1236 (Sec-2)",Piping,L6,2026-05-04,2026-05-15,80.0,m,"line:8""-HC-1236",OIL-A3-PIP-L6-0235
+OIL-A3-PIP-L6-0237,OIL Project > Utilities & Flare > Sec-3 > Piping,"Hydrotest Line 8""-PG-1237 (Sec-3)",Piping,L6,2026-05-06,2026-05-24,60.0,m,"line:8""-PG-1237",OIL-A3-PIP-L6-0236
+OIL-A3-PIP-L6-0238,OIL Project > Utilities & Flare > Sec-4 > Piping,"Hydrotest Line 24""-PG-1238 (Sec-4)",Piping,L5,2026-04-26,2026-05-06,60.0,m,"line:24""-PG-1238",OIL-A3-PIP-L6-0237
+OIL-A3-PIP-L6-0239,OIL Project > Utilities & Flare > North Bay > Piping,"Hydrotest Line 24""-PG-1239 (North Bay)",Piping,L6,2026-06-15,2026-06-18,80.0,m,"line:24""-PG-1239",OIL-A3-PIP-L6-0238
+OIL-A3-PIP-L6-0240,OIL Project > Utilities & Flare > South Bay > Piping,"Hydrotest Line 16""-PG-1240 (South Bay)",Piping,L6,2026-05-21,2026-06-01,120.0,m,"line:16""-PG-1240",OIL-A3-PIP-L6-0239
+OIL-A3-CIV-L6-0241,OIL Project > Utilities & Flare > Sec-1 > Civil,Pour Foundation FDN-C-0441 (Sec-1),Civil,L5,2026-04-28,2026-05-07,20.0,m3,foundation:FDN-C-0441|equipment:C-0441,
+OIL-A3-CIV-L6-0242,OIL Project > Utilities & Flare > Sec-2 > Civil,Pour Foundation FDN-C-0442 (Sec-2),Civil,L6,2026-05-22,2026-05-29,40.0,m3,foundation:FDN-C-0442|equipment:C-0442,OIL-A3-CIV-L6-0241
+OIL-A3-CIV-L6-0243,OIL Project > Utilities & Flare > Sec-3 > Civil,Pour Foundation FDN-C-0443 (Sec-3),Civil,L6,2026-07-10,2026-07-15,40.0,m3,foundation:FDN-C-0443|equipment:C-0443,OIL-A3-CIV-L6-0242
+OIL-A3-CIV-L6-0244,OIL Project > Utilities & Flare > Sec-4 > Civil,Pour Foundation FDN-C-0444 (Sec-4),Civil,L5,2026-04-03,2026-04-09,20.0,m3,foundation:FDN-C-0444|equipment:C-0444,OIL-A3-CIV-L6-0243
+OIL-A3-CIV-L6-0245,OIL Project > Utilities & Flare > North Bay > Civil,Pour Foundation FDN-C-0445 (North Bay),Civil,L6,2026-07-09,2026-07-20,80.0,m3,foundation:FDN-C-0445|equipment:C-0445,OIL-A3-CIV-L6-0244
+OIL-A3-CIV-L6-0246,OIL Project > Utilities & Flare > South Bay > Civil,Pour Foundation FDN-C-0446 (South Bay),Civil,L6,2026-07-17,2026-07-21,60.0,m3,foundation:FDN-C-0446|equipment:C-0446,OIL-A3-CIV-L6-0245
+OIL-A3-CIV-L6-0247,OIL Project > Utilities & Flare > Sec-1 > Civil,Excavate for Foundation FDN-C-0447 (Sec-1),Civil,L5,2026-04-05,2026-04-19,80.0,m3,foundation:FDN-C-0447|equipment:C-0447,OIL-A3-CIV-L6-0246
+OIL-A3-CIV-L6-0248,OIL Project > Utilities & Flare > Sec-2 > Civil,Excavate for Foundation FDN-C-0448 (Sec-2),Civil,L6,2026-06-30,2026-07-05,60.0,m3,foundation:FDN-C-0448|equipment:C-0448,OIL-A3-CIV-L6-0247
+OIL-A3-CIV-L6-0249,OIL Project > Utilities & Flare > Sec-3 > Civil,Excavate for Foundation FDN-C-0449 (Sec-3),Civil,L6,2026-04-24,2026-05-11,40.0,m3,foundation:FDN-C-0449|equipment:C-0449,OIL-A3-CIV-L6-0248
+OIL-A3-CIV-L6-0250,OIL Project > Utilities & Flare > Sec-4 > Civil,Excavate for Foundation FDN-C-0450 (Sec-4),Civil,L5,2026-05-16,2026-05-20,120.0,m3,foundation:FDN-C-0450|equipment:C-0450,OIL-A3-CIV-L6-0249
+OIL-A3-CIV-L6-0251,OIL Project > Utilities & Flare > North Bay > Civil,Excavate for Foundation FDN-C-0451 (North Bay),Civil,L6,2026-04-13,2026-04-20,60.0,m3,foundation:FDN-C-0451|equipment:C-0451,OIL-A3-CIV-L6-0250
+OIL-A3-CIV-L6-0252,OIL Project > Utilities & Flare > South Bay > Civil,Excavate for Foundation FDN-C-0452 (South Bay),Civil,L6,2026-07-07,2026-07-13,80.0,m3,foundation:FDN-C-0452|equipment:C-0452,OIL-A3-CIV-L6-0251
+OIL-A3-CIV-L6-0253,OIL Project > Utilities & Flare > Sec-1 > Civil,Rebar Fixing Foundation FDN-C-0453 (Sec-1),Civil,L5,2026-06-01,2026-06-16,40.0,m3,foundation:FDN-C-0453|equipment:C-0453,OIL-A3-CIV-L6-0252
+OIL-A3-CIV-L6-0254,OIL Project > Utilities & Flare > Sec-2 > Civil,Rebar Fixing Foundation FDN-C-0454 (Sec-2),Civil,L6,2026-07-01,2026-07-10,20.0,m3,foundation:FDN-C-0454|equipment:C-0454,OIL-A3-CIV-L6-0253
+OIL-A3-CIV-L6-0255,OIL Project > Utilities & Flare > Sec-3 > Civil,Rebar Fixing Foundation FDN-C-0455 (Sec-3),Civil,L6,2026-07-09,2026-07-26,20.0,m3,foundation:FDN-C-0455|equipment:C-0455,OIL-A3-CIV-L6-0254
+OIL-A3-CIV-L6-0256,OIL Project > Utilities & Flare > Sec-4 > Civil,Rebar Fixing Foundation FDN-C-0456 (Sec-4),Civil,L5,2026-07-15,2026-07-25,80.0,m3,foundation:FDN-C-0456|equipment:C-0456,OIL-A3-CIV-L6-0255
+OIL-A3-CIV-L6-0257,OIL Project > Utilities & Flare > North Bay > Civil,Rebar Fixing Foundation FDN-C-0457 (North Bay),Civil,L6,2026-04-24,2026-05-11,120.0,m3,foundation:FDN-C-0457|equipment:C-0457,OIL-A3-CIV-L6-0256
+OIL-A3-CIV-L6-0258,OIL Project > Utilities & Flare > South Bay > Civil,Rebar Fixing Foundation FDN-C-0458 (South Bay),Civil,L6,2026-05-02,2026-05-09,20.0,m3,foundation:FDN-C-0458|equipment:C-0458,OIL-A3-CIV-L6-0257
+OIL-A3-CIV-L6-0259,OIL Project > Utilities & Flare > Sec-1 > Civil,Backfill Around FDN-C-0459 (Sec-1),Civil,L5,2026-04-14,2026-04-27,80.0,m3,foundation:FDN-C-0459|equipment:C-0459,OIL-A3-CIV-L6-0258
+OIL-A3-CIV-L6-0260,OIL Project > Utilities & Flare > Sec-2 > Civil,Backfill Around FDN-C-0460 (Sec-2),Civil,L6,2026-06-11,2026-06-29,60.0,m3,foundation:FDN-C-0460|equipment:C-0460,OIL-A3-CIV-L6-0259
+OIL-A3-CIV-L6-0261,OIL Project > Utilities & Flare > Sec-3 > Civil,Backfill Around FDN-C-0461 (Sec-3),Civil,L6,2026-05-01,2026-05-11,20.0,m3,foundation:FDN-C-0461|equipment:C-0461,OIL-A3-CIV-L6-0260
+OIL-A3-CIV-L6-0262,OIL Project > Utilities & Flare > Sec-4 > Civil,Backfill Around FDN-C-0462 (Sec-4),Civil,L5,2026-04-19,2026-04-22,80.0,m3,foundation:FDN-C-0462|equipment:C-0462,OIL-A3-CIV-L6-0261
+OIL-A3-CIV-L6-0263,OIL Project > Utilities & Flare > North Bay > Civil,Backfill Around FDN-C-0463 (North Bay),Civil,L6,2026-07-11,2026-07-23,40.0,m3,foundation:FDN-C-0463|equipment:C-0463,OIL-A3-CIV-L6-0262
+OIL-A3-CIV-L6-0264,OIL Project > Utilities & Flare > South Bay > Civil,Backfill Around FDN-C-0464 (South Bay),Civil,L6,2026-06-13,2026-06-21,40.0,m3,foundation:FDN-C-0464|equipment:C-0464,OIL-A3-CIV-L6-0263
+OIL-A3-ELE-L6-0265,OIL Project > Utilities & Flare > Sec-1 > Electrical,Lay Cable CBL-EL-0665 (Sec-1),Electrical,L5,2026-07-16,2026-07-21,120.0,m,cable:CBL-EL-0665,
+OIL-A3-ELE-L6-0266,OIL Project > Utilities & Flare > Sec-2 > Electrical,Lay Cable CBL-EL-0666 (Sec-2),Electrical,L6,2026-06-25,2026-07-04,120.0,m,cable:CBL-EL-0666,OIL-A3-ELE-L6-0265
+OIL-A3-ELE-L6-0267,OIL Project > Utilities & Flare > Sec-3 > Electrical,Lay Cable CBL-EL-0667 (Sec-3),Electrical,L6,2026-07-17,2026-07-21,120.0,m,cable:CBL-EL-0667,OIL-A3-ELE-L6-0266
+OIL-A3-ELE-L6-0268,OIL Project > Utilities & Flare > Sec-4 > Electrical,Lay Cable CBL-EL-0668 (Sec-4),Electrical,L5,2026-04-02,2026-04-18,80.0,m,cable:CBL-EL-0668,OIL-A3-ELE-L6-0267
+OIL-A3-ELE-L6-0269,OIL Project > Utilities & Flare > North Bay > Electrical,Lay Cable CBL-EL-0669 (North Bay),Electrical,L6,2026-04-05,2026-04-13,60.0,m,cable:CBL-EL-0669,OIL-A3-ELE-L6-0268
+OIL-A3-ELE-L6-0270,OIL Project > Utilities & Flare > South Bay > Electrical,Lay Cable CBL-EL-0670 (South Bay),Electrical,L6,2026-04-10,2026-04-16,60.0,m,cable:CBL-EL-0670,OIL-A3-ELE-L6-0269
+OIL-A3-ELE-L6-0271,OIL Project > Utilities & Flare > Sec-1 > Electrical,Terminate Cable CBL-EL-0671 (Sec-1),Electrical,L5,2026-04-14,2026-05-02,80.0,m,cable:CBL-EL-0671,OIL-A3-ELE-L6-0270
+OIL-A3-ELE-L6-0272,OIL Project > Utilities & Flare > Sec-2 > Electrical,Terminate Cable CBL-EL-0672 (Sec-2),Electrical,L6,2026-05-02,2026-05-07,40.0,m,cable:CBL-EL-0672,OIL-A3-ELE-L6-0271
+OIL-A3-ELE-L6-0273,OIL Project > Utilities & Flare > Sec-3 > Electrical,Terminate Cable CBL-EL-0673 (Sec-3),Electrical,L6,2026-06-11,2026-06-14,20.0,m,cable:CBL-EL-0673,OIL-A3-ELE-L6-0272
+OIL-A3-ELE-L6-0274,OIL Project > Utilities & Flare > Sec-4 > Electrical,Terminate Cable CBL-EL-0674 (Sec-4),Electrical,L5,2026-05-30,2026-06-09,80.0,m,cable:CBL-EL-0674,OIL-A3-ELE-L6-0273
+OIL-A3-ELE-L6-0275,OIL Project > Utilities & Flare > North Bay > Electrical,Terminate Cable CBL-EL-0675 (North Bay),Electrical,L6,2026-05-05,2026-05-11,80.0,m,cable:CBL-EL-0675,OIL-A3-ELE-L6-0274
+OIL-A3-ELE-L6-0276,OIL Project > Utilities & Flare > South Bay > Electrical,Terminate Cable CBL-EL-0676 (South Bay),Electrical,L6,2026-04-18,2026-04-28,40.0,m,cable:CBL-EL-0676,OIL-A3-ELE-L6-0275
+OIL-A3-ELE-L6-0277,OIL Project > Utilities & Flare > Sec-1 > Electrical,Install Cable Tray (Sec-1),Electrical,L5,2026-06-28,2026-07-14,120.0,m,,OIL-A3-ELE-L6-0276
+OIL-A3-ELE-L6-0278,OIL Project > Utilities & Flare > Sec-2 > Electrical,Install Cable Tray (Sec-2),Electrical,L6,2026-05-22,2026-06-01,60.0,m,,OIL-A3-ELE-L6-0277
+OIL-A3-ELE-L6-0279,OIL Project > Utilities & Flare > Sec-3 > Electrical,Install Cable Tray (Sec-3),Electrical,L6,2026-06-06,2026-06-13,60.0,m,,OIL-A3-ELE-L6-0278
+OIL-A3-ELE-L6-0280,OIL Project > Utilities & Flare > Sec-4 > Electrical,Install Cable Tray (Sec-4),Electrical,L5,2026-04-24,2026-04-29,60.0,m,,OIL-A3-ELE-L6-0279
+OIL-A3-ELE-L6-0281,OIL Project > Utilities & Flare > North Bay > Electrical,Install Cable Tray (North Bay),Electrical,L6,2026-04-18,2026-05-04,80.0,m,,OIL-A3-ELE-L6-0280
+OIL-A3-ELE-L6-0282,OIL Project > Utilities & Flare > South Bay > Electrical,Install Cable Tray (South Bay),Electrical,L6,2026-06-26,2026-07-07,120.0,m,,OIL-A3-ELE-L6-0281
+OIL-A3-ELE-L6-0283,OIL Project > Utilities & Flare > Sec-1 > Electrical,Install Transformer E-2683 (Sec-1),Electrical,L5,2026-05-26,2026-06-05,20.0,m,equipment:E-2683,OIL-A3-ELE-L6-0282
+OIL-A3-ELE-L6-0284,OIL Project > Utilities & Flare > Sec-2 > Electrical,Install Transformer E-2684A (Sec-2),Electrical,L6,2026-04-08,2026-04-19,20.0,m,equipment:E-2684A,OIL-A3-ELE-L6-0283
+OIL-A3-ELE-L6-0285,OIL Project > Utilities & Flare > Sec-3 > Electrical,Install Transformer T-2685 (Sec-3),Electrical,L6,2026-05-08,2026-05-24,120.0,m,equipment:T-2685,OIL-A3-ELE-L6-0284
+OIL-A3-ELE-L6-0286,OIL Project > Utilities & Flare > Sec-4 > Electrical,Install Transformer V-2686B (Sec-4),Electrical,L5,2026-05-07,2026-05-24,120.0,m,equipment:V-2686B,OIL-A3-ELE-L6-0285
+OIL-A3-ELE-L6-0287,OIL Project > Utilities & Flare > North Bay > Electrical,Install Transformer T-2687 (North Bay),Electrical,L6,2026-05-29,2026-06-10,120.0,m,equipment:T-2687,OIL-A3-ELE-L6-0286
+OIL-A3-ELE-L6-0288,OIL Project > Utilities & Flare > South Bay > Electrical,Install Transformer E-2688 (South Bay),Electrical,L6,2026-04-29,2026-05-08,120.0,m,equipment:E-2688,OIL-A3-ELE-L6-0287
+OIL-A3-INS-L6-0289,OIL Project > Utilities & Flare > Sec-1 > Instrumentation,Install Instrument Loop LP-IN-0989 (Sec-1),Instrumentation,L5,2026-04-21,2026-05-01,2.0,nos,loop:LP-IN-0989,
+OIL-A3-INS-L6-0290,OIL Project > Utilities & Flare > Sec-2 > Instrumentation,Install Instrument Loop LP-IN-0990 (Sec-2),Instrumentation,L6,2026-05-08,2026-05-12,1.0,nos,loop:LP-IN-0990,OIL-A3-INS-L6-0289
+OIL-A3-INS-L6-0291,OIL Project > Utilities & Flare > Sec-3 > Instrumentation,Install Instrument Loop LP-IN-0991 (Sec-3),Instrumentation,L6,2026-06-06,2026-06-21,2.0,nos,loop:LP-IN-0991,OIL-A3-INS-L6-0290
+OIL-A3-INS-L6-0292,OIL Project > Utilities & Flare > Sec-4 > Instrumentation,Install Instrument Loop LP-IN-0992 (Sec-4),Instrumentation,L5,2026-05-14,2026-05-28,1.0,nos,loop:LP-IN-0992,OIL-A3-INS-L6-0291
+OIL-A3-INS-L6-0293,OIL Project > Utilities & Flare > North Bay > Instrumentation,Install Instrument Loop LP-IN-0993 (North Bay),Instrumentation,L6,2026-07-10,2026-07-17,2.0,nos,loop:LP-IN-0993,OIL-A3-INS-L6-0292
+OIL-A3-INS-L6-0294,OIL Project > Utilities & Flare > South Bay > Instrumentation,Install Instrument Loop LP-IN-0994 (South Bay),Instrumentation,L6,2026-06-03,2026-06-18,4.0,nos,loop:LP-IN-0994,OIL-A3-INS-L6-0293
+OIL-A3-INS-L6-0295,OIL Project > Utilities & Flare > Sec-1 > Instrumentation,Loop Check LP-IN-0995 (Sec-1),Instrumentation,L5,2026-05-19,2026-06-05,4.0,nos,loop:LP-IN-0995,OIL-A3-INS-L6-0294
+OIL-A3-INS-L6-0296,OIL Project > Utilities & Flare > Sec-2 > Instrumentation,Loop Check LP-IN-0996 (Sec-2),Instrumentation,L6,2026-06-07,2026-06-22,4.0,nos,loop:LP-IN-0996,OIL-A3-INS-L6-0295
+OIL-A3-INS-L6-0297,OIL Project > Utilities & Flare > Sec-3 > Instrumentation,Loop Check LP-IN-0997 (Sec-3),Instrumentation,L6,2026-04-24,2026-05-06,1.0,nos,loop:LP-IN-0997,OIL-A3-INS-L6-0296
+OIL-A3-INS-L6-0298,OIL Project > Utilities & Flare > Sec-4 > Instrumentation,Loop Check LP-IN-0998 (Sec-4),Instrumentation,L5,2026-05-12,2026-05-22,2.0,nos,loop:LP-IN-0998,OIL-A3-INS-L6-0297
+OIL-A3-INS-L6-0299,OIL Project > Utilities & Flare > North Bay > Instrumentation,Loop Check LP-IN-0999 (North Bay),Instrumentation,L6,2026-06-12,2026-06-30,2.0,nos,loop:LP-IN-0999,OIL-A3-INS-L6-0298
+OIL-A3-INS-L6-0300,OIL Project > Utilities & Flare > South Bay > Instrumentation,Loop Check LP-IN-1000 (South Bay),Instrumentation,L6,2026-07-15,2026-07-31,2.0,nos,loop:LP-IN-1000,OIL-A3-INS-L6-0299
+OIL-A3-INS-L6-0301,OIL Project > Utilities & Flare > Sec-1 > Instrumentation,Install Impulse Tubing LP-IN-1001 (Sec-1),Instrumentation,L5,2026-04-02,2026-04-07,4.0,nos,loop:LP-IN-1001,OIL-A3-INS-L6-0300
+OIL-A3-INS-L6-0302,OIL Project > Utilities & Flare > Sec-2 > Instrumentation,Install Impulse Tubing LP-IN-1002 (Sec-2),Instrumentation,L6,2026-06-23,2026-06-30,1.0,nos,loop:LP-IN-1002,OIL-A3-INS-L6-0301
+OIL-A3-INS-L6-0303,OIL Project > Utilities & Flare > Sec-3 > Instrumentation,Install Impulse Tubing LP-IN-1003 (Sec-3),Instrumentation,L6,2026-05-14,2026-05-19,1.0,nos,loop:LP-IN-1003,OIL-A3-INS-L6-0302
+OIL-A3-INS-L6-0304,OIL Project > Utilities & Flare > Sec-4 > Instrumentation,Install Impulse Tubing LP-IN-1004 (Sec-4),Instrumentation,L5,2026-04-23,2026-04-29,4.0,nos,loop:LP-IN-1004,OIL-A3-INS-L6-0303
+OIL-A3-INS-L6-0305,OIL Project > Utilities & Flare > North Bay > Instrumentation,Install Impulse Tubing LP-IN-1005 (North Bay),Instrumentation,L6,2026-05-08,2026-05-17,4.0,nos,loop:LP-IN-1005,OIL-A3-INS-L6-0304
+OIL-A3-INS-L6-0306,OIL Project > Utilities & Flare > South Bay > Instrumentation,Install Impulse Tubing LP-IN-1006 (South Bay),Instrumentation,L6,2026-04-14,2026-04-28,4.0,nos,loop:LP-IN-1006,OIL-A3-INS-L6-0305
+OIL-A3-STA-L6-0307,OIL Project > Utilities & Flare > Sec-1 > Static Equipment,Erect Vessel P-2707 (Sec-1),Static Equipment,L5,2026-04-01,2026-04-13,2.0,nos,equipment:P-2707,
+OIL-A3-STA-L6-0308,OIL Project > Utilities & Flare > Sec-2 > Static Equipment,Erect Vessel P-2708 (Sec-2),Static Equipment,L6,2026-07-08,2026-07-19,4.0,nos,equipment:P-2708,OIL-A3-STA-L6-0307
+OIL-A3-STA-L6-0309,OIL Project > Utilities & Flare > Sec-3 > Static Equipment,Erect Vessel K-2709 (Sec-3),Static Equipment,L6,2026-04-16,2026-04-23,1.0,nos,equipment:K-2709,OIL-A3-STA-L6-0308
+OIL-A3-STA-L6-0310,OIL Project > Utilities & Flare > Sec-4 > Static Equipment,Erect Vessel P-2710 (Sec-4),Static Equipment,L5,2026-06-06,2026-06-24,2.0,nos,equipment:P-2710,OIL-A3-STA-L6-0309
+OIL-A3-STA-L6-0311,OIL Project > Utilities & Flare > North Bay > Static Equipment,Erect Vessel P-2711B (North Bay),Static Equipment,L6,2026-05-12,2026-05-19,4.0,nos,equipment:P-2711B,OIL-A3-STA-L6-0310
+OIL-A3-STA-L6-0312,OIL Project > Utilities & Flare > South Bay > Static Equipment,Erect Vessel E-2712 (South Bay),Static Equipment,L6,2026-06-20,2026-06-26,4.0,nos,equipment:E-2712,OIL-A3-STA-L6-0311
+OIL-A3-STA-L6-0313,OIL Project > Utilities & Flare > Sec-1 > Static Equipment,Grout Vessel V-2713A (Sec-1),Static Equipment,L5,2026-04-03,2026-04-07,1.0,nos,equipment:V-2713A,OIL-A3-STA-L6-0312
+OIL-A3-STA-L6-0314,OIL Project > Utilities & Flare > Sec-2 > Static Equipment,Grout Vessel T-2714 (Sec-2),Static Equipment,L6,2026-05-02,2026-05-12,1.0,nos,equipment:T-2714,OIL-A3-STA-L6-0313
+OIL-A3-STA-L6-0315,OIL Project > Utilities & Flare > Sec-3 > Static Equipment,Grout Vessel E-2715 (Sec-3),Static Equipment,L6,2026-05-24,2026-06-04,2.0,nos,equipment:E-2715,OIL-A3-STA-L6-0314
+OIL-A3-STA-L6-0316,OIL Project > Utilities & Flare > Sec-4 > Static Equipment,Grout Vessel T-2716B (Sec-4),Static Equipment,L5,2026-05-23,2026-06-04,2.0,nos,equipment:T-2716B,OIL-A3-STA-L6-0315
+OIL-A3-STA-L6-0317,OIL Project > Utilities & Flare > North Bay > Static Equipment,Grout Vessel V-2717 (North Bay),Static Equipment,L6,2026-05-16,2026-05-31,1.0,nos,equipment:V-2717,OIL-A3-STA-L6-0316
+OIL-A3-STA-L6-0318,OIL Project > Utilities & Flare > South Bay > Static Equipment,Grout Vessel T-2718B (South Bay),Static Equipment,L6,2026-05-13,2026-05-28,2.0,nos,equipment:T-2718B,OIL-A3-STA-L6-0317
+OIL-A3-STA-L6-0319,OIL Project > Utilities & Flare > Sec-1 > Static Equipment,Align Exchanger P-2719A (Sec-1),Static Equipment,L5,2026-05-02,2026-05-17,1.0,nos,equipment:P-2719A,OIL-A3-STA-L6-0318
+OIL-A3-STA-L6-0320,OIL Project > Utilities & Flare > Sec-2 > Static Equipment,Align Exchanger E-2720 (Sec-2),Static Equipment,L6,2026-05-06,2026-05-09,2.0,nos,equipment:E-2720,OIL-A3-STA-L6-0319
+OIL-A3-STA-L6-0321,OIL Project > Utilities & Flare > Sec-3 > Static Equipment,Align Exchanger V-2721 (Sec-3),Static Equipment,L6,2026-06-09,2026-06-16,4.0,nos,equipment:V-2721,OIL-A3-STA-L6-0320
+OIL-A3-STA-L6-0322,OIL Project > Utilities & Flare > Sec-4 > Static Equipment,Align Exchanger V-2722 (Sec-4),Static Equipment,L5,2026-04-28,2026-05-13,2.0,nos,equipment:V-2722,OIL-A3-STA-L6-0321
+OIL-A3-STA-L6-0323,OIL Project > Utilities & Flare > North Bay > Static Equipment,Align Exchanger E-2723A (North Bay),Static Equipment,L6,2026-04-30,2026-05-17,4.0,nos,equipment:E-2723A,OIL-A3-STA-L6-0322
+OIL-A3-STA-L6-0324,OIL Project > Utilities & Flare > South Bay > Static Equipment,Align Exchanger K-2724A (South Bay),Static Equipment,L6,2026-06-08,2026-06-18,2.0,nos,equipment:K-2724A,OIL-A3-STA-L6-0323
