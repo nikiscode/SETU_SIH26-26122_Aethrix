@@ -1,4 +1,4 @@
-# SETU — screening demo runbook
+  # SETU — screening demo runbook
 
 Everything below runs on one laptop, offline. Total demo time: ~4 minutes.
 
