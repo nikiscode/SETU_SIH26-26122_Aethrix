@@ -1,3 +1,4 @@
+
 # SETU — Planning-to-Execution Bridge
 
 Smart India Hackathon 2026, problem statement **SIH26-26122** (Intelligent
